@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Once Upon a Time Fact Check</title>
+<meta name="description" content="A fan-made, episode-by-episode fact check of six Once Upon a Time... series by Albert Barillé.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="style.css">
+<body>
+<div class="wrap">
+  <p class="kicker">A fan-made fact check</p>
+  <h1>Once Upon a Time… then and now</h1>
+  <p class="lede big">We love these series. Albert Barillé's <em>Once Upon a Time…</em> cartoons taught a whole generation how the body works, where we came from and who went where first, and they still hold up as some of the best educational television ever made.</p>
+  <p class="lede">They were also made between 1978 and 1996. Science has moved on, history has been rewritten in places, and a few things were simply wrong even then. This site is not a takedown. It is a companion: go ahead and watch the episodes, with your kids or on your own, and come here if you want to know which lines to take with a grain of salt.</p>
+  <div class="tally"><span><b>152</b>episodes checked</span><span class="o"><b>102</b>outdated</span><span class="c"><b>213</b>common beliefs then</span><span class="w"><b>484</b>wrong in their day</span></div>
+  <h2 class="sec">The series</h2>
+  <div class="cards"><a class="card" href="man.html">
+  <span class="card-year">1978</span>
+  <h3>Man</h3>
+  <span class="card-topic">History and archaeology · 26 episodes</span>
+  <span class="card-n"><span class="o">41 outdated</span><span class="c">38 common belief</span><span class="w">95 wrong</span></span>
+</a><a class="card" href="space.html">
+  <span class="card-year">1982</span>
+  <h3>Space</h3>
+  <span class="card-topic">Astronomy and science · 26 episodes</span>
+  <span class="card-n"><span class="o">6 outdated</span><span class="c">10 common belief</span><span class="w">24 wrong</span></span>
+</a><a class="card" href="life.html">
+  <span class="card-year">1987</span>
+  <h3>Life</h3>
+  <span class="card-topic">Medicine and biology · 26 episodes</span>
+  <span class="card-n"><span class="o">17 outdated</span><span class="c">11 common belief</span><span class="w">34 wrong</span></span>
+</a><a class="card" href="americas.html">
+  <span class="card-year">1991</span>
+  <h3>The Americas</h3>
+  <span class="card-topic">The history of the Americas · 25 episodes</span>
+  <span class="card-n"><span class="o">24 outdated</span><span class="c">49 common belief</span><span class="w">130 wrong</span></span>
+</a><a class="card" href="discoverers.html">
+  <span class="card-year">1994</span>
+  <h3>The Discoverers</h3>
+  <span class="card-topic">The history of science · 25 episodes</span>
+  <span class="card-n"><span class="o">4 outdated</span><span class="c">67 common belief</span><span class="w">97 wrong</span></span>
+</a><a class="card" href="explorers.html">
+  <span class="card-year">1996</span>
+  <h3>The Explorers</h3>
+  <span class="card-topic">The history of exploration · 24 episodes</span>
+  <span class="card-n"><span class="o">10 outdated</span><span class="c">38 common belief</span><span class="w">104 wrong</span></span>
+</a></div>
+  <p class="key">The episodes are on the official <a href="https://www.youtube.com/user/onceuponatimechannel">Hello Maestro YouTube channel</a>.</p>
+
+  <h2 class="sec">How to read the checks</h2>
+  <p>Every point quotes the line from the episode, gives a timestamp, and says what we know today. Points come in three kinds, because "it's wrong" means very different things for a cartoon from 1978:</p>
+  <dl class="kinds">
+    <div class="outdated"><dt>Outdated</dt><dd>Matched the science or scholarship of the day; later discoveries changed it. Nobody could have done better at the time.</dd></div>
+    <div class="common"><dt>Common belief then</dt><dd>Specialists already knew better, but encyclopedias, school books and popular books still said it, so a writer would easily have repeated it. Each comes with a note on why it was believed.</dd></div>
+    <div class="wrong"><dt>Wrong in its day</dt><dd>A careful writer could have got it right from ordinary references. Many of these are small slips in a date, a number or a name, and some are probably dubbing or translation errors.</dd></div>
+  </dl>
+  <p>Simplifications made for children ("the heart is a pump") are not counted as errors. They are listed under each episode as "simplified but fine". Each point also carries a confidence level, high or medium.</p>
+
+  <h2 class="sec" id="method">Methodology</h2>
+  <ol class="steps">
+    <li><strong>Sources.</strong> We used the official uploads on the Hello Maestro YouTube channels, in the English dub. Where an episode is only available in the original French, it was checked in French and quoted in French with an English translation. A few episodes could not be found in English or French and are left out; each series page says which.</li>
+    <li><strong>Transcription.</strong> Every episode was transcribed with OpenAI's open-source Whisper speech recognition model (large-v3-turbo, run locally through whisper.cpp with voice activity detection). The result is a timed transcript of the whole episode.</li>
+    <li><strong>Fact-checking.</strong> Each transcript was read in full by an AI model (Anthropic's Claude), a few episodes at a time, with instructions to check every claim the episode presents as fact (dates, names, numbers, how things work, who did what first), to sort each problem into the categories above, to say what is known today, to be conservative, and to treat garbled names or numbers as likely transcription errors rather than the show's fault. The checker used web searches to confirm specific dates, figures and recent findings where needed. For <em>Space</em>, only real science and history were checked, not the science-fiction plot.</li>
+    <li><strong>Quotes and timestamps.</strong> Every quote had to be copied word for word from the transcript, and was then matched back to the subtitle timing to get the minute and second it is said.</li>
+    <li><strong>Review.</strong> We read through the results and corrected problems we found along the way. Examples include mislabelled uploads (an episode that turned out to be a different one) and old British "billions" (a million millions) that had been flagged as wrong when they were right for the time. This was a careful read, not formal peer review.</li>
+  </ol>
+
+  <h2 class="sec">Limitations</h2>
+  <ul class="limits">
+    <li>The checks were produced with AI assistance and spot-checked, not written by historians or scientists. They can contain mistakes, especially points marked medium confidence.</li>
+    <li>Speech recognition mishears names and numbers. Where a quote looks garbled, the show may well have said it correctly.</li>
+    <li>We checked the English dub. Some "wrong" points are probably translation errors that are not in the French original.</li>
+    <li>"Today" means October 2026. Science and history keep moving.</li>
+  </ul>
+  <p>Spotted a mistake? Please <a href="https://github.com/shivan2418/once-upon-a-time-fact-check/issues">open an issue on GitHub</a> with the episode and the point, ideally with a source. The per-episode reports the site is built from are in the repository as plain Markdown.</p>
+  <footer>Not affiliated with Procidis or Hello Maestro. <em>Once Upon a Time…</em> is created by Albert Barillé and produced by Procidis; short quotes are used for commentary and criticism.</footer>
+</div>
