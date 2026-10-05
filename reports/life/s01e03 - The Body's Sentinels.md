@@ -15,18 +15,22 @@ None found.
 - **Quote:** "These are bacteria. ... They cause chickenpox, diphtheria, meningitis, and many other illnesses."
   **Correct today:** A virus (varicella-zoster) causes chickenpox, not a bacterium. This was known well before 1987. Diphtheria is bacterial. Meningitis can be caused by either bacteria or viruses.
   **Confidence:** High
+  **Severity:** major
 
 - **Quote:** "Thymus, the school for white cells."
   **Correct today:** Only T lymphocytes are trained in the thymus. B cells mature in the bone marrow, and neutrophils (the "polynuclears") and macrophages never go to the thymus. The episode shows all these cell types as pupils in the same school.
   **Confidence:** Medium
+  **Severity:** minor
 
 - **Quote:** "Those are basophiles. They fight allergies."
   **Correct today:** Basophils cause allergic symptoms rather than fight them. They release histamine, which drives allergic reactions.
   **Confidence:** Medium
+  **Severity:** major
 
 - **Quote:** "every day 15,000 million white corpuscles come into the world"
   **Correct today:** The bone marrow makes about 50 to 100 billion neutrophils a day, plus the other white cells. That is several times more than 15 billion, and estimates from the 1970s already showed this.
   **Confidence:** Medium
+  **Severity:** minor
 
 ## Simplified but fine
 

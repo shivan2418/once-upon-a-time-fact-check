@@ -5,33 +5,41 @@ The episode follows the young United States from about 1790 to 1850. It covers D
 - **Quote:** "Louisiana was purchased for 11 million dollars and was well worth it."
   **Today:** France was paid 60 million francs (about $11.25 million), and the US also took on about $3.75 million of its citizens' claims against France, so the total was about $15 million. More importantly, the US bought France's imperial claim, not land empty of owners. Robert Lee ("Accounting for Conquest", *Journal of American History*, 2017) calculated that the United States later spent at least $2.6 billion (nominal) on 222 land cessions from Native nations within the territory. The "bargain" framing of the purchase price looks very different now.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "White man has to understand. Massacring animals is wrong way. Animals belong to all people, like the sky and the clouds and the wind on the prairie."
   **Today:** The Shawnee who caught Boone and John Stewart in December 1769 (led by "Captain Will") took their skins and told them to leave because Kentucky was Shawnee and Cherokee hunting ground. It was a claim of territory, not a belief that animals belonged to everyone. The Shawnee were themselves deeply involved in the commercial deerskin trade. The words echo the invented "Chief Seattle" speech, which was largely written by Ted Perry in 1971. Shepard Krech's *The Ecological Indian* (1999) brought wide criticism of the "ecological Indian" stereotype.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "It's held out for 1,500 Mexicans paid with their lives at the Alamo."
   **Today:** Most Alamo historians put Mexican losses at about 400–600 killed **and wounded** in all, with perhaps 60–200 dead. Santa Anna reported 70 killed and 300 wounded. The figure of 1,500 or more dead comes from early Texan claims.
   **Why it was believed:** Inflated Texan casualty figures from 1836 were repeated in Alamo legend, in school texts and in films such as Disney's *Davy Crockett* (1955) and John Wayne's *The Alamo* (1960).
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Population soared because new immigrants came in every day."
   **Today:** Between 1800 and about 1830, US population growth came overwhelmingly from natural increase: very high birth rates. Immigration was low during the Napoleonic Wars and averaged only around 10,000 a year until the 1820s. Mass immigration began in the 1830s and 1840s.
   **Why it was believed:** The "nation of immigrants" story projected the later mass migrations (Irish and German in the 1840s and 1850s) back onto the early republic.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1991)
 - **Quote:** "Baltimore, Boston, Charleston with just a few thousand."
   **Today:** The 1790 census counted Boston at about 18,300, Charleston at about 16,400 and Baltimore at about 13,500. These were substantial towns, not places of "a few thousand". (The show's New York figure of 33,000 matches the 1790 census, and 46,000 is roughly right for Philadelphia with its suburbs.)
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Mexico, Utah, California joined the Union."
   **Today:** Only California became a state in 1850. New Mexico and Utah were organised as **territories** in the Compromise of 1850. Utah became a state in 1896 and New Mexico in 1912.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Only one region remained unexplored, the Oregon Territory."
   **Today:** Oregon was hardly unexplored. Lewis and Clark had reached it in 1805. The fur post at Astoria was founded in 1811, and the Hudson's Bay Company ran Fort Vancouver from 1825. Its Native peoples (Chinook, Kalapuya, Cayuse, Nez Perce and others) had of course always known it. The episode's order is also wrong: large-scale emigration on the Oregon Trail began in 1843, **before** the Mexican War (1846–48). Britain and the US jointly occupied Oregon until the Oregon Treaty of 1846.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "If you want Fort Almond, take it."
   **Today:** "Fort Almond" is a mishearing of the Alamo. The "come and take it" defiance belongs to the Battle of Gonzales (October 1835), where the slogan was on the Texans' cannon flag. At the Alamo, Travis's famous letter ended "Victory or Death", and Santa Anna offered no terms.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - US population of about 5 million at the end of the 18th century: the 1800 census counted 5.3 million.

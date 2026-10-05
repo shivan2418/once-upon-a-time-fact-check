@@ -9,30 +9,38 @@ None found.
   **Today:** Polo's book claims the Polos built the siege engines that took "Saianfu", which is Xiangyang (misheard "Shang-Fu"). The siege ended in early 1273, about two years before the Polos reached China. Chinese and Persian sources (Rashid al-Din, the *Yuan Shi*) credit two Muslim engineers sent by the Ilkhan Abaqa, Ismail and Ala al-Din.
   **Why it was believed:** The story comes from Polo's own text. Henry Yule had already shown the problem with the dates in 1871, but retellings kept the heroic version.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Près de l'île de Curzola, sur un bateau véhicule." [Near the island of Curzola, on a ... ship.]
   **Today:** Polo's capture at the battle of Curzola (1298) comes from Ramusio's edition (1559), nearly 250 years later. Polo's book only says he was a prisoner in Genoa in 1298. Many historians think he was taken in a smaller clash, perhaps off Laiazzo (Ayas) in 1296.
   **Why it was believed:** Ramusio's account was the standard biography and Curzola made a better story.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "Et si le pape veut bien m'envoyer six hommes sages de votre foi chrétienne," [And if the pope will send me six wise men of your Christian faith,]
   **Today:** In Polo's text Kublai asks for "up to a hundred" (*jusqu'à cent*) learned Christians skilled in the seven arts. The episode lowers the number to six and builds the bargaining scene with the pope around it. The pope did in fact send only two friars, Nicholas of Vicenza and William of Tripoli, and they turned back in Armenia for fear of Baybars' Mamluk invasion. The episode gets that part right.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "quand ils l'ont quitté voilà deux ans." [when they left him two years ago.]
   **Today:** Niccolò and Maffeo left Kublai around 1266, reached Acre in 1269, and set out again in 1271 after the long papal vacancy, so they had left him about five years earlier. (It was the stay in Venice that lasted about two years.)
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "En 1220, c'est la guerre contre le Khorasan qui a fait offense aux Mongols et refuse réparation." [In 1220 came the war against Khorasan, which had offended the Mongols and refused reparation.]
   **Today:** The enemy was the Khwarazmian empire of Shah Muhammad II. Khorasan was one of its provinces. The offence was the massacre of a Mongol caravan at Otrar in 1218 and the killing of Genghis' envoy, and the war began in 1219.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "le Tibet en 1209" [Tibet in 1209]
   **Today:** The 1209 campaign was against the Tangut kingdom of Western Xia, not Tibet. Tibet came under Mongol control only in 1240.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "et eu treize bateaux pour les mener à bon port." [and thirteen ships to bring them safely to port.]
   **Today:** Polo says Kublai fitted out **fourteen** four-masted ships for the voyage escorting the princess Kököchin to the Ilkhan Arghun (1291–93).
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Et à Angcheu, la capitale qu'il traverse, on peut admirer douze mille ponts de pierre," [And at Angcheu, the capital it flows through, you can admire twelve thousand stone bridges,]
   **Today:** Polo's "12,000 bridges" belongs to Quinsai (Hangzhou), the old Song capital, which stands on West Lake and the Grand Canal, not on the Yangtze. The episode joins his separate Yangtze passage ("the greatest river in the world", with its huge traffic of boats) to Hangzhou.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - "1990" at the start is almost certainly a mishearing of 1190 (the Third Crusade era), and "Mme Kahn en 1200" a mishearing of the 1206 proclamation.

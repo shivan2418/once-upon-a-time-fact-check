@@ -9,25 +9,31 @@ None found.
   **Today:** "Sleeping land" (from a supposed Tatar *sib ir*) is a folk etymology. The name comes from *Sibir*, the capital and name of the Tatar Khanate of Sibir that Yermak conquered in 1582. Where that name came from is uncertain: proposals include an ethnonym (the Sabir people) or a Mongolic word for marsh or forest.
   **Why it was believed:** The "sleeping land" gloss was repeated in travel books and popular encyclopedias because it sounds poetic.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "We reached the Arctic Ocean and proved that Siberia is not connected to America."
   **Today:** In August 1728 the St Gabriel reached 67°18′N in the Chukchi Sea and turned back. Bering never saw America and could not rule out a land link further north or west, so in St Petersburg the result was judged inconclusive. The cossack Semyon Dezhnev had already sailed around the Chukchi Peninsula through the strait in 1648. His report was found in the Yakutsk archives by Gerhard Müller in 1736, during Bering's own second expedition, and historians knew of it long before 1996.
   **Why it was believed:** Bering's name on the strait led popular accounts to treat him as the man who proved the two continents were separate.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "And so, George Steeler was the first European to set foot in Alaska."
   **Today:** Steller landed on Kayak Island on 20 July 1741. Two days earlier, on 18 July, Chirikov's St Paul had sent two boats ashore in southeast Alaska. Their 15 men were never seen again, so they almost certainly landed first, though nobody knows what happened to them. Chirikov had also sighted America on 15 July, a day before Bering. Gvozdev and Fedorov had sighted the Alaskan mainland near Cape Prince of Wales in 1732 without landing. Alaska Natives had of course lived there for millennia.
   **Why it was believed:** Steller's journal was published and became famous, while Chirikov's lost boats left no account. Steller is often described as the first European scientist or naturalist in Alaska, and popular retellings shortened that to "first European".
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "They did what Peter the Great asked them to do before his death and I will pass it on to his successor, Empress Anna."
   **Today:** Peter died in February 1725, just after the expedition set out. He was succeeded by Catherine I (1725–27) and Peter II (1727–30). Bering came back to St Petersburg in March 1730, just after Anna took the throne, so Anna was not Peter's direct successor.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "I've been chasing you for four years."
   **Today:** Steller left St Petersburg in January 1738 and caught up with Bering at Okhotsk in March 1740, about two years later. Bering then recruited him in Kamchatka in early 1741 to sail as naturalist and, in practice, physician. The show stages the meeting as a last-minute chase to the departing ships.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "And three years after his departure he reached Yakutas."
   **Today:** The expedition left St Petersburg in early 1733 and Bering reached Yakutsk in late 1734, about a year and a half later. It was the slower academic contingent that only got there in September 1736. ("Yakutas" is a mishearing of Yakutsk.)
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - The opening line that "man has lived in Siberia for tens of thousands of years" and the teacher's challenge to "Discovered" are more careful than the usual "Bering discovered Alaska" framing of the 1990s.

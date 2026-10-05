@@ -9,20 +9,25 @@ None found.
   **Today:** This is Marco Polo's own claim that the Polos built siege engines for the siege of Saianfu (Xiangyang). That siege ended in 1273, about two years before the Polos reached Kublai's court (c. 1275). Persian and Chinese sources (Rashid al-Din, the *Yuan Shi*) credit two engineers from the Ilkhanate, Ismail and Ala al-Din, with the counterweight trebuchets. "Chang Fu" is probably a mishearing of Saianfu.
   **Why it was believed:** Polo's book tells the story at length, and popular retellings repeated it. Specialists had flagged the date problem since Henry Yule's edition (1871).
   **Confidence:** high
+  **Severity:** minor
 
 ## Wrong (even in 1978)
 - **Quote:** "He claimed Khan in 1200."
   **Today:** Temüjin was proclaimed Genghis Khan at the kurultai of **1206**. (An earlier election as khan of his own Mongol following is usually placed around 1189, not 1200.) "1200" may be a mishearing of "1206".
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "In 1209, Tibet."
   **Today:** The 1209 campaign was against **Western Xia** (the Tangut state in north-west China), which submitted that year. Tibet first submitted to the Mongols around 1240–47, under Genghis's successors.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "And if the Pope consents to send me six wise men of the Christian faith, knowledgeable in the seven arts..." (and the haggling scene that follows)
   **Today:** In Polo's text Kublai asks for **a hundred** learned Christians versed in the seven arts. Only two friars, Nicholas of Vicenza and William of Tripoli, were sent, and they turned back early, as the episode shows. The French "cent" (hundred) may have become "six" somewhere along the way, but the haggling joke uses six.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "and 13 ships to take them safely home."
   **Today:** Polo says Kublai fitted out **fourteen** four-masted ships for the voyage. Minor slip.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - "1190", with the West crusading (Third Crusade) while the Mongols rose; Temüjin's rise from a small band. In 1190 the Mongols had not yet left Mongolia; their conquests began after 1206.

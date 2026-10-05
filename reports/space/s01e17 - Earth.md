@@ -5,6 +5,7 @@ Pierrot, Psyche and Metro take a holiday on a future Earth ringed by solar mirro
 - **Quote:** "As early as the year 2000, there were 400 objects in the sky,"
   **Today:** Given as a prediction for 2000, and much too low. In 1982 the US already tracked about 5,000 objects in Earth orbit. By 2000 the figure was about 9,000, with several hundred to about a thousand near geostationary altitude alone. Today more than 30,000 are tracked. If the line meant only working geostationary satellites, about 300 by 2000, it was closer.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 None found.

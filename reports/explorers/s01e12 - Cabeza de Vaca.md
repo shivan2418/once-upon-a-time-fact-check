@@ -9,17 +9,21 @@ None found.
   **Today:** Cabeza de Vaca was governor of Río de la Plata from 1540. In 1544 he was overthrown by colonists under Domingo de Irala and sent to Spain in chains. In 1551 the Council of the Indies stripped him of office and banished him to Oran, but the sentence was later eased. He lived in Seville and died around 1559, apparently with some royal support. He was not imprisoned for the rest of his life. His protection of the Guaraní did anger the colonists, but the formal charges were abuse of power.
   **Why it was believed:** His own *Comentarios* (1555) cast him as a wronged protector of the Indians, and popular biographies followed that account.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "And then, I remind you that I am the one in charge."
   **Today:** The episode shows Narváez on land with the castaways after a month with a friendly people, planning to enslave them. Narváez was never with the survivors on Malhado (Galveston area). In November 1528, off the Texas coast, he refused to help the other boats ("every man for himself") and was later swept out to sea and lost.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "He discovered and described with passion the most unknown regions ranging from Florida to California and Mexico."
   **Today:** The survivors never reached California. Their route ran along the Gulf coast, across Texas and through northern Mexico (Chihuahua and Sonora) to Culiacán in Sinaloa, near the Gulf of California.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "It took Cabesa and his companions six years to cross"
   **Today:** The journey took eight years, from the April 1528 landing in Florida to April 1536, when they met Spaniards in Sinaloa. Most of that time (1528–34) they were held or working as traders along the Texas coast. The actual crossing of the continent took about two years, from 1534 to 1536.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - In 1527–28, about 15 years after Ponce de León (1513), Narváez landed near Tampa Bay. Cabeza de Vaca was his treasurer and provost. Cortés had beaten Narváez at Cempoala in 1520, where he lost an eye.

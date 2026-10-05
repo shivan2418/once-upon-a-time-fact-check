@@ -7,6 +7,7 @@ Hundreds of millions of sperm set out, and only a few reach the egg. The fertili
 - **Quote:** "There are 200 different kinds of you"
   **Correct today:** "About 200 cell types" was the standard textbook number. Since the 2010s, single-cell studies such as the Human Cell Atlas have found several hundred main types and thousands of subtypes. The real number depends on how finely you split them.
   **Confidence:** Medium
+  **Severity:** minor
 
 ## Common belief at the time
 

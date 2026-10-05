@@ -11,15 +11,19 @@ None found.
 - **Quote:** "since the year 1765 joseph the oldest of 16 of the empress's children was heir to the throne one of his daughters the austrian marie antoinette was to come to a tragic end on the throne of France."
   **Today:** Marie Antoinette was Joseph II's younger **sister**, a daughter of Maria Theresa. Joseph had no surviving children. He was Maria Theresa's eldest son but her fourth child, and in 1765 he became Emperor and co-regent; he had been heir since birth. "His daughters" is probably a dub slip for "her daughters".
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "the Swiss Euler creates integral calculus."
   **Today:** Integral calculus was created by Newton and Leibniz in the later 17th century. Euler greatly extended and systematised it, for example in his *Institutiones calculi integralis* (1768–70). This may be a translation slip for "develops".
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "The wealthy landowners were heavily taxed."
   **Today:** Catherine II favoured the landed nobility. Nobles were exempt from the poll tax, and her Charter to the Nobility (1785) confirmed their freedom from personal taxes and service. The tax burden fell mainly on peasants and townspeople.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "To fight against the miserable condition of the proletariat, the first trade unions were formed as far back as 1776. There were the first strikes."
   **Today:** Neither unions nor strikes began in 1776. British journeymen's "combinations" are recorded from the late 1600s and early 1700s (for example, the London tailors in 1720, which prompted an Act against them in 1721), and strikes go back much further. Sidney and Beatrice Webb's *History of Trade Unionism* (1894) already traced unions to the early 18th century.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Montesquieu, following Locke, arguing for a separation of powers; Diderot favouring science; Buffon putting the Earth's age far beyond 6,000 years; the *Encyclopédie* (first volume 1751) being condemned.

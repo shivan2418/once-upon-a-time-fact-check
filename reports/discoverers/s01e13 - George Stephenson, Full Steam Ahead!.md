@@ -9,18 +9,22 @@ None found.
   **Today:** Cugnot's steam *fardier* (1769–71), built to haul artillery, is real. The story that it ran out of control and knocked down a wall of the Paris Arsenal is not in contemporary records. It first appears decades later, and historians treat it as a legend.
   **Why it was believed:** The "first car, first car crash" anecdote has been repeated in French popular histories and motoring books since the 19th century.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "My opinion, it should be a new design, a boiler with pipes."
   **Today:** The multi-tubular boiler that made Rocket (1829) work was suggested by Henry Booth, treasurer of the Liverpool and Manchester Railway. Marc Seguin had already patented a fire-tube boiler in France in 1827–28. Rocket itself was designed and built mainly by Robert Stephenson at the Newcastle works. George was the railway's engineer, but he was not the lone inventor of the boiler.
   **Why it was believed:** Samuel Smiles's *Lives of the Engineers* (1857–62) made George Stephenson the single "Father of Railways", and popular books followed him. To its credit, the show does give Robert a real role in running the workshop.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "And so it was, children, that that was all that Denis Papin left us, the pressure cooker, but things would change."
   **Today:** Papin's steam digester (1679), the forerunner of the pressure cooker, came *before* his engine work, not after it, and he invented the safety valve for it. In 1690 he described the first steam cylinder with a piston, worked by condensing steam, which is the principle Newcomen's engine later used. He also built a paddle boat (1707). So the pressure cooker was far from all he left, and the French show undersells its own inventor.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "It's not a toy, it's a scale model of the very first locomotive on rails."
   **Today:** William Murdoch's model of about 1784 was a steam *road* carriage, not a rail locomotive. The first locomotive to run on rails was Richard Trevithick's, at Penydarren in 1804. Murdoch was also a Scot from Ayrshire, not an Englishman, though "Fire the Englishman" may be a transcription error.
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - Steam power being "barely two centuries" old is about right if you count from Watt (1760s–1780s). Newcomen's engine dates from 1712.

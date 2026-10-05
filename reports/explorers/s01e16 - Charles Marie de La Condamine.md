@@ -9,20 +9,25 @@ None found.
   **Today:** The Amazon was not unknown. Orellana went down it in 1541–42 and Pedro Teixeira went up and back in 1637–39 (Acuña published an account in 1641). Jesuit missionaries such as Samuel Fritz had mapped it, and the episode itself mentions Orellana and Fritz. Many Indigenous peoples lived there. La Condamine's real contribution was the first scientific account and map, with measured positions, written for European science.
   **Why it was believed:** Popular accounts often described Europe's scientific "discovery" as revealing a land nobody knew.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "a most timely gesture: 100,000 pounds sterling."
   **Today:** La Condamine is said to have spent about 100,000 *livres* of his own money on the expedition. The livre was a French currency, so "pounds sterling" is a dubbing error: *livres* means "pounds", but not British money.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Monsieur Couplet, clockmaker and mechanic"
   **Today:** The instrument-maker and clockmaker was Théodore Hugot. Couplet (Couplet-Viguier) was a young assistant, the nephew of an academician, who died of fever soon after arriving in 1736. "Captain Vergard" is probably Jean-Joseph Verguin, a naval engineer and draftsman.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "About 50 years ago, the survivors founded the village on this river, the Esmeralda."
   **Today:** The free Afro-Indigenous communities of Esmeraldas began with a slave ship wrecked in 1553, led by Alonso de Illescas. That was about 180 years before La Condamine came in 1736, not 50.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "His nephew, Pedro Maldonado, will go too."
   **Today:** Pedro Vicente Maldonado was a scientist and official born in Riobamba. He was not the nephew of the Jesuit Samuel Fritz, who was Bohemian. He did go down the Amazon in 1743, meeting La Condamine on the way, and later went to Europe, where he died in London in 1748.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - "Like great English style, they're much flatter around the poles, more like a potato!" and "But the French astronomer, Cassini, believed the contrary.": Newton's oblate Earth against the Cassinis' prolate one is accurate, and Voltaire did back Newton.

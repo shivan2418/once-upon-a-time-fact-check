@@ -11,9 +11,11 @@ None found.
 - **Quote:** "Nersi, small planet on the outer edge of spherical star cluster M13 in the constellation of Hercules. Cluster comprises 300,000 stars and has a diameter of 23 minutes of arc or 25,000 light years."
   **Today:** About 23 arcminutes is right for M13's apparent size, but its real diameter is only about 150–170 light years. About 25,000 light years is roughly its *distance* from us (current estimate about 22,000–25,000 ly), so the script has mixed up distance and diameter. The star count of a few hundred thousand is fine.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Plato spoke about an alien civilization brought to Earth people by gods from outer space."
   **Today:** Plato's *Timaeus* and *Critias* tell of Atlantis, founded by the sea god Poseidon. Nothing in them involves outer space or aliens. Reading Plato this way comes from 1960s–70s "ancient astronaut" books (von Däniken and others), not from the texts.
   **Confidence:** high
+  **Severity:** major
 
 ## Simplified but fine
 - M101 "in the constellation of the Great Bear ... 23,377,400 light years": the right constellation, and the distance matches the 1970s Sandage–Tammann value (7.2 Mpc). Modern values are about 21–22.5 million ly. The 8-digit precision is fake.

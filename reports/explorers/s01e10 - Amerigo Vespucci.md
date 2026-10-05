@@ -9,28 +9,35 @@ None found.
   **Today:** Simonetta Cattaneo, who married Amerigo's cousin Marco Vespucci, died in 1476. Botticelli painted *The Birth of Venus* around 1484–86, years after her death. Nothing from the period shows she ever sat for him, and art historians treat "Simonetta as Venus" as a legend.
   **Why it was believed:** 19th-century writers and the Pre-Raphaelites made Simonetta into Botticelli's muse, and popular books and guides repeated it.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "He will draw up plans to define precise latitudes and longitudes."
   **Today:** Vespucci did take good latitudes. Nobody could measure longitude precisely at sea until the 18th century. In 1499 he claimed to have worked out his longitude from a conjunction of the Moon and Mars. The method was sound in principle, but his reported figures are muddled and could not have been accurate.
   **Why it was believed:** Older biographies hailed Vespucci's lunar observation as an early solution to the longitude problem.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "In 1501, Vespi, this time alone without Alonso Retta, is at the head of three"
   **Today:** The 1501–02 Portuguese voyage of three ships was probably commanded by a Portuguese captain (often named as Gonçalo Coelho, though the record is unclear). Vespucci sailed as a pilot and cosmographer. His own letters never say he was in command.
   **Why it was believed:** Vespucci's printed letters put him at the centre of the story, and popular accounts made him the leader.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "corn, peanuts, sunflowers, manioc, cotton, pepper, pineapple, chocolate."
   **Today:** Cotton was not new to Europe. Old World cottons had been grown in India and Egypt since ancient times, and in Moorish Spain and Sicily in the Middle Ages. The American cotton species only became dominant later. "Pepper" is right only if it means chili peppers (*Capsicum*). Black pepper was the most famous Asian spice. The rest of the list is correct.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "He's at the mouth of the Amazon."
   **Today:** The narrator puts Vespucci "near the Orinoco" and "at the mouth of the Amazon" in the same breath. The two river mouths are about 1,500 km apart. In 1499 Vespucci's ships said they reached the coast of Brazil near the Amazon and then sailed north-west past the Orinoco to Paria and Venezuela. Historians question even this claim. Vicente Yáñez Pinzón is usually credited with the Amazon, in early 1500. The stilt village that gave Venezuela ("little Venice") its name was on the Gulf of Maracaibo, far west of the Orinoco.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "The young Maievil, he too, made a name for himself through politics."
   **Today:** Niccolò Machiavelli was born in 1469 and took his first government post in 1498. When Vespucci (born 1454) was "going to be 30", Machiavelli was a teenager with no public role. The line about Pico della Mirandola ("Pictola Miranda"), about nine years younger than Vespucci and already famous, is fine.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Everyone now knows that you can get to Asia by going around Africa,"
   **Today:** Toscanelli died in 1482. Bartolomeu Dias only rounded the Cape of Good Hope in 1488, and Vasco da Gama reached India in 1498. Ptolemy's maps, which scholars still used, showed the Indian Ocean as a closed sea. In Toscanelli's lifetime the route around Africa was a Portuguese hope, not something everyone knew.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Vespucci was a Florentine notary's son, taught by his uncle Giorgio Antonio Vespucci. Leonardo trained in Verrocchio's workshop (misheard "Velocchio").

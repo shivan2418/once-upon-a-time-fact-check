@@ -15,6 +15,7 @@ None found.
 - **Quote:** "Those are the antibodies of an antibiotic, a medicine made to fight microbes."
   **Correct today:** Antibiotics are drugs that kill bacteria or stop them from growing. They contain no antibodies. Antibodies are proteins made by the immune system, and here they came from the anti-tetanus serum. The episode mixes up the two words. (likely a translation/dubbing slip)
   **Confidence:** Medium (it may be a dubbing slip, but it is stated as fact)
+  **Severity:** minor
 
 ## Simplified but fine
 

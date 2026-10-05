@@ -11,6 +11,7 @@ None found.
 - **Quote:** "But consider, it wasn't so very long ago, a few hundred million years on Earth, the creatures didn't look much like you either. I recall to you the Splendous Clutosaurus and the Demetrodon and the Cignathosaurus. Very nice in its way. And there is also the Moa and the Tyrannosaurus."
   **Today:** Dimetrodon (about 295–272 million years ago), Cynognathus (about 245–235 million years ago) and Tyrannosaurus (about 68–66 million years ago) fit the "hundreds of millions of years" idea, but the moa does not. It was a giant flightless bird in New Zealand, hunted to extinction by the Māori about 600 years ago (around 1400 AD). "Splendous Clutosaurus" is unidentifiable (a speech-recognition garble).
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - "Mammals of the plasticine [Pleistocene] era": a reasonable label for Ice Age-looking mammals.

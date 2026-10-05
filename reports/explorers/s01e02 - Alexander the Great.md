@@ -9,20 +9,25 @@ None found.
   **Today:** "A million men" comes from ancient writers: Herodotus on Xerxes, and Arrian on Gaugamela. Modern historians estimate the largest Persian field armies of Alexander's time at roughly 50,000–120,000. The episode repeats the figure later ("He said he has a million soldiers"). The river-drinking story is Herodotus' and is fairly framed with "it was said".
   **Why it was believed:** Popular retellings followed the ancient numbers, even though scholars had long rejected them.
   **Confidence:** medium
+  **Severity:** major
 
 ## Wrong (even in 1996)
 - **Quote:** "It extended right to India, China, Russia, all the way to Egypt."
   **Today:** The Achaemenid empire reached the Indus, Central Asia (Sogdiana) and Egypt. It never bordered or included China, and apart from a foothold north of the Caucasus it did not reach what is now Russia. The list of modern countries that follows (Afghanistan, Pakistan, Iran, Iraq, Syria, Israel, Lebanon, Turkey) is correct.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Ptolemy, you will take the right."
   **Today:** At the Granicus (334 BC), and in all his major battles, Alexander led the Companion cavalry on the **right** wing himself, and Parmenio held the left. Ptolemy, son of Lagus, was not yet a senior commander. The sun-in-their-eyes reasoning is invented. The real story is that Parmenio advised waiting until dawn and Alexander attacked across the river at once, late in the day.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "gaza was another hard nut to crack greek fire it was a novelty"
   **Today:** "Greek fire" was invented about 1,000 years later, around AD 672, by the Byzantines (traditionally by Kallinikos). The defenders of Tyre in 332 BC did use fire ships and heated sand, but not Greek fire.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "And the faithful Parmenio will take the last enemy stronghold on the way to the fabulous Persepolis."
   **Today:** The last obstacle before Persepolis was the Persian Gates, held by Ariobarzanes. Alexander took the pass himself in early 330 BC by outflanking it on a mountain path. Parmenio led the baggage and heavy troops by the slower main road.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Bucephalus ("Cephalus") was afraid of his own shadow. This is Plutarch's anecdote.

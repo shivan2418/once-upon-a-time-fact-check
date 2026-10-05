@@ -7,6 +7,7 @@ The episode opens with the history of how blood circulation was discovered, then
 - **Quote:** "You must cut out all tobacco, all alcohol, all salt, all fats, everything. A very strict diet"
   **Correct today:** Stopping smoking is still the top priority. But guidelines no longer tell heart patients to cut out all fat. They advise replacing saturated fat with healthy unsaturated fats such as olive oil, nuts and fish (the PREDIMED trial in 2013; the US dietary guidelines dropped their limit on total fat in 2015). Salt should be reduced, not eliminated.
   **Confidence:** Medium-high
+  **Severity:** minor
 
 ## Common belief at the time
 
@@ -14,16 +15,19 @@ The episode opens with the history of how blood circulation was discovered, then
   **Correct today:** Vesalius's 1543 anatomy book did not describe blood circulation. The story that he was sentenced to death by the Inquisition and saved by Philip II is a legend with no reliable evidence behind it.
   **Why it was believed:** The tale of a death sentence commuted by Philip II goes back to late-16th-century rumours and was retold as fact in popular histories of medicine, which cast Vesalius as a martyr of anatomy.
   **Confidence:** High
+  **Severity:** major
 
 - **Quote:** "Ten years later, Michel Servette, a Spaniard, dared to speak of the circulatory system. But he had no king to protect him, so he died at the stake."
   **Correct today:** Servetus did describe blood passing through the lungs (in 1553), and he was burned at the stake in Geneva that year. He was executed for his religious views (he denied the Trinity), not for his ideas about blood. Ibn al-Nafis had described the same lung circulation around 1242.
   **Why it was believed:** Popular histories of science told Servetus's execution as martyrdom for scientific truth, because his account of blood passing through the lungs appeared in the same theological book (*Christianismi Restitutio*, 1553) for which he was burned.
   **Confidence:** Medium-high
+  **Severity:** major
 
 - **Quote:** "Obviously, when the fats built up, the passageways became completely blocked. ... That's what a thrombosis is."
   **Correct today:** A thrombosis is a blood clot, not a fatty blockage. Most heart attacks happen when a fatty plaque in the artery wall cracks and a clot forms on it suddenly (shown in the early 1980s by Falk and by Davies and Thomas). It is not usually fat slowly filling the artery until it closes.
   **Why it was believed:** The "clogged pipe" picture, with fatty deposits slowly narrowing an artery until it closes, was how 1980s textbooks and health campaigns explained heart attacks; the role of plaque rupture and clotting was only being established in specialist journals in the early 1980s.
   **Confidence:** Medium-high
+  **Severity:** minor
 
 ## Wrong (even in 1987)
 

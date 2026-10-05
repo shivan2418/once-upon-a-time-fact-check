@@ -9,21 +9,26 @@ None found.
   **Today:** Kos already had a medical tradition (the Asclepiad families) before Hippocrates. He did not found it. Its famous Asklepieion sanctuary was built mostly after his death, and Greece had no hospitals in the modern sense. The roughly 60 treatises of the "Hippocratic Corpus" were written by many authors over about a century. It is uncertain which, if any, Hippocrates wrote himself.
   **Why it was believed:** Hippocrates as the founder of everything is a tradition going back to antiquity, and textbooks repeated it.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Right down to our own day, 25 centuries later, all doctors take the Hippocratic Oath."
   **Today:** The Oath probably does not come from Hippocrates himself (Ludwig Edelstein argued for a later, Pythagorean-influenced origin in 1943). Swearing an oath at graduation became widespread only in the 20th century. Most doctors take modern versions such as the 1948 Declaration of Geneva, and many do not swear the original at all. The original bans surgery, abortion and euthanasia and swears by Apollo.
   **Why it was believed:** "All doctors take the Hippocratic Oath" was, and is, a common saying.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "Not necessary. I know what you have and what you need to get well."
   **Today:** Galen's own account (*On Prognosis*) says the opposite. The court doctors thought Marcus Aurelius had a fever. Galen took his pulse, found it normal, and diagnosed an upset stomach from that. The rest of the scene follows Galen closely: peppered wine is what he would give an ordinary man, he put a warm wool compress (with spikenard) on the emperor's stomach, and the emperor took the peppered wine anyway.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "In his studies, he discovered the nervous system and the brain, which he thought was the seat of the soul."
   **Today:** Herophilus and Erasistratus in Alexandria (3rd century BCE) had already described the nerves and the brain's role. Galen's achievement was to prove by animal experiments (cutting the recurrent laryngeal nerve and the spinal cord) that the brain, not the heart, controls voice and movement. His view of the liver as the organ that makes blood is described correctly.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "A million pilgrims on their way to Rome were to die."
   **Today:** No source supports a million pilgrim deaths. Chroniclers boasted that over a million pilgrims *attended* the 1350 Jubilee (an exaggeration), and the plague had largely passed by then. Deaths from the whole Black Death (1347–51) are estimated at a third to a half of Europe's population, about 25–50 million.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Prehistoric trepanation is real, and healed skulls show that many patients survived. Acupuncture in China, astrology in Babylonian medicine and priest-physicians in Egypt (alongside practical physicians, as the Edwin Smith papyrus shows) are fair one-liners.

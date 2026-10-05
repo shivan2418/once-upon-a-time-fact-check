@@ -9,21 +9,26 @@ None found.
   **Today:** The famous "La République n'a pas besoin de savants" is not in any record of the trial. It first appears years later and is usually given to the tribunal's president, Coffinhal, not to Fouquier-Tinville. Denis Duveen (1954) and later historians traced it to legend. Lavoisier was condemned, with 27 other tax farmers including his father-in-law, on charges about the Ferme générale, not for being a scientist.
   **Why it was believed:** The line is repeated in almost every popular account of Lavoisier's death.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Nothing is destroyed, nothing is created, only transformed."
   **Today:** The slogan is a later paraphrase. Lavoisier wrote in the *Traité élémentaire de chimie* (1789) that nothing is created in operations of art or nature, and that the amount of matter is the same before and after. The idea of conservation was also much older (ancient Greeks; Lomonosov, 1748–56). It also does not follow from the 1768–69 water experiment as the episode suggests; that showed the "earth" came from the glass.
   **Why it was believed:** "Rien ne se perd, rien ne se crée, tout se transforme" is taught in French schools as Lavoisier's own words.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "Gentlemen, whenever we heat calcinate of mercury, we obtain a quite special gas. Which we call oxygen."
   **Today:** Priestley (1774) called the gas "dephlogisticated air" and defended phlogiston until his death in 1804. Lavoisier coined "oxygène" (1777). Carl Wilhelm Scheele had isolated the gas first ("fire air", about 1771–72), and the episode omits him. Priestley's account in Paris in October 1774 was given at a dinner with Lavoisier, not at the Academy.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Air is composed of at least three different gases."
   **Today:** Lavoisier's air was oxygen ("vital air") and nitrogen (his "azote"). Hydrogen is not a component of air in any real amount. The episode adds it to the list. (Argon, about 1% of air, was found in 1894.)
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Your potassium chlorate might replace the saltpeter that we're lacking."
   **Today:** Potassium chlorate was Claude-Louis Berthollet's discovery (1786–87), not Lavoisier's. Lavoisier ran the Gunpowder Administration from 1775 and mainly improved saltpetre production. The 1788 trial of chlorate powder at the Essonnes mill exploded and killed two people while Lavoisier and his wife were nearby.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Democritus taught atoms of many shapes, not "one element". The four elements come from Empedocles and Aristotle.

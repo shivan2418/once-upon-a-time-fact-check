@@ -9,24 +9,30 @@ None found.
   **Today:** The "unknown pilot" (*prenauta*) who reached the Caribbean by storm and told Columbus before dying is a legend. Oviedo first reported it in 1535 as an unfounded rumour, and Garcilaso de la Vega gave the pilot the name Alonso Sánchez de Huelva in 1609. No contemporary evidence supports it, and most historians reject it. The show presents it as fact.
   **Why it was believed:** Juan Manzano Manzano's *Colón y su secreto* (1976/1989) revived the story in Spain, and it fitted the long-standing wish to explain Columbus's confidence.
   **Confidence:** medium
+  **Severity:** major
 - **Quote:** "inquisition they are conversos jews promised to the fire"
   **Today:** The royal offer of pardon to criminals who signed on (April 1492) was taken up by only **four** men: Bartolomé de Torres, convicted of homicide, and three friends who had helped him escape. They were not Inquisition prisoners, and the show's "they're all cutthroats and thieves" is wrong. Most of the crew of about 90 were experienced sailors from Palos, Moguer and Huelva, recruited largely through the Pinzóns, as the episode itself shows.
   **Why it was believed:** "Columbus sailed with a crew of convicts" was a staple of popular accounts.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "I've seen the architectural plans done by Bramanti and Buenodorti, oh yes, and Michelangelo."
   **Today:** This is anachronistic. Bramante came to Rome only around 1499, the rebuilding of St Peter's began in 1506, and Michelangelo was a teenager around 1490. The Vatican Library itself was founded under Sixtus IV in 1475, so that part fits. (The tradition that Martín Alonso Pinzón saw a document in the papal library comes from his son's testimony in the *pleitos colombinos*.)
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "well this one was drawn by behaim martin behaim"
   **Today:** Martin Behaim's globe was made in Nuremberg in 1492–93, so it could not have been shown in Palos before the voyage left. Toscanelli's map and Pierre d'Ailly's *Imago Mundi* are period-correct.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "This is Louis Torres. The man's a bandit, but he's often very useful."
   **Today:** Luis de Torres was a converted Jew who had served the governor of Murcia. He went as interpreter because he knew Hebrew, Aramaic ("Chaldean") and some Arabic. He was not a bandit. The show seems to mix him up with the convict Bartolomé de Torres.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "to the first man who cites land, I'll give a prize amounted to 10,000 doubloons."
   **Today:** The reward was a lifetime annuity of 10,000 **maravedís** from the Crown, to which Columbus added a silk doublet. Doubloons were later coins, and 10,000 gold coins would have been an enormous sum.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Toscanelli's 1474 letter and map put Asia only a few thousand kilometres west. Columbus figured about 4,400 km from the Canaries to Japan, while the real distance is about 19,000 km.

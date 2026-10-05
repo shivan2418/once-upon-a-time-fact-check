@@ -5,12 +5,14 @@ In the early 1700s a Plains band that still hunts on foot with dogs first meets 
 - **Quote:** "I want you to kill the number we need, no more."
   **Today:** Communal hunts were tightly controlled by hunt police (akicita among the Lakota). But the idea that Plains peoples always took "only what they needed" has since been challenged. Shepard Krech's *The Ecological Indian* (1999), Dan Flores (1991) and Andrew Isenberg (*The Destruction of the Bison*, 2000) document buffalo jumps that killed more animals than could be used, and Native market hunting for the hide and robe trade in the 1800s. Historians agree the main cause of the bison's collapse was non-Native commercial hunting, but the "ecological Indian" image is now seen as simplified.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "Another one if you kill an enemy, and especially one if you scalped one."
   **Today:** Among Plains peoples the highest war honour was usually counting coup: touching or striking a living enemy, or taking his weapon or horse. That outranked killing him. Scalping carried relatively little prestige in most coup systems, so the show reverses the order. Eagle-feather awards did vary from nation to nation.
   **Why it was believed:** Western films and pulp fiction made scalping the defining act of "Indian warfare".
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1991)
 None found.

@@ -9,6 +9,7 @@ None found.
   **Today:** The Alps were never impassable. People crossed them from prehistory: Ötzi died on a high pass about 5,300 years ago (found in 1991). Hannibal and the Roman armies crossed them, and medieval merchants, pilgrims and armies used the Great St Bernard, Mont Cenis, Brenner and other passes all the time. Fear of high summits and their legends (dragons, demons) was real, but people did not see the range as a wall.
   **Why it was believed:** "Mountain gloom" was the standard way to introduce the history of mountaineering, as if no one went into mountains before the alpinists. Marjorie Hope Nicolson's *Mountain Gloom and Mountain Glory* (1959) had already shown it was about attitudes to summits, not to travel.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 None found.

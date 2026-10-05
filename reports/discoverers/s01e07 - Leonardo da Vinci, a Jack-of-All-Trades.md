@@ -5,17 +5,20 @@ The episode follows Leonardo from his training under Verrocchio in Florence to L
 - **Quote:** "Salai, what have you done with my drawings for the bicycle?"
   **Today:** The "Leonardo bicycle" sketch in the Codex Atlanticus was first reported in 1974, after the codex was restored. In 1994 it was still widely accepted, with Augusto Marinoni attributing it to a pupil (Salaì) copying a lost Leonardo design. That is clearly where the episode's Salai joke comes from. In 1997–98 Hans-Erhard Lessing and others showed that the sketch was a modern addition made after the restoration, and most historians now reject it. Leonardo did draw chain drives, but never a bicycle.
   **Confidence:** high
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "taken as an apprentice in the workshop of a great artist by the talent of his young apprentice he"
   **Today:** Vasari's story is that Verrocchio "never painted again" after seeing Leonardo's angel in the *Baptism of Christ*. Art historians treat it as a legend: Verrocchio's workshop went on producing paintings, and Verrocchio had always been mainly a sculptor. The painted-shield (rotella) story told just before this also comes only from Vasari.
   **Why it was believed:** Vasari's *Lives* (1550/1568) was for centuries the main source for Leonardo's youth, and its anecdotes passed straight into popular biography.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "He sent it to his brother-in-law, Deste, to cast cannons."
   **Today:** In November 1494 Ludovico sent the roughly 70 tonnes of bronze set aside for the horse to Ercole d'Este of Ferrara to be made into cannon. Ercole was Ludovico's **father-in-law** (Ludovico had married Ercole's daughter Beatrice), not his brother-in-law. Ercole's son Alfonso was the brother-in-law.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Lorenzo de' Medici, Ludovico Sforza ("il Moro") acting as ruler for his nephew Gian Galeazzo, and Leonardo moving to Milan in about 1482 are right. Gian Galeazzo died in 1494 in suspicious circumstances, and Ludovico invited Charles VIII into Italy.

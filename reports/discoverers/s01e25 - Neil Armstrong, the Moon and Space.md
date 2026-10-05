@@ -11,15 +11,19 @@ None found.
 - **Quote:** "Just when our rockets with the 4,000-kilometer range were almost ready."
   **Today:** The intercontinental A9/A10 "Amerika-Rakete" existed only as studies and design drawings. It was nowhere near ready in 1945. The V-2 (about 320 km range) was Germany's only operational ballistic missile.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "They couldn't get back, not enough fuel to return to orbit."
   **Today:** The lunar module had a separate ascent stage with its own propellant. Until touchdown the crew could abort at any time by firing it back to orbit, and a landing on uneven ground was not by itself a death sentence. The real risks were running the descent stage dry before landing (about 25 seconds of margin) and a failure of the single ascent engine afterwards.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "We've lost them. They'll die on the moon, and they'll know they're going to die."
   **Today:** Mission Control never lost contact with Eagle. Earth talked to the lunar module directly while Columbia was behind the Moon. What was uncertain was Eagle's exact position (it landed about 6 km past the target), and Collins failed to spot it through his sextant. The panic is dramatisation.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Americans, Russians, Chinese, Indians, Eskimos, people in Africa, Puan, and the French, the Italians."
   **Today:** The audience of about 500–600 million is a fair estimate, but China did not broadcast the landing, and Soviet television did not show it live, only brief clips later. Russian and Chinese viewers were mostly not watching.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - **Quote:** "The Greeks dreamed of a tornado carrying a ship to the moon." This is Lucian of Samosata's *True History* (2nd century AD), in which a whirlwind carries a ship to the Moon.

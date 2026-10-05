@@ -9,20 +9,25 @@ None found.
   **Today:** Humboldt's party reached about 5,875 m on Chimborazo on 23 June 1802. That was the highest recorded climb by a European, and it stood for about 30 years. Centuries earlier, however, the Incas had climbed several Andean peaks over 6,000 m and built shrines on top: Llullaillaco (6,739 m), with summit ruins found in 1952, and Ampato, where the "Juanita" mummy was found in 1995. The "record" counts European climbers only.
   **Why it was believed:** Mountaineering history was written as a list of European "firsts", and Inca high-altitude archaeology was little known outside specialists.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "All those mosquitoes, they carry the disease."
   **Today:** This is anachronistic in 1800. Ronald Ross showed that mosquitoes spread malaria in 1897. Humboldt's era blamed "miasma" (bad air) from swamps.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Only a Frenchman, Monsieur de la Condamine, published a book about the area."
   **Today:** Many earlier accounts existed. Jorge Juan and Antonio de Ulloa's *Relación histórica* (1748), from La Condamine's own expedition, was widely translated. The Jesuit José Gumilla's *El Orinoco ilustrado* (1741) and Gilij's *Saggio di storia americana* (1780s) covered the Orinoco itself.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "The human air rises over the mountains, the Andes going to the east."
   **Today:** The explanation has the weather running the wrong way. The coastal desert of Peru exists because the cold Humboldt Current cools the air above it. That cool air sits stable under warmer air (an inversion), so it gives fog (*garúa*) but almost no rain. Moisture over the Andes comes from the *east*: trade winds carry it from the Atlantic and the Amazon, and it rains on the eastern slopes. Pacific air does not cross the Andes and rain on the other side. The coast lies in the Andes' rain shadow. ("human" is a mishearing of "humid".)
   **Confidence:** medium
+  **Severity:** major
 - **Quote:** "At the age of 90, Humboldt completed the last volume of his great work, Cosmos."
   **Today:** Humboldt died on 6 May 1859 at 89, before finishing *Kosmos*. Volume 4 appeared in 1858, and volume 5 was put together from his papers and published after his death (1862).
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - "She knew, for example, in Venezuela, in the USA, in the Humboldt, Greenland, Mount Hum, and New Caledonia.": places named after Humboldt include Pico Humboldt in Venezuela, Humboldt County in the US, the Humboldt Glacier in Greenland and Mont Humboldt in New Caledonia.

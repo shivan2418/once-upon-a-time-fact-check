@@ -9,24 +9,30 @@ None found.
   **Today:** Mainstream Sunni and Shia Islam has five pillars (faith, prayer, almsgiving, fasting, pilgrimage). Jihad is an important religious duty, but it is not counted as a sixth pillar. Only some minority traditions, such as the early Kharijites, treated it that way.
   **Why it was believed:** Older Western popular histories of Islam often described jihad as a "sixth pillar", and this framing was widespread in European textbooks.
   **Confidence:** medium
+  **Severity:** major
 - **Quote:** "Victory had sapped Byzantium's life force, although some matters, like the sex of angels, still aroused heated debate."
   **Today:** No historical source records Byzantine theologians debating the sex of angels, in the 630s or at any other time. The phrase is a later Western saying about pointless "Byzantine" quarrels, usually tied to the siege of 1453. The real debates of Heraclius' time were about the nature and will of Christ (Monoenergism and Monothelitism).
   **Why it was believed:** "Discussing the sex of angels" was a common French and European proverb, often repeated as fact.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1978)
 - **Quote:** "When Justinian died a few years later in 567, his people were worn out."
   **Today:** Justinian died in November 565. ("567" could be a speech-recognition error.)
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "During the 2nd century before our time, the Parthians, an Iranian tribe, won their liberation from the successors of Alexander the Great."
   **Today:** Parthia broke away from the Seleucids in the mid-3rd century BC (the Arsacid era begins in 247 BC). Parthia grew into a major empire in the 2nd century BC under Mithridates I. ("Before our time" is again a slip for BC.)
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "and even proclaimed holy war against Byzantium in the year 610."
   **Today:** Khosrow II started the last great Byzantine–Sassanid war in 602–603, using the murder of his ally Emperor Maurice as his reason. 610 is the year Heraclius took the Byzantine throne.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "In 711, they conquered North Africa. And in 715, they reached as far as Narbonne."
   **Today:** The conquest of North Africa was largely complete by about 705–709. 711 is the year Tariq crossed into Spain. Narbonne fell in about 719–720, not 715, so the episode puts it before the conquest of Spain was complete.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - The 3rd-century crisis with many emperors in about 50 years, and Constantine favouring Christianity and founding Constantinople: fine.

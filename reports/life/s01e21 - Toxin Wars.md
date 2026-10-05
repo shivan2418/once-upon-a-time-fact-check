@@ -12,6 +12,7 @@ None found.
   **Correct today:** The iron in detox enzymes (the cytochrome P450 family) is part of the machinery that grabs oxygen and drives the chemical reaction. It is not a source of energy. The body's main iron store is the liver, with more held in bone-marrow and spleen cells. The spleen recycles iron from old red blood cells, but it isn't "the great iron reserve."
   **Why it was believed:** Because the spleen breaks down old red cells and recovers their iron, older textbooks and popular references often called it the body's iron store (the line about iron "giving energy" was never standard, but the item is filed here for the spleen claim).
   **Confidence:** Medium-high
+  **Severity:** minor
 
 ## Wrong (even in 1987)
 

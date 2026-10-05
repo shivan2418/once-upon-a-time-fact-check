@@ -9,14 +9,17 @@ None found.
   **Today:** Others had the idea of signalling with Hertzian waves before Marconi's 1895 tests, or at the same time. Oliver Lodge sent Morse signals by radio at Oxford in 1894, and Popov, Jagadish Chandra Bose and Tesla were working on it too. Marconi's real contribution was making it work over long distances and selling it, with a grounded high antenna and a better coherer. In 1943 the US Supreme Court struck down key Marconi patent claims because of earlier work by Lodge, Tesla and Stone. The show does credit Branly's coherer and Popov's antenna, which is better than most popular accounts.
   **Why it was believed:** Marconi's Nobel Prize (1909, shared with Braun) and his company's publicity made him "the inventor of radio" in popular books.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "Uh, well, the sun's distance is 50 million kilometers."
   **Today:** The Sun is about 150 million km away. Whisper may have dropped "a hundred and", so this may be a transcription error.
   **Confidence:** medium
+  **Severity:** major
 - **Quote:** "and the SOS was heard by several ships"
   **Today:** Several ships heard the Titanic's CQD/SOS in 1912, but only the Carpathia reached the scene and picked up survivors, about 705–712 of roughly 2,224 people aboard. "One out of three" is right, and "740" is a little high.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - "Claude Schaap, 1793" is Claude Chappe's optical telegraph, adopted in 1793 (first line Paris–Lille, 1794).

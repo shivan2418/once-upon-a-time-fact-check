@@ -11,9 +11,11 @@ None found.
 - **Quote:** "She's with Mokhtar in a beautiful coffee plantation."
   **Today:** The escape plan ("up north, in those states, there's no slaves") puts the story in the United States, where coffee was never a plantation crop. US plantations grew tobacco, rice, sugar and, after 1793, cotton. Coffee plantations worked by enslaved people were in Saint-Domingue, Cuba, Jamaica and above all Brazil. (The setting is only implied, so this may be a deliberate composite.)
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "You will purchase all you've got of rubber, an ivory, pepper,"
   **Today:** Ivory and pepper (melegueta, the "grains of paradise" of the Grain Coast) were real West African exports. Rubber became a significant African export only in the late 19th century. The French original probably said *gomme* (gum arabic, a major Senegal export), which the dub translated as "rubber".
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - African rulers raiding to capture and sell people, and trading with Portuguese, English, French and Dutch ships, is accurate. "Great Yavogan" is the *yovogan* ("chief of the white men"), Dahomey's official who handled European trade at Ouidah. The episode shows African participation without excusing the European buyers, which is more honest than many 1990s accounts.

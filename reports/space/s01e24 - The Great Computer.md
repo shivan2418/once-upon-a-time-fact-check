@@ -9,6 +9,7 @@ None found.
   **Today:** Great apes laugh during tickling and rough play (Darwin, 1872; van Hooff, 1972), many birds and whales sing, and play for its own sake is widespread among mammals and birds. Fagen's *Animal Play Behavior* (1981) reviewed this in detail. These traits are not unique to humans, though human music and humour are far more elaborate.
   **Why it was believed:** "Only man laughs" and "only man plays" were old philosophical commonplaces, repeated in popular writing long after zoologists had described laughter and play in animals.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1982)
 None found.

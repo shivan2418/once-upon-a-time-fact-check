@@ -15,18 +15,22 @@ None found.
 - **Quote:** "The white blood cells attack the population of their own organism. ... Leukemia. The white cells are unbalanced. They've become attackers, not protectors."
   **Correct today:** Leukemia is a cancer of blood-forming cells, not white cells attacking the body. Abnormal, immature cells multiply out of control and crowd out normal blood production in the marrow. That crowding is what causes the anemia and low platelets. White cells attacking the body's own tissue is autoimmune disease, which is a different illness. This was well understood in 1987.
   **Confidence:** High
+  **Severity:** major
 
 - **Quote:** "Triction enzymes, ligase enzymes to work immediately. We've got to repair this at once" (Whisper: "Triction" = "Restriction"), and later "Calling restriction enzymes. It's absolutely essential to reduce production."
   **Correct today:** Restriction enzymes are bacterial defense tools that people use in the lab. Human cells do not use them to repair DNA or to control how many blood cells are made. Ligase does take part in DNA repair, so that part is correct.
   **Confidence:** Medium
+  **Severity:** minor
 
 - **Quote:** "Every day, 200 billion red blood corpuscles, 15 billion white blood corpuscles, and 500 billion platelets are produced."
   **Correct today:** 200 billion red cells a day is correct. Platelet production is about 100 to 150 billion a day, so 500 billion is several times too high. (Episode 6's "half a billion" is the same figure in the older British long scale, where a billion is a million million, so the two episodes agree.) White cell production is about 50 to 100 billion a day or more, not 15 billion.
   **Confidence:** Medium
+  **Severity:** minor
 
 - **Quote:** "right ventricle pushes them into the pulmonary aorta"
   **Correct today:** The right ventricle pumps into the pulmonary artery, also called the pulmonary trunk. The aorta leaves the left ventricle. This is a small naming error. (likely a translation/dubbing slip)
   **Confidence:** High (minor)
+  **Severity:** minor
 
 ## Simplified but fine
 

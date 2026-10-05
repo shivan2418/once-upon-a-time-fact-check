@@ -9,23 +9,28 @@ None found.
   **Today:** Ussher (1650) dated Creation to the nightfall before Sunday **23** October 4004 BC. The "9 o'clock in the morning" comes from John Lightfoot of Cambridge (1644), who meant something different: the creation of man, at the autumn equinox. The two were merged in popular retellings. ("29th" may be a dub or transcription slip.)
   **Why it was believed:** The merged "23 October 4004 BC at 9 a.m." version was widely repeated in popular books and textbooks.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "No one, not even the scientists, could yet comprehend that the sacred book, the Bible, spoke in symbols and that religion and science need not be antagonistic."
   **Today:** Reading Genesis non-literally is very old: Augustine (*De Genesi ad litteram*, around 415) warned against using Scripture to contradict what is known about nature. Galileo argued the same (episode 9). Burnet and Whiston themselves treated parts of Genesis as figurative. The line, and the closing "The study was finally getting to replace theology", follows the science-versus-religion "conflict" story.
   **Why it was believed:** The Draper–White conflict narrative dominated popular history of science.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "This would be the first time a scientist asserted that the Earth had not been created in six days"
   **Today:** Buffon's 1778 figure was the first age *estimated by experiment*, which is the fair claim. Others had already rejected the six days and the 6,000 years. Benoît de Maillet's *Telliamed* (written in the 1720s, published 1748) gave an age of about two billion years. Descartes and Leibniz described a long natural cooling of the Earth, and Buffon himself had said "much more than 6,000 years" in 1749.
   **Why it was believed:** Buffon was the best-known early figure, and popular accounts made him "the first".
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Yes, he's the one, he gets all the glory for all our modern biology, Buffon."
   **Today:** Buffon was a major figure, but this overstates his role. He mostly held species to be fixed, with "degeneration" within a family (e.g. pig and boar), and he explicitly rejected common descent of all animals in 1753, though he toyed with the idea. Evolutionary theory owes much more to Lamarck (1809), Darwin and Wallace (1858–59). Linnaeus's classification also shaped modern biology. Jacques Roger (*Buffon*, 1989) gives the balanced view.
   **Why it was believed:** Older histories, e.g. in A. O. Lovejoy's *Forerunners of Darwin* (1959), cast Buffon as a forerunner of Darwin.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "Nobody since Aristotle the Greek 2,000 years earlier had attempted that."
   **Today:** Pliny the Elder's 37-book *Natural History* (AD 77) is the obvious counter-example. Renaissance encyclopedists such as Conrad Gesner and Ulisse Aldrovandi also attempted complete natural histories.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Archbishop James Ussher was Archbishop of Armagh, the head of the Church of Ireland: fine.

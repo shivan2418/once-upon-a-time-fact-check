@@ -7,6 +7,7 @@ The liver is shown as a chemical factory. It stores sugar and vitamins, builds p
 - **Quote:** "There is a blockage developing in coronary artery number four ... Liver will cease cholesterol production immediately." / "All that cholesterol wasn't manufactured in the liver."
   **Today:** The link between cholesterol and blocked arteries still holds. But the suggestion that most of the problem comes from cholesterol in food is out of date. The liver makes most of the body's cholesterol, and for most people dietary cholesterol has only a modest effect on blood levels. US dietary guidelines dropped their daily cholesterol limit in 2015. Saturated fat, genetics and overall diet matter more.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 
@@ -17,10 +18,12 @@ None found.
 - **Quote:** "The liver is only 10% of the body's mass" (*note: "10%" may be a transcription error*)
   **Today:** The liver is about 2–2.5% of body weight (about 1.5 kg in an adult). The part about it using roughly a quarter of the body's oxygen is broadly right.
   **Confidence:** medium (because of the possible transcription error)
+  **Severity:** minor
 
 - **Quote:** "We are hepatitis viruses ... Our very own DNA molecule." ... "The liver has been invaded by type A hepatitis virus."
   **Today:** Hepatitis A is an **RNA** virus, not a DNA virus. This was known by the early 1980s, and its full genome was sequenced in 1987. (Hepatitis B, by contrast, is a DNA virus.)
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 

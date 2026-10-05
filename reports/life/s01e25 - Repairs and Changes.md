@@ -15,6 +15,7 @@ None found.
 - **Quote:** "The RNA instructions for assembling proteins are all scrambled. I want you to get some repair enzymes down there" ... "You've created wild genes, you have."
   **Correct today:** Cells don't repair damaged messenger RNA, the short-lived working copy of a gene. They break it down and make a fresh copy from the DNA. A mistake in an RNA copy can't create new or "wild" genes, because genes live in the DNA. Only changes to the DNA itself (mutations) alter genes.
   **Confidence:** Medium (cartoon framing, but the claim is explicit)
+  **Severity:** minor
 
 ## Simplified but fine
 

@@ -9,6 +9,7 @@ None found.
   **Today:** "Saltoparkas" is probably a mishearing of *Saltoposuchus*, or a blend of it with *Euparkeria*, the two "thecodonts" that older books showed as the common ancestor of crocodiles, dinosaurs and pterosaurs. *Saltoposuchus* (about 215 million years ago) is now classed as an early crocodylomorph on the crocodile branch, too late and on the wrong branch to be anyone's ancestor. *Euparkeria* sits near the base of the group but is not a direct ancestor. Cladistic studies from the mid-1980s on dropped "Thecodontia" as a real group.
   **Why it was believed:** In popular dinosaur books of the 1960s and 70s, small running thecodonts such as *Saltoposuchus* and *Euparkeria* were the standard picture of the "ancestor of the ruling reptiles".
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1982)
 None found.

@@ -5,33 +5,41 @@ The episode sketches European exploration of Africa from the African Association
 - **Quote:** "Dr. Livingston, I presume?"
   **Today:** Stanley tore out the diary pages for the days of the meeting, and Livingstone's own writings never mention the phrase. In his biography *Stanley: The Impossible Life of Africa's Greatest Explorer* (2007), Tim Jeal argued from Stanley's newly opened papers that Stanley probably made up the line later to sound like a gentleman. The meeting at Ujiji in late 1871 did happen. The famous words are now treated as doubtful.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "the encouragement and the means to explore the dark continent."
   **Today:** The interior of Africa was not a blank or "mystery". Africans had their states and trade networks, Swahili-Arab caravans regularly reached Lake Tanganyika and beyond, and Portuguese and Afro-Portuguese traders had been active along the Zambezi and in Angola since the 1500s. Many famous "discoveries" were made along existing trade routes with local guides. The same episode shows this when Stanley follows reports from Ujiji and travels with Tippu Tip.
   **Why it was believed:** "Darkest Africa" and "the Dark Continent" came from Victorian explorers' own book titles (Stanley's *Through the Dark Continent*, 1878) and stayed standard in popular history.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "so the association funds the first european expedition"
   **Today:** Earlier Europeans had travelled deep into Africa long before 1795: Portuguese journeys to the Mutapa state and up the Zambezi in the 1500s, Jesuits such as Pedro Páez in Ethiopia in the 1600s, and James Bruce (episode 15 of this same series) in 1768–73. The African Association's own earlier envoys, Ledyard and Houghton, died before Park set out.
   **Why it was believed:** British-centred histories dated "African exploration" from the African Association.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "He would be the first European ever to arrive at the legendary"
   **Today:** The Scot Alexander Gordon Laing reached Timbuktu in August 1826, two years before Caillié, and was killed after he left. Caillié (1828) was the first European to reach Timbuktu *and return alive*, which is how the French Geographical Society prize described him. He set out from the Rio Nunez in present-day Guinea, not from Senegal itself.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "At the age of 25 and with diplomas in medicine and theology"
   **Today:** Livingstone (born 19 March 1813) landed in South Africa in March 1841, at 27 or 28. He had a medical licence from Glasgow (1840) but no theology diploma; he had trained with the London Missionary Society.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Many people in Europe were concerned about Livingston, but nobody did anything,"
   **Today:** In 1867 the Royal Geographical Society sent E. D. Young's search expedition to Lake Nyasa, which disproved reports that Livingstone was dead. The British consul John Kirk also sent supply caravans from Zanzibar. Bennett's *New York Herald* expedition was the one that found him, but it was not the only effort.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "And he returned to the Congo and made it the Belgian Congo."
   **Today:** Stanley worked for King Leopold II from 1879 to 1884, setting up stations that became the Congo Free State (1885). That was Leopold's personal possession, not a Belgian colony. It became the Belgian Congo only in 1908, after an international outcry over Free State atrocities.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "British subject came and gave his name to British Cameroon."
   **Today:** No explorer gave his name to Cameroon. The name comes from the Portuguese *Rio dos Camarões* ("river of prawns"), and the country was a German colony from 1884. The line probably meant Cecil Rhodes and Rhodesia, so it may be a dub or transcription error.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Sir Joseph Banks co-founded the African Association (1788). Mungo Park reached the Niger at Ségou in 1796. Caillié did speak Arabic and travelled disguised as a Muslim.

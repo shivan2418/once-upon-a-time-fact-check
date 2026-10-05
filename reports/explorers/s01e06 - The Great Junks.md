@@ -5,32 +5,40 @@ The episode tells the story of the Ming treasure fleets of the early 1400s. The 
 - **Quote:** "each with nine masts and crews of 600 men."
   **Today:** The nine-masted giant treasure ships, about 44 *zhang* (roughly 120–135 m) long, come from the *Mingshi* and a 1597 novel. In 1996 they were usually accepted, for example by Levathes (*When China Ruled the Seas*, 1994). Since then, naval architects and historians have argued that wooden ships of that size could not have worked, and that the real treasure ships were probably about 60–75 m long. See Xin Yuanou (2002) and Sally Church (2005). Nine masts are no longer taken as fact.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "The Chinese stopped all voyages of discovery under penalty of death."
   **Today:** The court ended the voyages through politics and cost. The Yongle emperor suspended them in 1421 after the palace fire, the Hongxi emperor cancelled them in 1424, and a last voyage still sailed in 1431–33. The *haijin* sea ban on private trade dated from 1371, before the voyages. Laws making it a capital offence to build ships with more than two masts came only around 1500 and 1525. The story that Zheng He's logs were burned rests on a much later anecdote.
   **Why it was believed:** Popular books turned the end of the voyages into one dramatic imperial ban, "China turned its back on the sea".
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "9,000 years before our era, the Chinese reached Taiwan, then the Philippines, and Malaysia, and finally the Fiji Islands."
   **Today:** This describes the Austronesian expansion, and the dates are far too early. Farming peoples from the south China coast reached Taiwan around 4000–3500 BC. Austronesians spread from Taiwan to the Philippines around 2000 BC and reached Fiji (Lapita culture) around 1000–900 BC. They were not "the Chinese" in any meaningful sense. Peter Bellwood's "out of Taiwan" model was standard by the 1980s.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "The Chinese set to work inventing the dry dock."
   **Today:** China had dry docks centuries earlier. Song-dynasty sources describe one in the 11th century, and Hellenistic Egypt reportedly had one around 200 BC. They were not invented for Zheng He's fleet. Watertight bulkheads, mentioned next, are also older, from the Tang or Song period, but the show does not date them.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Chezui and his Malaysian pirates plunder ships in the Straits of Malacca."
   **Today:** Chen Zuyi was a Chinese (Cantonese) pirate chief based at Palembang on Sumatra. His followers were largely overseas Chinese, not Malays. Zheng He defeated him in 1407 and sent him to Nanjing for execution. ("Chezui" is a mishearing of Chen Zuyi.)
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "welcome to the island of Buddha's birthplace."
   **Today:** The Buddha was born at Lumbini, in present-day Nepal. Sri Lanka is an island of Buddhist relics, such as the Tooth Relic, and of legends that the Buddha visited it. It is not his birthplace. This may be a dubbing slip.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "At the end of the 15th century, China was the greatest maritime power."
   **Today:** The voyages ran from 1405 to 1433, so this should be the *beginning* of the 15th century. By the end of that century the fleet had long been dismantled. This is probably a dubbing slip.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Zheng He probably died at sea in a storm."
   **Today:** Zheng He died in 1433, probably at or near Calicut during the return of the seventh voyage. Tradition says he was buried at sea, and his tomb in Nanjing is a cenotaph. No source mentions a storm.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - "About 600 years ago" fits 1405–33. The Ming fleets were the largest the world had seen.

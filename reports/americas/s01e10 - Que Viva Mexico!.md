@@ -5,26 +5,32 @@ This episode (French original) picks up with Moctezuma's council arguing over wh
 - **Quote:** "Le divin Quetzalcoatl, notre aimable et doux seigneur, avait la même coiffe, le même teint pâle, la même barbe que les nouveaux venus." [The divine Quetzalcoatl, our kind and gentle lord, had the same headdress, the same pale skin, the same beard as the newcomers.]
   **Today:** The story that the Aztecs took Cortés for a returning, pale, bearded Quetzalcoatl is now widely seen as a post-conquest invention. It does not appear in Cortés's own letters, and it took shape decades later in Franciscan and Nahua writings that tried to explain the defeat after the fact. Susan Gillespie (*The Aztec Kings*, 1989) first argued this. Camilla Townsend ("Burying the White Gods", *American Historical Review*, 2003) and Matthew Restall (*Seven Myths of the Spanish Conquest*, 2003; *When Montezuma Met Cortés*, 2018) made it the mainstream view. No pre-conquest image shows Quetzalcoatl as pale or bearded in a European sense.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Et il avait dit qu'il reviendrait l'année des roseraies pour rétablir son autorité." [And he had said he would return in the year of the reeds to restore his rule.]
   **Today:** "Roseraies" (rose gardens) is a mishearing of "roseaux" (reeds): 1519 was a year 1 Reed (Ce Acatl). That date match is part of the same post-conquest story (see above), not evidence that Moctezuma expected Quetzalcoatl to return.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "L'éclipse du soleil, les comètes dans le ciel," [The eclipse of the sun, the comets in the sky,]
   **Today:** The list of omens before the conquest comes from Sahagún's Florentine Codex (Book 12, compiled in the 1550s–70s). Since the 1990s, historians (James Lockhart, *We People Here*, 1993; Restall 2003; Townsend 2019) have generally treated the omens as written after the fact, in the style of European prophecy literature, not as something people saw and noted in 1519. The show presents them as real events.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "La population indigène décimée par les guerres et les maladies était tombée de 20 à 1 million d'âmes." [The native population, decimated by wars and disease, had fallen from 20 to 1 million souls.]
   **Today:** This follows Cook and Borah (1963): about 25 million in central Mexico in 1519 and about 1 million by 1605. That was the leading estimate in 1991. It is still debated, and many scholars now prefer lower starting figures (for example Whitmore's 1992 model, about 16 million; others suggest 5–10 million). Everyone agrees on a collapse of roughly 90%, but it took most of a century, not just the conquest years. Later research also stresses the great cocoliztli epidemics of 1545 and 1576. Ancient DNA has linked the 1545 epidemic to *Salmonella* Paratyphi C (Vågene et al., *Nature Ecology & Evolution*, 2018). Forced labour and famine made these epidemics much worse.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "Sept ans plus tard, il n'a toujours pas pu le rencontrer." [Seven years later, he still hasn't managed to meet him.]
   **Today:** Cortés met Charles V in Toledo in 1528, soon after he returned to Spain, and in 1529 was made Marqués del Valle de Oaxaca. His long, frustrating wait at court came later, on his second stay in Spain (1540–47). The roadside scene that follows, where Cortés climbs onto the emperor's carriage and says he gave him more kingdoms than his ancestors left him cities, comes from Voltaire's *Essai sur les mœurs* (1756) and has no contemporary source.
   **Why it was believed:** Voltaire's anecdote was copied into many 19th- and 20th-century French histories and schoolbooks as a fitting ending to Cortés's story.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1991)
 - **Quote:** "Cortés ne le tua pas tout de suite. Il le mit d'abord au supplice pour qu'il révèle où était l'or." [Cortés did not kill him right away. First he had him tortured to reveal where the gold was.]
   **Today:** The torture is true: in 1521, after the fall of the city, Cuauhtémoc's feet were burned, under pressure from the royal treasurer Julián de Alderete. But it was not followed directly by his execution, as the next line ("Comme il s'obstinait à se taire, Cortès le fit étrangler" [As he still refused to talk, Cortés had him strangled]) suggests. Cuauhtémoc was kept prisoner for more than three years. Cortés had him hanged in February 1525, during the march to Honduras, on a charge of plotting a revolt. The two events are merged into one.
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - The Spaniards' wonder at Tenochtitlan and the Tlatelolco market ("De telles choses n'avaient jamais été vues ou même rêvées" [Such things had never been seen or even dreamed of]) paraphrases Bernal Díaz closely, including his comparison to an enchanted tale.

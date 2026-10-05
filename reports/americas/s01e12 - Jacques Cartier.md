@@ -11,15 +11,19 @@ None found.
 - **Quote:** "He was the first to say that the New World was a new continent as well."
   **Today:** Amerigo Vespucci's *Mundus Novus* (1503) had already called the lands a "new world", and the Waldseemüller map (1507) drew them as a separate continent. Verrazzano's letter does describe a long new coastline unknown to the ancients, but he was not the first to say so.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "There was no passage to the West, and he was the first man who dared to say it."
   **Today:** The opposite is true. Verrazzano took the Outer Banks of North Carolina for a narrow isthmus and the sound behind it for the Pacific (the "Sea of Verrazzano"). Maps showed this imaginary sea for decades, and it encouraged the hope of a passage that Cartier was sent to find.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Cartier is only 30 and the darling of the port city of Saint-Malo,"
   **Today:** Cartier was born in 1491, so he was 42 in 1534.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Today, the 13th day of August, 1535, we have entered a bay which our captain has named the Bay of St. Lawrence."
   **Today:** Cartier named the small bay (on the north shore, near Sainte-Geneviève/Pillage Bay) on **10 August** 1535, the feast of St Lawrence, which is where the name comes from. The name later spread to the gulf and the river.
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - Verrazzano: a Florentine sailing for Francis I in the *Dauphine* (sailing in January 1524), reaching the Carolina coast and sailing north to Newfoundland/Cape Breton. His death in 1528, killed and reportedly eaten by Caribs (probably on Guadeloupe), rests mainly on one account.

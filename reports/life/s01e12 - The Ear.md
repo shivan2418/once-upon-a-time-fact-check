@@ -15,6 +15,7 @@ None found.
 - **Quote:** "polarize the cell, let the sodium ion messengers in" (hair cells of the cochlea)
   **Today:** The inner-ear hair cells are activated mainly by **potassium** (plus some calcium) flowing in from the potassium-rich fluid around them, not by sodium. The unusual potassium-rich fluid had been known since the 1950s, and the potassium-based mechanism was well described by the early 1980s. (Sodium is right for ordinary nerve impulses further along.)
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 

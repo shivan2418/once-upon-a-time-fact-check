@@ -9,11 +9,13 @@ None found.
   **Today:** The vote was not a tie broken by Orléans. Of 721 deputies voting on 16–17 January 1793, 361 voted for death without conditions and 26 more for death with a debate on delay (387 in all), against 334 for other penalties. The majority needed was 361, so the unconditional death vote had "a majority of one", but the overall vote for death was clear. A separate vote on a reprieve was defeated 380 to 310.
   **Why it was believed:** The "majority of one vote" became a royalist legend, and Philippe Égalité's vote against his own cousin made him the obvious villain of it.
   **Confidence:** high
+  **Severity:** major
 
 ## Wrong (even in 1978)
 - **Quote:** "today is June the 20th, and we all met at the Jeu de Pomme... Not leave, except by force of bayonets. That's the answer given by Mirabeau to the king's forces."
   **Today:** The Tennis Court Oath was on 20 June 1789, but Mirabeau's famous retort to the master of ceremonies, Dreux-Brézé, came three days later, on 23 June, after the king's royal session. The deputies had also named themselves the National Assembly earlier, on 17 June.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - The Estates General opening on 5 May 1789, the first since 1614 (175 years); Necker dismissed on 11 July and troops gathered around Paris.

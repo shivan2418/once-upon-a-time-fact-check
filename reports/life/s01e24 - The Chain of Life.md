@@ -7,6 +7,7 @@ The episode traces food chains back to the sun and shows plants using sunlight t
 - **Quote:** "Order from the primitive brain. Nourishment in sight. To be seized." / "Memories and ancient instincts still exist, which the modern brain can't always subdue"
   **Correct today:** This is the "triune brain" model, which pictured a "primitive" (reptile-like) brain buried under a newer, rational brain. Brain scientists have since abandoned it. Appetite is controlled by connected circuits in the hypothalamus and reward system, steered by hormones such as leptin (discovered in 1994) and ghrelin (1999). The fact that people overeat is real, but the "two brains fighting" explanation is outdated.
   **Confidence:** Medium
+  **Severity:** minor
 
 ## Common belief at the time
 

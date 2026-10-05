@@ -5,24 +5,29 @@ The episode shows daily life in a Scandinavian village around 790 (thralls, free
 - **Quote:** "874, Fair-haired Harold succeeded in unifying the Norwegians"
   **Today:** The idea that Harald Fairhair united all of Norway around 870–872 comes from Icelandic sagas written about 300 years later. Since Claus Krag's work (1980s–1990s), historians have treated the story much more cautiously. Most now date his key victory at Hafrsfjord to the 880s or later and think his real power covered only part of the western coast. Some doubt the full saga account altogether.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "Torgzil, the Norwegian chief, decided to make it his own. In 839, he was proclaimed King of Ulster."
   **Today:** The Irish annals record a Viking leader called Turgéis (Turgesius), who was captured and drowned in 845. The tale that he made himself king, or ruler of a big part of Ireland, comes from the 12th-century propaganda text *Cogadh Gáedel re Gallaib*. No reliable source makes him "King of Ulster" in 839. ("Torgzil" is the transcript's spelling of Turgesius.)
   **Why it was believed:** Victorian and early-20th-century popular histories of Ireland retold the *Cogadh* story as if it were fact. Specialists such as Donnchadh Ó Corráin (1972) had already shown it was unreliable.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "...the noble Hastings was killed in battle. His last wish was to have a pious burial. All his treasures will go to the church."
   **Today:** The story that Hastein faked his own death to get inside Luna (which he thought was Rome) comes from Dudo of Saint-Quentin, writing around 1015, more than 150 years later. Historians treat it as a legend. The same trick is told about several other leaders.
   **Why it was believed:** The anecdote is vivid. It was retold in popular Viking histories as an example of Viking cunning.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1978)
 - **Quote:** "Rurik founded Kiev, the first Russian state."
   **Today:** The Russian Primary Chronicle links Rurik with Novgorod (c. 862), not Kiev. Kiev already existed. It came under Varangian rule through Askold and Dir and then Oleg (c. 882). Oleg made it the capital of the Rus' state.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "1061, with his father, he snatched Sicily away from the Arabs."
   **Today:** Robert Guiscard invaded Sicily with his younger **brother** Roger (later Count Roger I), not his father Tancred, who never left Normandy. The invasion began in 1061, but the conquest was only finished in 1091. This may be a dub or translation slip.
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - Clinker-built longship ("planks... overlapping slightly") with dimensions close to the Gokstad ship: accurate.

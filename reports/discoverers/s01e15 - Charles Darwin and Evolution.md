@@ -9,28 +9,35 @@ None found.
   **Today:** In the field Darwin did not recognise the Galápagos finches as one related group. He mislabelled several as wrens or grosbeaks and did not record which island most came from. Their importance became clear only after John Gould classified them in 1837, and Darwin had to borrow FitzRoy's labelled specimens. His real Galápagos clues were the mockingbirds, which differed by island, and the vice-governor's remark that tortoises differed from island to island.
   **Why it was believed:** David Lack's book *Darwin's Finches* (1947) and later textbooks made the finches the emblem of Darwin's "eureka". Frank Sulloway's 1982 paper "Darwin and His Finches: The Evolution of a Legend" had already corrected the story.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "There can be no dishonor, Mr. Wilberforce, in descending from a monkey."
   **Today:** The 1860 Oxford meeting took place, and the grandmother question and Huxley's retort are traditional. However, no verbatim record exists, and contemporary accounts disagree about who did best. Many present thought Hooker made the stronger reply. Wilberforce's review, coached by Richard Owen, made scientific objections rather than appealing to Ussher's 6,000 years. Lyell was not present.
   **Why it was believed:** The story of Huxley crushing the bishop was built up later in memoirs and in Leonard Huxley's *Life and Letters* (1900). J.R. Lucas's article "Wilberforce and Huxley: A Legendary Encounter" (1979) had already taken it apart.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "A sort of missing link between us and the ape."
   **Today:** Darwin argued that humans and apes share common ancestors, not that humans descend from living apes or monkeys along a single chain with one "missing link". The *Origin* (1859) barely mentions humans, apart from one line saying that "light will be thrown" on human origins. Human descent came in *The Descent of Man* (1871).
   **Why it was believed:** The "missing link" was a press and Haeckel-era image of evolution as a ladder, and it remained common in popular culture.
   **Confidence:** medium
+  **Severity:** major
 
 ## Wrong (even in 1994)
 - **Quote:** "Now, the Earth was created exactly 6,024 years ago."
   **Today:** Adam Sedgwick was a leading old-Earth geologist. He accepted an Earth far older than the Bible's chronology and publicly gave up even his belief in a universal Flood in 1831. He opposed evolution on religious and moral grounds, not because he believed in a young Earth. The figure doesn't fit Ussher's date either, which in about 1830 gives about 5,830 years.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Oh, there were to be eight in all."
   **Today:** Charles and Emma Darwin had ten children. Three died young (Mary, Anne and Charles Waring), and seven survived to adulthood.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "I can still recall the laughter when I proposed the idea that a bear,"
   **Today:** The bear-to-whale passage, a bear swimming with its mouth open to catch insects, appeared in the first edition of the *Origin* (1859). Darwin cut it from later editions after it was mocked. It came after publication, not as an earlier "error of youth" before it.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Very well, I'll publish, but only the first three volumes."
   **Today:** The *Origin* was one volume, which Darwin called an "abstract" of a much longer book (*Natural Selection*) that he never finished. "Volumes" may be a dubbing error for chapters.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - The *Origin of Species* was published on 24 November 1859. The first printing of 1,250 copies sold out to the book trade on the first day, months before the June 1860 Oxford debate.

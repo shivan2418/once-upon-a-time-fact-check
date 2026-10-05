@@ -11,6 +11,7 @@ None found.
 - **Quote:** "Optimum distance is 200 times the star's diameter."
   **Today:** There is no fixed ratio to a star's size. Where water can stay liquid (the habitable zone, studied by Huang in 1959 and Hart in 1979) depends on how much light the star gives off, and that rises steeply with size. Earth lies about 107 Sun diameters (215 radii) from the Sun, and a hot star four times the Sun's size would push the habitable zone hundreds of diameters farther out. The figure may be a slip for "200 times the star's radius", which does fit Earth and the Sun.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - "Nebula NGC 6188": a real glowing gas nebula in the southern constellation Ara, about 4,000 light-years away, crossed by dark lanes of dust. Its gas is lit by massive young stars in the cluster NGC 6193, so "the star is at least four times larger than our sun" fits. Life and planets there are the episode's fiction.

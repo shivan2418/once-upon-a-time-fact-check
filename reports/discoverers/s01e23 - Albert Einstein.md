@@ -5,36 +5,45 @@ Framed by the Trinity test and Hiroshima, the episode tells Einstein's life: a r
 - **Quote:** "And we mustn't forget that Milevo was a big help."
   **Today:** Around 1990 the claim that Mileva Marić co-created relativity was widely discussed. It followed the 1987 publication of the couple's love letters and a 1990 AAAS presentation by Troemel-Ploetz and Walker. Historians such as Stachel and Renn already doubted it. Later work, especially Esterson & Cassidy's *Einstein's Wife* (2019), found no documentary evidence that she contributed to the physics of the 1905 papers. Scenes showing her doing calculations for "our theory" go beyond the evidence.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "Look here, Albert. It won't do expelled from school."
   **Today:** Einstein was not expelled. He left the Luitpold Gymnasium in Munich at 15 (1894) on his own initiative, with a doctor's certificate. A teacher had told him his presence undermined class discipline, which is where the legend comes from. The show does avoid the bigger myth that he failed mathematics.
   **Why it was believed:** "Expelled genius" stories were standard in popular Einstein biographies.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "I forgot my address."
   **Today:** The story that Einstein phoned the Princeton office to ask for his own address circulates without any good source and is best treated as a legend. The homework-help anecdote with the neighbour's girl, by contrast, has some basis.
   **Why it was believed:** Absent-minded-professor anecdotes were attached to Einstein in countless popular books.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "Suppose we call them photons."
   **Today:** In 1905 Einstein spoke of "light quanta" (*Lichtquanten*). The word "photon" was coined by Gilbert N. Lewis in 1926.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Here's the formula. E equals mc squared."
   **Today:** The show places E=mc² in Einstein's student years with Mileva, before the patent-office job (1902). The mass–energy equivalence paper came in September 1905, written in Bern after the special relativity paper.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "In 1913, Einstein is named director of the Kaiser Wilhelm Institute in Berlin."
   **Today:** In 1913 he was appointed to the Prussian Academy and a Berlin professorship, and he moved in 1914. The Kaiser Wilhelm Institute for Physics was founded in 1917, with him as director.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Lever refused to go with him. In any case, their marriage was on the rocks."
   **Today:** Mileva did move to Berlin with the children in spring 1914. She went back to Zurich that July after the marriage broke down.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "May I welcome you to Princeton University."
   **Today:** In 1933 Einstein joined the new Institute for Advanced Study in Princeton, not Princeton University. The Institute was then housed in the university's Fine Hall, so the mix-up is understandable.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Yes, E is energy and it equals M, the mass of the explosive multiplied by C, the constant speed of light squared."
   **Today:** *m* is the mass *lost* in fission, not the mass of the explosive. In the Hiroshima bomb, less than a gram of the roughly 64 kg of uranium was converted to energy. E=mc² also does not explain *how* a bomb works. The chain reaction does that.
   **Confidence:** high
+  **Severity:** major
 
 ## Simplified but fine
 - "6th 1945, Almagordo" is a mishearing of 16 July 1945, Alamogordo (Trinity). Hiroshima was 6 August 1945. "Brighter than a thousand suns" echoes Oppenheimer and the Bhagavad Gita.

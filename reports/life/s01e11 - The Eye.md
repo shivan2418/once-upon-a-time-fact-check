@@ -15,6 +15,7 @@ None found.
 - **Quote:** "The left brain deals with the signals from the right eye and vice versa."
   **Today:** Each side of the brain handles the opposite half of what you see, using input from *both* eyes. About half the fibres from each eye cross over at the optic chiasm. This has been known since the 1800s. A simple crossover like the one described happens in some animals, not in humans.
   **Confidence:** high
+  **Severity:** major
 
 ## Simplified but fine
 

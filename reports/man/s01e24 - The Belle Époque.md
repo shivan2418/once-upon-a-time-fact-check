@@ -11,9 +11,11 @@ None found.
 - **Quote:** "The Entente Cordiale was answered by the Triple Entente."
   **Today:** The Triple Entente (Britain, France and Russia, 1907) grew out of the Franco-Russian alliance (1894) and the Anglo-French Entente Cordiale (1904). It was the answer to the **Triple Alliance** of Germany, Austria-Hungary and Italy (1882), not to the Entente Cordiale. This is probably a dub or translation slip.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "1900, in France, the elections gave the majority rule to the Republicans."
   **Today:** France held no general election in 1900; the legislative elections were in 1898 and 1902. Republicans had held a majority since 1877–79. The 1902 election was won by the left-republican Bloc des gauches.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - The early motor-car list: Cugnot (1769–70), Gurney's steam carriage (late 1820s), Hancock's *Enterprise* (1833), Rickett (about 1858–60), Bollée's *L'Obéissante* (built 1873, famous run 1875), Panhard-Levassor (1890s).

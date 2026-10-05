@@ -9,24 +9,30 @@ None found.
   **Today:** The story that Galvani found "animal electricity" because frogs were being prepared as broth for his sick wife (Lucia Galeazzi, whose name the show gives to a servant) is a later legend, first printed by Alibert in 1801. Galvani's own *De viribus electricitatis* (1791) describes planned laboratory work with frog nerve-muscle preparations. Galvani worked in Bologna; "Cologne" is a mishearing.
   **Why it was believed:** The kitchen anecdote was a favourite in 19th- and 20th-century popular science books.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "but I do not believe the frog stores up a reserve of animal electricity."
   **Today:** Volta was right that two different metals plus a moist conductor produce a current, and this led to his pile (1800). But Galvani was also partly right: nerves and muscles do carry electricity, as Matteucci and du Bois-Reymond showed in the 1840s. Galvani even made a frog leg twitch with no metals at all. The show stages a face-to-face win for Volta. The real dispute was conducted in print, and Galvani died in 1798, before the pile was built.
   **Why it was believed:** The "Galvani wrong, Volta right" story was standard textbook history. Marcello Pera's *The Ambiguous Frog* (1986, English 1992) had already given a more balanced account.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "Moses had just invented the condenser,"
   **Today:** The Maestro presents as fact the idea that the gold-lined Ark of the Covenant was an electrical capacitor and that Moses was "earthed" through golden threads in his robe. This is fringe speculation of the ancient-mysteries kind, with no support in the biblical text or in archaeology. Moses' historicity, and the "3,500 years ago" date, are themselves uncertain. The Exodus account does say the ark was overlaid with gold inside and out.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Charges on the bottom of these ion elements"
   **Today:** The explanation of lightning is muddled. It is true that in fair weather the ground is negative and the ionosphere positive (the global atmospheric circuit). But lightning comes from charge separation *inside thunderclouds* in the troposphere, mainly from collisions between ice and graupel. It is not a discharge from the ionosphere. The troposphere is not "dry air", since it holds nearly all the atmosphere's water vapour. Faraday did not "demonstrate" any of this: the global circuit came from Kelvin and C.T.R. Wilson, and the ionosphere was only named in the 1920s.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "I name these ions."
   **Today:** Faraday did coin "ion" (1834, with William Whewell), but for charged particles moving through a solution during electrolysis. An ordinary current in a copper wire is carried by electrons (J.J. Thomson, 1897), and the metal ions stay put. The cartoon of negative and positive "ions" running through a wire as the current is wrong for metals. It describes electrolytes and plasmas, not wires.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "The distance of the moon from the Earth."
   **Today:** Light covers about 300,000 km in a second, but the Moon is about 384,000 km away, so light takes about 1.3 seconds. Also, the charges in a wire drift at fractions of a millimetre per second. Only the electrical signal travels at close to the speed of light.
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - The Chinese did make the first magnetic compasses (described by Shen Kuo in 1088).

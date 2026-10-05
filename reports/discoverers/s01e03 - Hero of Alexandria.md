@@ -9,30 +9,38 @@ None found.
   **Today:** "Peripatetic" most likely comes from the *peripatos*, the covered walkway of the Lyceum where the school met. The story that Aristotle lectured while walking around is an ancient explanation of the name, not established fact.
   **Why it was believed:** The walking-teacher story is old (Diogenes Laërtius) and appealing, and it was repeated in most popular accounts.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "the earth's as flat as a millstone we all know that you've only to look around you"
   **Today:** Educated Romans knew the Earth was a sphere: Cicero (*Dream of Scipio*), Pliny the Elder, Strabo and Seneca all say so. The show plays Roman officials as flat-earthers for comedy. In fact, Greek and Roman learned culture agreed on a round Earth, and Ptolemy wrote under Roman rule.
   **Why it was believed:** The myth that people before Columbus thought the Earth was flat was spread in the 19th century (Washington Irving, Draper, A. D. White). Historians had exposed it (J. B. Russell, *Inventing the Flat Earth*, 1991), but it remained common in popular culture.
   **Confidence:** medium
+  **Severity:** major
 
 ## Wrong (even in 1994)
 - **Quote:** "Ptolemy succeeded Alexander and built a great library and his son Ptolemy II a lighthouse 40 meters high, one of the wonders of the world."
   **Today:** The Pharos of Alexandria was about 100–130 m high, one of the tallest buildings of the ancient world, not 40 m. It was begun under Ptolemy I and finished under Ptolemy II (around 280 BC).
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Just imagine, the mast was 10 stories high, and there were 2,000 oarsmen."
   **Today:** The giant "forty" (*tessarakonteres*) of Ptolemy IV, described by Athenaeus and Plutarch, had 4,000 rowers, plus 400 other crew and about 2,850 marines. The show is right that it was too big to be useful.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "I am working on this invention, an instrument for measuring any differences in heat."
   **Today:** No thermometer is attributed to Ctesibius ("Sestibus"). Philo of Byzantium and Hero described devices in which warmed air expands and pushes water along. These showed the effect but had no scale and measured nothing. The first scaled thermometers came from Santorio and Galileo's circle around 1600–1612.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "You see, Hero, the Earth's round and the Sun goes around it."
   **Today:** Hero and Ptolemy were not contemporaries. Otto Neugebauer (1938) dated Hero by a lunar eclipse in 62 AD, so Hero was active in the mid-1st century. Ptolemy's observations run from 127 to 141 AD, and the *Almagest* dates to about 150. The friendship is invented, and Hero would have been dead or very old.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "It's a bit like a lyre or a harp, but with small hammers that come down upon the strings."
   **Today:** Hero did not invent a hammered string instrument. That idea (dulcimer, then clavichord and piano) is medieval and later. Hero's real musical inventions were organs: he described Ctesibius' water organ (*hydraulis*) and an organ blown by a windmill. Clea and the instrument are fiction.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Be among the last scientists of the school of Alexandria."
   **Today:** Alexandria went on producing major scholars for three more centuries after Hero: Ptolemy, Diophantus (3rd century), Pappus (4th century), Theon and his daughter Hypatia (died 415), and John Philoponus (6th century).
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - Aristotle founded the Lyceum in Athens around 335 BC ("more than 23 centuries ago") and was Alexander's tutor. Plato's Academy came earlier.

@@ -12,6 +12,7 @@ None found.
   **Correct today:** The oxygen we breathe ends up as water. The carbon dioxide we breathe out is made from the carbon in food (sugars and fats), which is broken down in the mitochondria of cells all over the body. This was shown with isotope tracer experiments decades before 1987. (The line also seems to place this "real breathing" in the lungs, which is wrong too, though the transcript is unclear there.)
   **Why it was believed:** School textbooks summed up respiration as "glucose + oxygen gives carbon dioxide + water" and "we breathe in oxygen and breathe out carbon dioxide," which reads naturally as oxygen turning into CO2; that inhaled oxygen ends up in water was known mainly from isotope tracer studies.
   **Confidence:** High
+  **Severity:** major
 
 ## Wrong (even in 1987)
 

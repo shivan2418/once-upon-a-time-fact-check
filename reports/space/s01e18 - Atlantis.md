@@ -11,9 +11,11 @@ None found.
 - **Quote:** "No, you realize the pressure here is three tons per square centimeter."
   **Today:** At the stated depth of 7,000 m, seawater pressure is about 700 atmospheres (about 70 MPa), or roughly 0.7 tonnes per square centimetre. "Three tons" is about four times too high. Pressure rises by about 1 atmosphere (about 1 kg/cm²) every 10 m, which was textbook knowledge.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Their presence accounts for the lapse of five million years"
   **Today:** There was no gap between Neanderthals and Cro-Magnons. The two overlapped in Europe: Cro-Magnons (early modern humans) arrived about 45,000–40,000 years ago, and the last Neanderthals died out about 40,000 years ago (about 35,000 in 1982 references). Five million years ago there were not even any members of the genus *Homo*.
   **Confidence:** high
+  **Severity:** major
 
 ## Simplified but fine
 - Food chain "one kilogram of tuna fish required ten kilograms of sardines ... 100 kilograms of animal plankton ... 1,000 of vegetable plankton": the standard rough "10% rule" for energy passed between levels of a food chain.

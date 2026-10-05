@@ -7,6 +7,7 @@ The liver turns toxic ammonia into urea, which travels in the blood to the kidne
 - **Quote:** "the kidney had been severely overloaded by alcohol abuse. And it failed to get rid of all the waste products ... If the kidney stone stays in place..." / "As soon as I gave up drinking"
   **Today:** Alcohol is not considered a major cause of kidney stones. Large studies since the 1990s (Curhan and colleagues, 1996/1998, and later analyses) found that moderate beer and wine drinking goes with a slightly *lower* stone risk, probably because of the extra fluid. The main risk factors are not drinking enough water, diet (salt, animal protein, oxalate), genetics and metabolic conditions. Heavy drinking is still harmful in other ways.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 

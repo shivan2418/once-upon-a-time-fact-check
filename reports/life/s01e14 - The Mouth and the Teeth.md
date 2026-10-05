@@ -7,6 +7,7 @@ The mouth is the first stage of digestion. Teeth cut, tear and grind, saliva sta
 - **Quote:** "the tongue is sensitive to four basic elements of taste: bitter, acidic, sweet and salty"
   **Today:** There is a widely accepted fifth basic taste, **umami** (savoury, the taste of glutamate). It was proposed in Japan in 1908 but only became accepted in the West after its taste receptors were found in 2000–2002.
   **Confidence:** high
+  **Severity:** minor
 
 ## Common belief at the time
 

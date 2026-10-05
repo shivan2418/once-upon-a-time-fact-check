@@ -9,38 +9,49 @@ None found.
   **Today:** Cook carried 7,860 lb of sauerkraut and is credited with beating scurvy, but stored sauerkraut has little vitamin C. His crews stayed healthy mainly because he took on fresh food and greens at every landfall, kept the ship clean, and had short gaps between landfalls. Kenneth Carpenter (*The History of Scurvy and Vitamin C*, 1986) and earlier work by Kodicek (1969) had already shown this.
   **Why it was believed:** Cook believed in sauerkraut and wort himself, and the Royal Society gave him its Copley Medal (1776) for his paper on keeping crews healthy. The "sauerkraut saved the sailors" story then became a popular textbook anecdote.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "you might think that in the second half of the 17th century all the"
   **Today:** Cook's voyages were in the second half of the **18th** century (1768–79). Probably a dubbing or translation slip.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "I place at your disposal, Lieutenant Charles Clerk."
   **Today:** On the Endeavour, Charles Clerke was a midshipman and later master's mate, not a lieutenant or Cook's second-in-command. The lieutenants were Zachary Hicks and John Gore. Clerke was second lieutenant on the second voyage and commanded the Discovery on the third.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "take possession of some lands in the name of her gracious majesty"
   **Today:** The monarch was King George III, so "his" majesty. The episode itself later says "His Gracious Majesty". Probably a dub slip.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "100 gallons of beer"
   **Today:** The Endeavour carried about 1,200 gallons of beer (a sailor's daily ration was a gallon), plus spirits. It had about 9 tons (about 20,000 lb) of biscuit, not 34,000 lb. The sauerkraut figure (about 7,000+ lb, really 7,860 lb) is right. "100" may be a misheard "1,200".
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "We are not going to take advantage of the superiority that weapons give us."
   **Today:** Cook's first landing in New Zealand, at Tūranganui-a-Kiwa (Poverty Bay) in October 1769, was not a warning shot into the air. Over two days his men shot dead several Māori, including Te Maro and the chief Te Rākau, and killed more in a fishing canoe they tried to seize. Cook's own journal records it and Beaglehole's edition (1955) made it well known. The episode also never says that Tasman had reached New Zealand in 1642, or that Māori had lived there for centuries.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Let's go. They're peaceful people."
   **Today:** At Botany Bay (April 1770) two Gweagal men opposed the landing. Cook fired small shot, wounding one, and the shore party took their spears. Afterwards the local people mostly avoided the strangers. Cook's later journal line that Aboriginal people "are far more happier than we Europeans" does match the episode's tone, which is to its credit. ("Odentots" is "Hottentots", a character wrongly using the European name for the Khoikhoi of southern Africa.)
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "It's a duck with four legs."
   **Today:** This looks like the platypus, which Cook's expedition never saw. Europeans first described it in 1798–99 from a specimen sent from New South Wales. Banks and Solander collected many new plants at Botany Bay, and the crew saw kangaroos at the Endeavour River, but no platypus.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "I promote you to commander in the Royal Navy and you, clerk, to captain"
   **Today:** Cook was made commander in August 1771, after the first voyage. He became post-captain in August 1775, after the second, so he was already a captain when he volunteered for the third voyage in early 1776. Clerke commanded the Discovery as master and commander, not post-captain.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Don't you dare shoot."
   **Today:** At Kealakekua on 14 February 1779 Cook went ashore to take the aliʻi nui Kalaniʻōpuʻu hostage after the theft of the Discovery's cutter. His boats had just shot a chief, Kalimu, while blockading the bay. In the confrontation Cook himself fired his double-barrelled gun, killing a man, and the marines fired a volley before he was killed. The episode does admit "we fired first", but leaves out Cook's hostage-taking and his own shots.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "He was the first explorer who sought neither gold nor treasures, only knowledge."
   **Today:** Earlier expeditions were mainly scientific, including La Condamine's in 1735 and Bougainville's with Commerson, both in this series. Cook's voyages also had strategic and commercial aims: secret orders to find and claim the southern continent, claims of possession over eastern Australia and New Zealand, and a Northwest Passage for trade. The episode itself has him told to "take possession of some lands".
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - The Royal Society's candidate Alexander Dalrymple ("Mr. Darling Pell") wanted command and the Admiralty refused. "Surchals" and the "Earl of Northampton" bidder are invented or misheard; the First Lord in 1768 was Sir Edward Hawke.

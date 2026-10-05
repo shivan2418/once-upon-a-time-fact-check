@@ -11,6 +11,7 @@ None found.
 - **Quote:** "1209, the conquest of northern Tibet."
   **Today:** The 1209 campaign was against Western Xia (Xi Xia), the Tangut kingdom in present-day Ningxia and Gansu. The Tangut spoke a Tibeto-Burman language, but their state was not Tibet, and Western Xia was not conquered until 1227. The Uyghurs also submitted in 1209. Tibet itself first came under Mongol control in 1240, under Ögedei's son Köten.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Tatars poisoned Yesügei when Temüjin was about nine. Targutai ("Tagutai") of the Tayichiud then abandoned the family, which was left almost destitute. "Kinjit" is probably a mishearing of Borjigin, and "Kia" of Kiyad.

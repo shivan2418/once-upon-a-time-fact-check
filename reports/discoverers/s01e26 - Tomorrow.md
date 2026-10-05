@@ -5,23 +5,28 @@ The final episode imagines 2020. There are robot butlers, suborbital airliners, 
 - **Quote:** "and rising to a height of 27 kilometers, the little Martians would be giants."
   **Today:** Olympus Mons was put at about 25–27 km from Viking-era data. Mars Global Surveyor's laser altimeter (MOLA, 1997–2001) measured about 21.9 km above the Martian datum, or about 26 km above the surrounding plains. "Big as France" is also generous: its roughly 600 km base covers about half the area of France.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Great quantities of this will be spread over the poles on Mars,"
   **Today:** Darkening the polar caps to release their CO₂ and warm Mars was Carl Sagan's 1973 proposal. Jakosky & Edwards (*Nature Astronomy*, 2018), using MAVEN, Mars Express and orbiter data, found that Mars no longer has enough accessible CO₂ to thicken its atmosphere usefully with known technology.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "where the sea flowed into a bottomless pit."
   **Today:** Educated 15th-century Europeans knew the Earth was round. The fears around Cape Bojador recorded by Zurara were shoals, violent currents, a "Sea of Darkness", a boiling tropical sea and not being able to sail back, not falling off the edge of the world.
   **Why it was believed:** The flat-earth-explorers myth spread from Washington Irving's 1828 Columbus biography. Jeffrey Burton Russell had debunked it in 1991, but it was still common in children's media.
   **Confidence:** medium
+  **Severity:** major
 
 ## Wrong (even in 1994)
 - **Quote:** "is located between 60 and 100,000 kilometers from Earth,"
   **Today:** Mars is about 55–100 million km from Earth at close approaches and up to about 400 million km at the far side of its orbit. "Thousand" is probably a dub or transcription slip for "million". The "200 to 300 times our distance from the moon" that follows fits close approaches only.
   **Confidence:** medium
+  **Severity:** major
 - **Quote:** "you'd see your fellow passengers aging before your merry eyes."
   **Today:** Under relativity, passengers on the same ship age normally relative to each other. Time dilation shows up only between the ship and people left behind. Tachyons ("300 times faster still") are purely hypothetical, have never been detected, and could not be used for travel without breaking causality.
   **Confidence:** medium
+  **Severity:** major
 
 ## Simplified but fine
 - **Quote:** "Our flight's suborbital, and we'll have crossed the Atlantic in 25 minutes." Not by 2020. Concorde retired in 2003 and point-to-point suborbital travel is still only proposed. Robot butlers like "Nester" did not arrive either.

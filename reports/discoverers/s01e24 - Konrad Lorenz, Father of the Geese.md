@@ -9,19 +9,23 @@ None found.
   **Today:** This is Lorenz's *On Aggression* (1963) thesis. Field research had already contradicted it by 1994: infanticide in langurs (Hrdy, 1977) and lions (Bertram, Packer), lethal "wars" between chimpanzee groups at Gombe (1974–78), and E. O. Wilson's remark (1975) that murder is far more common in many mammals than in humans. Killing within a species is now known to be widespread in mammals (Gómez et al., *Nature*, 2016).
   **Why it was believed:** *On Aggression* and *King Solomon's Ring* were huge bestsellers, and Lorenz's Nobel (1973) gave his ideas authority with the public.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Children, if I were you, I wouldn't be too worried. Dogs almost never kill each other."
   **Today:** Lorenz's best-known example, the wolf baring its throat to stop the fight, does not hold in the wild. Mech and others had recorded wolves killing wolves by the 1970s. Later studies found fights between packs to be a leading natural cause of wolf death (Mech et al., Denali, 1998; Cassidy et al., Yellowstone, 2015).
   **Why it was believed:** The same Lorenz bestsellers. His observations came mostly from captive and domestic animals.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Newton, an apple, fell on his head."
   **Today:** Stukeley and Conduitt report that Newton saw an apple fall in a garden, which got him thinking about gravity. The apple hitting him on the head is a later embellishment.
   **Why it was believed:** The head-bonk version was a cartoon and schoolbook staple.
   **Confidence:** high
+  **Severity:** major
 
 ## Wrong (even in 1994)
 - **Quote:** "Faraday liked watching lightning."
   **Today:** Faraday's discoveries (electromagnetic rotation 1821, induction 1831) came from laboratory experiments with wires, magnets and coils, not from watching lightning. The "laws of electromagnetism" as a full theory are Maxwell's. Lightning studies are associated with Franklin.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - **Quote:** "Animal, it's no more than a machine with its cogs and its springs." This fairly sums up Descartes' *bête-machine*, though the dialogue is invented.

@@ -9,17 +9,21 @@ None found.
   **Today:** The Spanish Jesuit Pedro Páez visited the springs of the Blue Nile (Gish Abay) in 1618, and Jerónimo Lobo described them soon after. Bruce, who reached the springs in November 1770, wrongly played down Páez's claim to have been first. The springs were also a well-known holy site to local Ethiopians. To its credit the episode mentions "the Jesuit P[áez]" at the start and says Bruce found only the Blue Nile source, but it still presents Bruce as the discoverer.
   **Why it was believed:** Bruce's own *Travels* (1790) and British popular histories called him the discoverer of the Blue Nile's source.
   **Confidence:** high
+  **Severity:** major
 
 ## Wrong (even in 1996)
 - **Quote:** "I found it. I found it. The waterfall of Tezat,"
   **Today:** The Tis Issat (Blue Nile) Falls are about 30 km downstream of the river's outlet from Lake Tana, so they are not its source. Bruce did see the falls in 1770 with Ras Mikael's army, but the place he claimed as the "source of the Nile" was the Gish Abay springs south of the lake, which he reached in November 1770.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "My son is still fighting."
   **Today:** The "queen mother" (*itege*, "I am Iteg") is the dowager Empress Mentewab. She was the mother of Iyasu II and grandmother of Iyoas, but not the mother of the reigning emperor, Tekle Haymanot II, who was the son of Yohannes II. The smallpox patients Bruce treated belonged to the household of her daughter Weizero Aster ("Esther"), Ras Mikael's wife. "Emperor Amonud" is probably a mishearing.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Barden and Speak would reach the source"
   **Today:** Burton and Speke reached Lake Tanganyika together in 1858. Speke then went on **alone** to Lake Victoria while Burton stayed behind ill, and Burton disputed Speke's claim that it was the Nile's source. Speke confirmed the outlet at Ripon Falls in 1862, with Grant.
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - Cairo ("Pyro") was a cosmopolitan trading city where caravans set out for Mecca, Syria and the Nile route south.

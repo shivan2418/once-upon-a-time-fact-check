@@ -9,28 +9,35 @@ None found.
   **Today:** The American astronomer Dorothea Klumpke received a doctorate in mathematical sciences from the University of Paris in 1893, ten years before Curie, with a thesis on Saturn's rings. Women had received Paris medical doctorates since Madeleine Brès in 1875. Curie's 1903 thesis made her the first woman in France with a doctorate in *physics*.
   **Why it was believed:** Eve Curie's 1937 biography and the many popular lives based on it presented Marie as the first woman at every step, and Klumpke had been largely forgotten.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "At the time, not one other woman had a doctorate in science."
   **Today:** Besides Klumpke in Paris, several women had science doctorates elsewhere by 1903. Sofia Kovalevskaya received a mathematics doctorate from Göttingen in 1874, and a number of women had science PhDs from Swiss and American universities.
   **Why it was believed:** The same "first woman" framing found in popular Curie biographies.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "It was diagnosed for at the time they didn't know that radiation could be deadly."
   **Today:** By 1934 the danger was well known. Radiologists had been dying of radiation injuries since the 1900s, the British X-ray and Radium Protection Committee issued rules in 1921, and the "Radium Girls" deaths were public by 1925–28. Several of Curie's own co-workers had died. What was missing was a precise idea of the safe dose, and Curie herself long played down the link to her own illness. Her death certificate gave "aplastic pernicious anaemia".
   **Why it was believed:** The "innocent pioneers who could not have known" story was the standard heroic account.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1994)
 - **Quote:** "She's Polish, born in Warsaw, which has just been occupied by the Russians,"
   **Today:** Warsaw had been under Russian rule since 1815, as capital of the Congress Kingdom of Poland. What was new around 1867 was the harsh Russification that followed the crushed January Uprising of 1863–64.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Mathematics from the University of Paris to, first, Marie Sklodowska."
   **Today:** She came first in the physics licence (1893) and second in the mathematics licence (1894).
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "It's the highest scientific award in all of England."
   **Today:** The Royal Society's Davy Medal, given jointly to Pierre and Marie in 1903, is a chemistry medal. The Society's highest award is the Copley Medal.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "She spends her vacation in Switzerland where she meets a remarkable young man, Albert Einstein."
   **Today:** They had already met at the first Solvay Conference in Brussels in 1911, and Einstein wrote her a supportive letter during the Langevin scandal that year. The 1913 trip was a hiking holiday in the Engadin that they took together.
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - Born November 1867, so she was 3–4 in 1871. Tsar Alexander II and the clandestine Polish-history lessons under Russian school inspectors fit the period.

@@ -5,9 +5,11 @@ The episode introduces Cro-Magnon (modern humans) in Europe, who live alongside 
 - **Quote:** "When spatial ice receded over 35,000 years ago, there appeared for the first time Cro-Magnon, or Modern Man."
   **Today:** "Spatial ice" is a mishearing of "glacial ice". *Homo sapiens* first appeared in Africa about 300,000 years ago (Jebel Irhoud, Morocco, re-dated by Hublin et al., *Nature* 2017). Modern humans reached Europe by about 45,000–47,000 years ago (Bacho Kiro, Bulgaria, 2020), perhaps even 54,000 (Grotte Mandrin, France, 2022). Also, the ice was not retreating 35,000 years ago: the coldest part of the last ice age was still to come, peaking about 20,000 years ago.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Tances is slim that he descended from Neanderthal Man since the two lived side-by-side for 5,000 years. Cousin or conqueror, Cro-Magnon Man did win out in the end."
   **Today:** "Tances" is a mishearing of "Chances". It is still true that modern humans did not evolve from Neanderthals. But the two groups interbred, so present-day Europeans do partly descend from Neanderthals, at about 1–2% of their DNA (Green et al. 2010). Some early European *H. sapiens* had a Neanderthal ancestor only a few generations back (Oase 1, Fu et al. 2015). The "cousin or conqueror" choice leaves out this third option. Current estimates of the overlap in Western Europe are shorter than 5,000 years, roughly 1,400–5,000 years (Higham et al. 2014; Djakovic et al. 2022).
   **Confidence:** high
+  **Severity:** minor
 
 ## Common belief at the time
 None found.

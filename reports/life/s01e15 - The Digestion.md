@@ -7,6 +7,7 @@ Food travels from the oesophagus to the stomach, where acid and enzymes break it
 - **Quote:** "That's the appendix, dear." / "Well, what's it for?" / "Absolutely nothing apart from getting appendicitis."
   **Today:** The appendix is no longer seen as useless. It contains immune (lymphoid) tissue and may act as a "safe house" from which good gut bacteria can regrow after illness (Bollinger and colleagues, 2007). People without an appendix may be more likely to get repeat *C. difficile* infections.
   **Confidence:** high
+  **Severity:** minor
 
 ## Common belief at the time
 

@@ -9,26 +9,33 @@ None found.
   **Today:** At low sea levels Australia, New Guinea and Tasmania formed one landmass (Sahul), and western Indonesia joined mainland Asia (Sunda). Between the two lay the deep-water islands of Wallacea, so even at the lowest sea levels the first Australians had to make several sea crossings, at least one of about 70–90 km. The first settlers came by boat or raft, not "on foot", which makes them some of the earliest known seafarers. Geologists and archaeologists knew this well before 1996 (Wallace's Line; Birdsell, 1977).
   **Why it was believed:** "They walked across a land bridge" was the easy popular version, borrowed from the Bering land bridge story.
   **Confidence:** high
+  **Severity:** major
 
 ## Wrong (even in 1996)
 - **Quote:** "I take possession of this land in the name of England."
   **Today:** Cook did not claim the land at Botany Bay (April–May 1770). He claimed the whole east coast for King George III, in the name of Great Britain rather than "England", at Possession Island off Cape York on 22 August 1770.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Governor, I have explored New Zealand. It is an enormous island, like a continent."
   **Today:** Flinders charted Australia, not New Zealand. His circumnavigation in 1801–03 showed that New Holland and New South Wales were one continent. He promoted the name "Australia" in his 1814 book, and Governor Macquarie took it up from 1817. This may be a dubbing or transcription slip for "New Holland".
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "The beginning of the 19th century, only a few ports and small towns were founded"
   **Today:** Of the towns listed, only Sydney (1788) and Hobart (1804) existed in the early 1800s. Brisbane (1824), Albany (1826), Perth (1829), Melbourne (1835) and Adelaide (1836) came later. Darwin (founded as Palmerston in 1869) was settled only after Stuart's crossing, so the later line "it'll take us to the port of Darwin" is anachronistic too. The harbour had been named Port Darwin in 1839, but there was no town.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Another explorer, John Septimborough, also tried."
   **Today:** This is surely John Septimus Roe, Surveyor-General of Western Australia, and he did have 13 children. His 1848–49 expedition went from the Avon valley to the Russell Range and the south coast inside Western Australia. It was not an attempt to cross the continent.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "It's been five months since they left and we're still waiting."
   **Today:** Burke left Cooper Creek on 16 December 1860. William Brahe, told to wait three months, held on for just over four and left on the morning of 21 April 1861, the day Burke, Wills and King got back.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Thus, on July 25, 1862, two explorers managed"
   **Today:** Stuart's party reached the sea at Chambers Bay, Van Diemen Gulf, on 24 July 1862. All ten men of the party, not two, made it there and back alive. If "two explorers" means Burke and Wills, they reached the tidal Flinders/Bynoe estuary in February 1861 and are usually credited with the first south–north crossing, though they died on the way back.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Opening by saying that Australia "was discovered before captain Cook", by its first peoples, is better than the "Cook discovered Australia" myth common in 1990s children's media. Throughout, the show gives Aboriginal people a voice: worries about food and sheep, defending their land, guiding to water, giving fish and nardoo.

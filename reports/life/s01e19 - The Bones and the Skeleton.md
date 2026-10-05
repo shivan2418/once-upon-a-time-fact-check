@@ -12,6 +12,7 @@ None found.
   **Correct today:** For a while after healing, the lump of new bone around a break is thicker. Over months to years the body reshapes it back to roughly normal, so the bone ends up about as strong as before, not "a great deal stronger." The idea that a healed break is the strongest spot is a common myth.
   **Why it was believed:** The callus around a healing fracture is visibly thicker than normal bone, and the saying that a healed break becomes the strongest point of the bone was widely repeated by doctors, coaches and popular books.
   **Confidence:** Medium
+  **Severity:** minor
 
 ## Wrong (even in 1987)
 

@@ -9,20 +9,25 @@ None found.
   **Today:** The theory that Magellan's slave Enrique was the first person to go around the world assumes he came from the central Philippines. Pigafetta says Enrique was from Sumatra, and Magellan's will says Malacca. Either way he had not yet reached his starting point when he could talk to people in the Philippines. He disappeared after the Cebu massacre of May 1521, so nobody knows whether he ever got home. The claim is still a guess.
   **Why it was believed:** Stefan Zweig's popular *Magellan* (1938) and Filipino historian Carlos Quirino spread the idea, and it became a common piece of trivia.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "You, Serao, will take the southeast branch with the San Antonio."
   **Today:** At the strait, the San Antonio was captained by Álvaro de Mesquita, Magellan's cousin. Juan Serrano commanded the Concepción. The pilot Esteban Gómez put Mesquita in irons, not Serrano, and took the San Antonio back to Spain, arriving in May 1521. The dub may have mixed up the names.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Yeah, that's right. And of the 218 sailors, only 18 returned."
   **Today:** About 240–270 men sailed in 1519 (Pigafetta gives 237). The 18 who landed with the Victoria in September 1522 is correct. However, about 55 men had already returned on the San Antonio. Thirteen held by the Portuguese at Cape Verde and a few Trinidad survivors reached Spain later.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "After six months of hard sailing, the Victoria finally returned to Seville."
   **Today:** The Victoria left Tidore on 21 December 1521 and reached Sanlúcar on 6 September 1522, about eight and a half months later. The line before it, "the Victoria and the Trinidad were never to return", is probably a translation slip: only the Trinidad never came back. The Portuguese captured her after she failed to recross the Pacific.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "So, all these spices are for approximately 10,000 times their cost."
   **Today:** The Victoria brought back about 26 tonnes of cloves. They sold for roughly enough to cover the cost of the whole expedition, leaving a modest profit. Spices did sell in Europe for many times their price in the Moluccas, but nothing like 10,000 times. The line may be a garbled "10,000 ducats".
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Magellan won Charles I's backing in 1518, with Bishop Juan Rodríguez de Fonseca of the Indies administration present (he was bishop of Burgos, not an archbishop). He had a lasting limp from a wound at Azemmour, Morocco, in 1513, and King Manuel I had snubbed him.

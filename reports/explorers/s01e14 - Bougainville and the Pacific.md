@@ -5,23 +5,28 @@ The episode opens with the Polynesian settlement of the Pacific, long before any
 - **Quote:** "In 400 AD, the Polynesians crossed 3,500 kilometers of ocean to settle in Hawaii."
   **Today:** Around 1996 the usual date for settling Hawaii was 300–500 AD (Kirch and others). Radiocarbon re-dating that kept only short-lived samples changed this (Wilmshurst et al., *PNAS* 2011). East Polynesia was settled late: the Society Islands around 1025–1120 AD, and Hawaii, New Zealand and Easter Island around 1190–1290 AD. The distance is roughly right: about 3,800 km from the Marquesas and 4,400 km from Tahiti.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "Others went as far as the island of Park, whose statues would be discovered 1,000 years later."
   **Today:** "Park" is a mishearing of *Pâques*, Easter Island (Rapa Nui). Dates around 1996 put its settlement at 400–800 AD. Hunt and Lipo (*Science* 2006) and the 2011 re-dating moved it to about 1150–1250 AD. Roggeveen arrived in 1722, so the gap is about 500 years, not 1,000.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Well, not today, but it still existed two or three"
   **Today:** The giant bird is the moa, which lived only in New Zealand. Around 1996 popular books often had moa surviving until a few centuries ago. Holdaway and Jacomb (*Science* 2000) and later dating show the moa died out by about 1400–1450, within roughly 150 years of people arriving. That is more than 550 years ago. Australia had no moa: its giant birds (*Genyornis*, the dromornithids) died out tens of thousands of years ago, and the emu is still alive.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "Almost 2,000 years ago, Ptolemy, the great geographer, had observed that most of the"
   **Today:** Ptolemy's maps did show an unknown southern land (*terra incognita*) closing off the Indian Ocean. However, the idea that a southern continent must "balance" the northern land masses comes from other Greek writers (Aristotle's climate zones, Crates of Mallus' four-continent globe) and above all from Renaissance cartographers such as Mercator. It is not Ptolemy's argument.
   **Why it was believed:** Popular histories of exploration routinely gave Ptolemy credit for the "balance" theory of *Terra Australis*.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1996)
 - **Quote:** "It was while stopping in Brazil that he discovered this plant"
   **Today:** The bougainvillea was collected at Rio de Janeiro in 1767 by the expedition's naturalist Philibert Commerson, probably helped by Jeanne Baret. Commerson named it after his commander. Bougainville did not discover it himself. Standard botanical references said so long before 1996.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - The Pacific covers about a third of Earth's surface, is about as large as all the other oceans combined (roughly 46% of the world ocean) and has well over 10,000 islands (estimates run to 20,000–30,000).

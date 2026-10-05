@@ -9,24 +9,30 @@ None found.
   **Today:** Oglethorpe did first propose Georgia as a refuge for imprisoned debtors. But the roughly 114 settlers on the *Anne* (who landed in February 1733) were chosen from the "worthy poor", and none are known to have come out of debtors' prison. Few, if any, came later either. The colony was also meant as a military buffer between South Carolina and Spanish Florida. Oglethorpe was not yet a general in 1733. The Jews (July 1733), the Salzburger Lutherans (1734) and the Highland Scots (1736) arrived on later ships.
   **Why it was believed:** Oglethorpe's prison-reform work and his early pamphlets made "the debtors' colony" a fixture of school textbooks. Georgia historians (e.g. Albert Saye, Betty Wood) had shown otherwise by the 1970s–80s.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "because the Indians, they're fanatics for liberty"
   **Today:** The idea that Native Americans "would not be enslaved" is a myth. Carolina ran a huge Indian slave trade: Alan Gallay (2002) estimates that 24,000–51,000 Native people were captured and sold between 1670 and 1715, many shipped to the Caribbean. The colonies turned to Africans because of epidemics, wars like the Yamasee War (1715) that ended the trade, Native captives escaping easily into familiar country, and a growing Atlantic supply. The flip side of the line, that Africans were "docile", is false too: there were revolts such as New York in 1712 and Stono in 1739.
   **Why it was believed:** The romantic "noble, freedom-loving Indian" image and older planter apologetics. Native slavery was studied in the 1910s (Lauber, 1913) but left out of popular histories until Gallay (2002) and Reséndez (2016).
   **Confidence:** high
+  **Severity:** major
 
 ## Wrong (even in 1991)
 - **Quote:** "So 300,000 blacks in the South, who it's understood are supposed to be freed after six or seven years, but things didn't always work out that way."
   **Today:** By the mid-1700s, Africans in the colonies were held in lifelong, hereditary slavery. Virginia made slave status pass through the mother in 1662 and codified slavery in its 1705 slave code, and the other colonies did the same. Terms of 4–7 years applied to indentured servants, who were mostly European. Some early Africans in 1620s–40s Virginia did have servant status, but by 1750 none were "supposed to be freed". Presenting slavery as a broken indenture badly minimises it. (The figure of about 300,000 Black people, mostly in the South, is about right for around 1760.)
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "for doing the very hard work on the cotton and tobacco plantations"
   **Today:** In the colonial South, enslaved people grew tobacco (Chesapeake), rice and indigo (Carolina/Georgia). Cotton became a major plantation crop only after Eli Whitney's gin (1793).
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "This would-be subject of His Majesty George III dumped him to Boston Harbor to a value of £12,000 sterling."
   **Today:** The 342 chests destroyed on 16 December 1773 were valued by the East India Company at about £9,659, usually rounded to "about £10,000".
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Paul, you will be responsible for training them. We count on you."
   **Today:** Paul Revere was the Boston committees' express rider and an engraver. He did not train the Minutemen. The Massachusetts Provincial Congress organised them in late 1774, and the town militias elected their own officers to drill them.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Georgia's early bans on slavery and rum (1735) are right. Slavery was legalised in 1751.

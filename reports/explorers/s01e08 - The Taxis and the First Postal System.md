@@ -9,14 +9,17 @@ None found.
   **Today:** Relay posts with fresh horses and riders were very old: the Persian *angarium*, the Roman *cursus publicus*, Chinese and Mongol (*yam*) relay systems, the Abbasid *barid*, and in France Louis XI's royal posts (1464/1479). The Tassis did not invent the relay. They organised the first large cross-border network run as a private business under contract, later open to private letters. The show's other episodes (Genghis Khan, Ibn Battuta) cover some of these earlier systems.
   **Why it was believed:** National postal histories and stamp-collecting literature celebrated the Taxis as "founders of the European post", and that slid into "inventors of the post".
   **Confidence:** medium
+  **Severity:** major
 
 ## Wrong (even in 1996)
 - **Quote:** "Et le voyage va durer plus de deux mois." [And the voyage will last more than two months.]
   **Today:** Juana's fleet left Laredo on 22 August 1496 and reached Arnemuiden near Middelburg on about 8 September, after storms and a stop on the English coast. The trip took under three weeks.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Bon, chambelan, faites lettre de patente pour que les Tassis acheminent la poste en nos provinces de Castille et d'Aragon." [Well, chamberlain, draw up letters patent so that the Tassis carry the post in our provinces of Castile and Aragon.]
   **Today:** The Spanish post came to the Tassis from **Philip the Handsome**, not from Ferdinand or Isabella. Philip made Francisco de Tassis *Correo Mayor* of Castile on 18 January 1505, and Charles confirmed the post and passed it to Baptista de Tassis in 1516–18. The race between couriers is invented.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Europe had roughly 80–100 million people around 1500.

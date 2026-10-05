@@ -9,14 +9,17 @@ None found.
   **Today:** Muscovy was poorer and less literate than western Europe, but it was not an intellectual desert. Western influences were already strong in the later 1600s through the Foreign Quarter of Moscow, Kievan scholars such as Simeon Polotsky, reformers such as Vasily Golitsyn and Ordin-Nashchokin, and the Slavo-Greco-Latin Academy (1687). Historians such as Lindsey Hughes stress that Peter sped up changes that had already begun.
   **Why it was believed:** Peter's own propaganda, and the 18th–19th-century "Westerniser" story, cast him as single-handedly dragging a dark Russia into Europe.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1978)
 - **Quote:** "voronezh on the don 700 kilometers from moscow"
   **Today:** Voronezh is about 470 km from Moscow in a straight line and a little over 500 km by road.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "May 1697, Peter I leaves Russia for the West"
   **Today:** The Grand Embassy left Moscow in March 1697. Peter travelled with it incognito.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - Peter aged 17 in 1689 and his foreign friends: the Scot Patrick Gordon and the Swiss Franz Lefort.

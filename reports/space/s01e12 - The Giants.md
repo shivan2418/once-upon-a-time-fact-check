@@ -9,17 +9,21 @@ None found.
   **Today:** The oldest known termite fossils are from the Early Cretaceous (about 130–135 million years ago; English and Spanish finds were already described by 1982). Molecular dating puts their origin in the Late Jurassic, about 150–170 million years ago, so not in the "primary era" (Paleozoic, which ended 252 million years ago). Since 2007 (Inward and colleagues) termites have been classed as a group of social cockroaches.
   **Why it was believed:** Termites were long described as "living fossils" related to cockroaches, and older books often dated them back to the Permian or earlier along with cockroaches.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1982)
 - **Quote:** "They can live only in tropical climate. Below 20 degrees centigrade, they perish."
   **Today:** Most termite species are tropical, but many live in temperate zones. *Reticulitermes* species have damaged houses in western and southwestern France (Bordeaux, La Rochelle) since the 18th–19th centuries and range across Europe and North America. Termites do keep their nests warm and humid, and many tropical species suffer outside that range, but the rule does not apply to termites in general.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "King, he's the only one that can fly."
   **Today:** The king and queen fly only on the swarming (nuptial) flight, then shed their wings. In an established nest the king cannot fly. The winged members of a mature colony are the young future kings and queens (alates). The line may be garbled in the transcript.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Then it concerned human beings in 1304."
   **Today:** No known event in 1304 matches "a population that breeds faster when facing death". The usual example is the rise in births after the Black Death (1347–51). The date may be a mishearing or a slip in the dub.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - A dying sun-like star "will change into a white dwarf" after throwing off its outer layers: correct (the red-giant stage comes first). "NGC 16612" is made up; the NGC catalogue stops at 7840.

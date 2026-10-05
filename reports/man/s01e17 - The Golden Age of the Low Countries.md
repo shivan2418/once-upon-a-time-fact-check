@@ -5,26 +5,32 @@ The episode traces the Netherlands from Burgundian rule and the Reformation thro
 - **Quote:** "In 1634 in Antwerp, the Viceroy Tulip was sold for four bulls, eight pigs, twelve sheep, a bed, and quite a few other items."
   **Today:** This famous list comes from a 1637 Dutch pamphlet, later popularised by Charles Mackay (1841). It was an imaginary illustration of what one Viceroy bulb's price could buy, not a real sale, and Antwerp (in the Spanish Netherlands) had nothing to do with it. Anne Goldgar's archival study *Tulipmania* (2007) and Peter Garber's work (1989, 2000) showed the mania was smaller than the legend: it was mostly limited to well-off merchants and craftsmen, few people were ruined, and the wider economy was barely affected. The "black tulip" being auctioned comes from Alexandre Dumas's 1850 novel; no black tulip existed then.
   **Confidence:** high
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "To quell the beggar's revolt he sent the inquisition, the duke of Alva's bloody dictatorship, special tribunals"
   **Today:** The Spanish Inquisition was never set up in the Netherlands. Charles V had already established a local heresy inquisition there in the 1520s, and fear that the Spanish version would come was one of the causes of the revolt. Alba's Council of Troubles (1567) and the executions of Egmont and Horn (1568) are accurate.
   **Why it was believed:** 19th-century Protestant histories, especially Motley's *Rise of the Dutch Republic* (1856), merged these into a "Spanish Inquisition" story.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1978)
 - **Quote:** "the Low Countries, Burgundian possession that Charles V was to acquire in 1519 from Habsburg's Austria."
   **Today:** Charles inherited the Burgundian Netherlands from his father Philip the Handsome in 1506 and began ruling them himself in 1515. What he inherited in 1519, from his grandfather Maximilian, were the Austrian Habsburg lands, and he was elected emperor that year.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "the city of Liège underwent violent pillaging in 1458."
   **Today:** Charles the Bold sacked and burned Liège in **1468**, after Louis XI had encouraged its revolt and then abandoned it. Charles only became duke in 1467. (A mishearing of "sixty-eight" is possible but unlikely.)
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Hugo Gracia's father of human rights was born there, as well as Descartes, who dared to question Aristotle"
   **Today:** Hugo Grotius is called the father of **international law** (and of natural law), not of human rights. Descartes was born in France, at La Haye in Touraine, though he lived in the Dutch Republic for about 20 years.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Spinoza, a refugee from the Spanish Inquisition, who chose the Netherlands as his new home."
   **Today:** Spinoza was born in Amsterdam in 1632. His family were Portuguese Jews whose parents' generation had fled the **Portuguese** Inquisition. He was not a refugee himself.
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - Charles the Bold beaten by the Swiss at Grandson and Morat (1476); Swiss de facto independence in 1499 (formally 1648).

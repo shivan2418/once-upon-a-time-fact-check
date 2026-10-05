@@ -7,6 +7,7 @@ The episode shows nerve cells as busy offices that receive thousands of messages
 - **Quote:** "they're the cells in the human body that are never renewed"
   **Today:** Most neurons do last a lifetime, but adults do grow some new neurons, at least in the hippocampus (a memory area). This was first shown in humans in 1998 (Eriksson and colleagues) and backed up by later work, including a 2025 study in *Science*. How much it happens is still debated.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 
@@ -17,6 +18,7 @@ None found.
 - **Quote:** "Coughing is a reflex, so you're entitled to go straight to the command centres bypassing the brain ... Shortcut along reflex road, and straight to the spinal column."
   **Today:** The cough reflex is run by the brainstem (the medulla), which is part of the brain. It is not a spinal reflex like the knee-jerk. The episode is right that the thinking part of the brain is skipped, but wrong that the signal goes straight to the spinal cord.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 

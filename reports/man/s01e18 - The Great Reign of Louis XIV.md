@@ -5,23 +5,28 @@ The episode opens in 1680 with Louis XIV at his height after the Treaty of Nijme
 - **Quote:** "Then a series of brutal winters. The people were in a wretched state... In a few months, 10% of the population had died."
   **Today:** The great famine of 1693–94 was one of the worst in French history, but the national death toll is now put at about 1.3 million excess deaths out of roughly 20–22 million people, about 6–7%. That estimate comes from Marcel Lachiver's *Les années de misère* (1991). Earlier figures leaned on local parish studies, such as Pierre Goubert's on the Beauvaisis (1960), where losses of 10% or more were common. The famine also lasted more than a year, not a few months. The 1709 "Great Winter" killed about another 600,000.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Common belief at the time
 - **Quote:** "the Marquise de Maintenon... Her passions were the church and politics. And so, to everyone's surprise, Louis became a religious fanatic. He revoked the Edict of Nantes in 1685."
   **Today:** Historians no longer think Madame de Maintenon drove the revocation. Pressure on the Huguenots had been building since the 1660s, with the dragonnades starting in 1681, before her secret marriage to Louis (about 1683). The revocation came from the king, his ministers (Louvois, Le Tellier) and the clergy. Her letters show only limited involvement.
   **Why it was believed:** Huguenot exiles and later writers such as Saint-Simon and 19th-century historians blamed the pious "secret wife", and the story stayed in popular histories.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1978)
 - **Quote:** "For the time being, the Sun King was still living in the Louvre, close to his subjects, whom he didn't trust." / "1682... moving. The Louvre to Versailles just recently finished."
   **Today:** Louis had largely left Paris and the Louvre by the late 1660s. From 1666 to 1682 the court was based mainly at Saint-Germain-en-Laye, and it moved from there to Versailles in May 1682.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "in 1683 sobieski king of poland france's ally defeated the turks at vienne"
   **Today:** Jan Sobieski had been elected with French backing in 1674 and was pro-French at first. By 1683, though, he had signed an alliance with Emperor Leopold I (March 1683), and France had tried to keep him out of the war. At Vienna he fought as the Emperor's ally against France's informal partner, the Ottomans.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "England... had wangled the right to explore and settle Canada, and much of America."
   **Today:** At the Peace of Utrecht (1713) Britain gained Newfoundland, Acadia (Nova Scotia) and the Hudson Bay region. Canada proper (the St Lawrence valley and Quebec) and Louisiana stayed French until the Seven Years' War (Treaty of Paris, 1763).
   **Confidence:** high
+  **Severity:** major
 
 ## Simplified but fine
 - Paris at about 450,000 people around 1680 (estimates run about 400,000–500,000) and the Treaty of Nijmegen (1678) as the high point of Louis's power.

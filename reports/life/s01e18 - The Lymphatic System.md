@@ -12,12 +12,14 @@ None found.
   **Today:** Lymphocytes are made in the bone marrow, and T cells then mature in the thymus. They multiply in lymph nodes and are named after lymph, but that is not where they start. This was known by the 1960s–70s. (The transcript is incomplete here, so the exact wording is uncertain.)
   **Why it was believed:** Lymphocytes multiply in lymph nodes and are named after lymph, and older textbooks and encyclopedias described the lymph nodes as where lymphocytes are made; the bone-marrow and thymus origin, established in the 1960s, reached popular references slowly.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1987)
 
 - **Quote:** "The spleen stores the metal and uses it to create new red corpuscles."
   **Today:** The spleen breaks down old red blood cells and recycles their iron, but in adults new red blood cells are made in the bone marrow, not the spleen. The spleen only makes red blood cells before birth.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 

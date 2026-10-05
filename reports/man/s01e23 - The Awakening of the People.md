@@ -5,44 +5,56 @@ The episode opens with a timeline of the steam engine, Britain's rise after Wate
 - **Quote:** "To the defeat, there was the commune of Paris and more victims in one week [than] during the entire French Revolution."
   **Today:** Older figures put the dead of the "Bloody Week" (May 1871) at about 20,000–35,000. Robert Tombs ("How Bloody was la Semaine sanglante of 1871?", *Historical Journal*, 2012) revised this to about 6,000–7,500 dead, perhaps up to 10,000. Even with the old figures, the comparison only works against the Terror **in Paris** (about 2,600–2,800 executions). Deaths in the Revolution as a whole, counting the Terror in the provinces and the Vendée war, ran far higher, so that comparison was never right.
   **Confidence:** medium
+  **Severity:** major
 
 ## Common belief at the time
 - **Quote:** "Rapid passing from one climate to another will surely have a fatal effect on the lungs. Pregnant women will have miscarriages. Or soldiers will become effeminate." (attributed to Arago), and the later warnings about retinal inflammation and "hysterics in our women"
   **Today:** Arago really did oppose the Versailles left-bank line (1838), partly over sudden temperature changes in tunnels, and he argued about the military use of railways. The miscarriage claim and similar medical warnings (like the supposed 1835 Bavarian doctors' report on "brain damage") are mostly later anecdotes and cannot be traced to real speeches or reports. Real Victorian medical worries did exist (for example "railway spine" in the 1860s), but they were narrower.
   **Why it was believed:** Lists of comic "anti-railway prophecies" were repeated in popular histories of the railway without sources.
   **Confidence:** low
+  **Severity:** minor
 
 ## Wrong (even in 1978)
 - **Quote:** "He stipulates that all vehicles must be preceded by a horse for a man carrying a large red flag." (in a scene set around 1829)
   **Today:** The "Red Flag Act" (requiring a man on foot to walk ahead with a red flag) was the Locomotive Act of **1865**, decades after the steam carriages of Gordon and Gurney shown here. Road-carriage builders of the 1830s were hit by heavy turnpike tolls instead.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "in 1833 that Lord Ashley could get the bill passed forbidding the employment of children under nine and restricting work hours to 13 for children from 9 to 13, only in the cotton industry."
   **Today:** The 1833 Factory Act covered most **textile** mills, not just cotton (the cotton-only law was 1819). It limited children aged 9–13 to **9 hours a day** (48 a week), and those aged 13–18 to 12. It was also the government's bill (Althorp's Act), passed after Ashley's own ten-hours bill had been set aside.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Same year in France, there was the interdiction to employ children under 8 years of age."
   **Today:** The French child-labour law was passed on 22 March **1841**, a year before the British Mines Act. Minor slip.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "the Belgians revolted and proclaimed their independence on October 1st, 1830."
   **Today:** The Provisional Government proclaimed Belgian independence on **4 October 1830**. Possibly a dub slip.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "The flag was red, but only as far as the Champs-Élysées and the flag tricolour has gone around the world"
   **Today:** Lamartine (25 February 1848) said the red flag had only gone round the **Champ-de-Mars**, not the Champs-Élysées. Likely a translation slip.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Countries of the German Empire, Baton, Hess, Nassau, Württemberg, Sachs, Hamburg, revolted."
   **Today:** There was no German Empire in 1848. The Holy Roman Empire ended in 1806, and the second Empire began in 1871. These were states of the **German Confederation**. The list itself (Baden, Hesse, Nassau, Württemberg, Saxony, Hamburg) is fine. Likely a dub slip.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "The 18th of March, uprisings in Milan, Venice, Palermo, Modena."
   **Today:** Milan's Five Days began on 18 March and Venice rose on 17–22 March, but **Palermo** rose on **12 January 1848**. It was the first revolution of the year, before even Paris.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "In August, with the help of the Russian army, they crush the Hungarian government."
   **Today:** Russian intervention and the Hungarian surrender at Világos came in **August 1849**, not in 1848 as the sequence implies. In 1848 Hungary was still winning.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "1856, a skull is found at Neanderthal in Westphalia."
   **Today:** The Neander Valley (Feldhofer Cave) is near Düsseldorf in the then **Prussian Rhine Province**, not Westphalia. The mix-up may come from the name of the society that published the find (Natural History Society of the Prussian Rhineland and Westphalia).
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "1864, in the Dordogne, on an inner wall of a grotto, paintings were discovered. ... man and mammoth had coexisted."
   **Today:** What Lartet and Christy found in 1864 at La Madeleine (Dordogne) was a mammoth **engraved on a piece of mammoth ivory**, a portable object, not a cave wall. Cave wall art was found later: Altamira (1879, accepted in 1902), and in the Dordogne La Mouthe (1895) and Font-de-Gaume and Combarelles (1901).
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - The steam timeline: Huygens's gunpowder engine (1673); Papin's work (his steam digester was 1679 and his piston cylinder 1690, so "1695" is loose); Savery (patent 1698); Newcomen (developed from about 1705, first working engine 1712); Watt's separate condenser (1765); Cugnot's steam carriage, "Cuneo's trolley" (1769–70); Trevithick's road locomotive (1801).

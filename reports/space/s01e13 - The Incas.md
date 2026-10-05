@@ -11,9 +11,11 @@ None found.
 - **Quote:** "Your society is magnificent, exactly as depicted in all the accounts of prehistory on the Earth. It is an Indian civilization in the year 1000."
   **Today:** What is shown (the decimal chain of officials, *chasqui* relay runners, state storehouses, the *ayllu* system under an imperial chief) is the **Inca Empire**, which expanded from about 1438 and fell to the Spanish in 1532–33. Around 1000 AD the Andes were dominated by Tiwanaku and Wari, which had some similar features (Wari used khipus and roads) but not this system.
   **Confidence:** medium
+  **Severity:** major
 - **Quote:** "These bellows are the largest, most powerful ever built"
   **Today:** Andean metalworkers had no bellows before the Spanish. They melted metal with blowpipes and wind-driven clay furnaces (*huayrachinas*) on hillsides, described by Spanish chroniclers such as José de Acosta. (The surrounding transcript is garbled.)
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - *Quipu* (knotted cords) as records of quantities; the colour code given (yellow for gold, etc.) follows the chronicler Garcilaso de la Vega and is only partly confirmed.

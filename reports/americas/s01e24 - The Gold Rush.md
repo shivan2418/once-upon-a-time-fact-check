@@ -11,6 +11,7 @@ None found.
 - **Quote:** "There were only 15 women present."
   **Today:** Women were scarce but not that scarce. About 700 women arrived by sea in 1849, out of roughly 40,000 sea-borne arrivals, and San Francisco had grown to about 25,000 people by the end of that year. The 1850 census found women were about 8% of California's non-Native population. The sentence before this one is cut off in the transcript ("out of a total population in San Francisco"), so the dub may have meant something narrower, such as women at one gathering.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - San Francisco as a sleepy Pacific town before 1848 (it had roughly 800–1,000 people), and merchants making fortunes selling pans and tools at hugely inflated prices, as Sam Brannan did.

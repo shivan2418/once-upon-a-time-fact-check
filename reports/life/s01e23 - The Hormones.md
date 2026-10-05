@@ -7,6 +7,7 @@ The episode introduces the hormone glands and shows the hypothalamus and pituita
 - **Quote:** "well he overdid things and to cope with the situation the hormones had to release all the reserves when these were all used up and the defense is exhausted the germs invaded the body"
   **Correct today:** Today's evidence doesn't support the idea that one bout of hard exercise leaves you open to infection, such as getting pneumonia after a long tennis match. A 2018 review (Campbell & Turner) concluded that exercise doesn't suppress immunity this way, and regular exercise improves immune function. The "exhausted defenses" idea was popular in the 1980s–90s, when it was known as the "open window" theory.
   **Confidence:** Medium
+  **Severity:** minor
 
 ## Common belief at the time
 
@@ -17,6 +18,7 @@ None found.
 - **Quote:** "Immediate secretion of TSH hormones in order to stimulate the thyroid gland, in order to make the metabolism speed up. The game has just begun"
   **Correct today:** The pituitary hormone TSH and thyroid hormones work over hours to days. They don't act within a tennis match to supply quick energy. The fast exercise hormones are adrenaline, noradrenaline and glucagon, which the episode also shows correctly.
   **Confidence:** Medium
+  **Severity:** minor
 
 ## Simplified but fine
 

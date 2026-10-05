@@ -15,6 +15,7 @@ None found.
 - **Quote:** "The muscle, the most important system in the human body, making up more than half its weight."
   **Correct today:** Skeletal muscle makes up about 30–40% of body weight in adults (roughly 40% in a fit young man, less in women and older people), not more than half. This was already the textbook figure in the 1980s.
   **Confidence:** High
+  **Severity:** minor
 
 ## Simplified but fine
 

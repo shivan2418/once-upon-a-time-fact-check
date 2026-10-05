@@ -99,10 +99,12 @@ def parse(md):
             today = re.search(r"\*\*(?:Correct today|Today)[^*]*:\*\*\s*(.+?)(?=\n\s*\*\*(?:Conf|Why)|\Z)", b, re.S)
             why = re.search(r"\*\*Why it was believed:\*\*\s*(.+?)(?=\n\s*\*\*|\Z)", b, re.S)
             conf = re.search(r"\*\*Confidence:\*\*\s*(.+)", b)
+            sev = re.search(r"\*\*Severity:\*\*\s*(\w+)", b)
             items.append(dict(quote=" ".join(q.group(1).split()),
                               today=" ".join(today.group(1).split()) if today else "",
                               why=" ".join(why.group(1).split()) if why else "",
-                              conf=(conf.group(1).strip() if conf else "").lower()))
+                              conf=(conf.group(1).strip() if conf else "").lower(),
+                              sev=sev.group(1).lower() if sev else "major"))
         secs[k] = items
     return int(title.group(1)), title.group(2).strip(), summary, secs
 
@@ -117,17 +119,23 @@ HEAD = '''<!doctype html>
 '''
 
 
+def majors(e):
+    return sum(1 for k in KINDS for i in e[k] if i["sev"] == "major")
+
+
 def series_page(key, series, years, topic, missing, eps, stamps):
-    n = {k: sum(len(e[k]) for e in eps) for k in KINDS}
-    n_clean = sum(1 for e in eps if not any(e[k] for k in KINDS))
+    n = {k: sum(1 for e in eps for i in e[k] if i["sev"] == "major") for k in KINDS}
+    n_minor = sum(1 for e in eps for k in KINDS for i in e[k] if i["sev"] != "major")
+    n_clean = sum(1 for e in eps if not any(i["sev"] == "major" for k in KINDS for i in e[k]))
 
     def claim(it, kind, ep):
         t = it["t"]
         when = (f'<span class="ts" title="Time in the episode">{t}</span>' if t
                 else '<span class="ts none" title="Could not locate the exact moment">—:—</span>')
         conf = it["conf"].split()[0].strip(".,()") if it["conf"] else ""
-        return f'''<li class="claim {kind}">
-  <div class="claim-meta"><span class="tag">{LABEL[kind]}</span><span class="where">E{ep:02d} · {when}</span>{f'<span class="conf">{html.escape(conf)} confidence</span>' if conf else ''}</div>
+        sev = "major" if it["sev"] == "major" else "minor"
+        return f'''<li class="claim {kind} {sev}">
+  <div class="claim-meta"><span class="tag">{LABEL[kind]}</span>{'<span class="sev">Minor slip</span>' if sev == "minor" else ''}<span class="where">E{ep:02d} · {when}</span>{f'<span class="conf">{html.escape(conf)} confidence</span>' if conf else ''}</div>
   <blockquote>{inline(it["quote"])}</blockquote>
   <p class="today"><span class="lbl">Today</span>{inline(it["today"])}</p>
   {f'<p class="why"><span class="lbl">Why it was believed</span>{inline(it["why"])}</p>' if it.get("why") else ''}
@@ -140,18 +148,22 @@ def series_page(key, series, years, topic, missing, eps, stamps):
     for e in eps:
         pairs = sorted([(i, k) for k in KINDS for i in e[k]], key=lambda p: tkey(p[0]))
         claims = [claim(i, k, e["n"]) for i, k in pairs]
-        c = len(claims)
+        c = sum(1 for i, k in pairs if i["sev"] == "major")
+        m = len(pairs) - c
         fine = "".join(f"<li>{inline(x)}</li>" for x in e["fine"])
-        body.append(f'''<section class="ep" id="e{e["n"]:02d}">
+        count = f'{c or "No"} major error{"s" if c != 1 else ""}' + (f' · {m} minor' if m else '')
+        hidden = f' <span class="if-hidden">{m} minor slip{"s" if m != 1 else ""} hidden.</span>' if m else ''
+        body.append(f'''<section class="ep{' no-major' if not c else ''}" id="e{e["n"]:02d}">
   <header class="ep-head"><span class="ep-no">Episode {e["n"]}</span><h2>{html.escape(e["title"])}</h2>
-  <span class="ep-count {'zero' if not c else ''}">{c or 'No'} issue{'s' if c != 1 else ''}</span></header>
+  <span class="ep-count {'zero' if not c else ''}">{count}</span></header>
   <p class="summary">{inline(e["summary"])}</p>
-  {f'<ol class="claims">{"".join(claims)}</ol>' if claims else '<p class="clean">Nothing outdated or wrong was found in this episode.</p>'}
+  {'' if c else f'<p class="clean">No major errors in this episode.{hidden}</p>'}
+  {f'<ol class="claims">{"".join(claims)}</ol>' if claims else ''}
   {f'<details class="fine"><summary>Simplified but fine ({len(e["fine"])})</summary><ul>{fine}</ul></details>' if fine else ''}
 </section>''')
     index = "".join(
-        f'<a href="#e{e["n"]:02d}" class="{"has" if any(e[k] for k in KINDS) else ""}"><b>{e["n"]}</b>{html.escape(e["title"])}'
-        f'<i>{sum(len(e[k]) for k in KINDS) or ""}</i></a>' for e in eps)
+        f'<a href="#e{e["n"]:02d}" class="{"has" if majors(e) else ""}"><b>{e["n"]}</b>{html.escape(e["title"])}'
+        f'<i>{majors(e) or ""}</i></a>' for e in eps)
     return HEAD.format(title=f"{html.escape(series)} Fact Check",
                        desc=f"Episode-by-episode fact check of {html.escape(series)} ({years}).") + f'''<body>
 <div class="wrap">
@@ -160,26 +172,33 @@ def series_page(key, series, years, topic, missing, eps, stamps):
   <h1>{html.escape(series)}</h1>
   <p class="lede">Every episode transcribed and checked against what we know today about {html.escape(topic)}. Each point shows the episode, the moment it is said, and the exact line from the English dub (or the original French, where no English upload exists).</p>
   <p class="key watch">Watch the episodes on the official <a href="https://www.youtube.com/@onceuponatimechannel">Hello Maestro YouTube channel</a>.</p>
-  <div class="tally"><span class="o"><b>{n["outdated"]}</b>outdated by later research</span><span class="c"><b>{n["common"]}</b>common beliefs of the time</span><span class="w"><b>{n["wrong"]}</b>wrong even when it aired</span><span><b>{n_clean}</b>episodes with nothing to flag</span></div>
+  <div class="tally"><span class="o"><b>{n["outdated"]}</b>outdated by later research</span><span class="c"><b>{n["common"]}</b>common beliefs of the time</span><span class="w"><b>{n["wrong"]}</b>wrong even when it aired</span><span><b>{n_clean}</b>episodes with no major errors</span></div>
+  <p class="key">These are the <strong>major errors</strong>: things a viewer could come away believing that are meaningfully wrong. We also found {n_minor} <strong>minor slips</strong> (a date, a name or a number slightly off, or a likely dubbing error) which are hidden unless you ask for them.</p>
   <p class="key"><strong>Outdated</strong>: matched what was known at the time, but newer research changed the picture. <strong>Common belief then</strong>: specialists already knew better, but textbooks and popular books of the day still said it. <strong>Wrong in its day</strong>: a careful writer could have got it right from ordinary references; often a slip in a number, a name or the dubbing. Plain simplifications for children are not counted; they are listed under each episode. <a href="./#method">How this was made</a>.</p>
   {f'<p class="key missing">{html.escape(missing)}</p>' if missing else ''}
   <div class="filters" role="group" aria-label="Show">
-    <button type="button" data-f="all" aria-pressed="true">All points</button>
+    <button type="button" data-f="all" aria-pressed="true">All kinds</button>
     <button type="button" data-f="outdated" aria-pressed="false">Outdated only</button>
     <button type="button" data-f="common" aria-pressed="false">Common belief only</button>
     <button type="button" data-f="wrong" aria-pressed="false">Wrong in its day only</button>
+    <button type="button" class="minor-toggle" aria-pressed="false">Show {n_minor} minor slips too</button>
   </div>
   <nav class="index" aria-label="Episodes">{index}</nav>
   {"".join(body)}
   <footer>Quotes come from machine transcripts of the official uploads and may contain small transcription errors; timestamps are approximate and left blank where the line could not be located. These checks were made with AI assistance and can be wrong: see <a href="./#method">methodology</a> and <a href="https://github.com/shivan2418/once-upon-a-time-fact-check/issues">report a mistake</a>. Checked October 2026.</footer>
 </div>
 <script>
-document.querySelectorAll('.filters button').forEach(b => b.addEventListener('click', () => {{
-  document.querySelectorAll('.filters button').forEach(x => x.setAttribute('aria-pressed', x === b));
+document.querySelector('.minor-toggle').addEventListener('click', e => {{
+  const on = e.currentTarget.getAttribute('aria-pressed') !== 'true';
+  e.currentTarget.setAttribute('aria-pressed', on);
+  if (on) document.body.dataset.minor = 'show'; else delete document.body.dataset.minor;
+}});
+document.querySelectorAll('.filters button[data-f]').forEach(b => b.addEventListener('click', () => {{
+  document.querySelectorAll('.filters button[data-f]').forEach(x => x.setAttribute('aria-pressed', x === b));
   if (b.dataset.f === 'all') delete document.body.dataset.only; else document.body.dataset.only = b.dataset.f;
 }}));
 </script>
-''', n, n_clean
+''', n, n_clean, n_minor
 
 
 def main():
@@ -187,6 +206,7 @@ def main():
     cards = []
     total = {k: 0 for k in KINDS}
     n_eps = 0
+    total_minor = 0
     for key, series, years, topic, missing in SERIES:
         eps = []
         for f in sorted((ROOT / "reports" / key).glob("s01e*.md")):
@@ -201,26 +221,29 @@ def main():
                         stamps[sk] = fmt_t(tt) if tt is not None else None
                     it["t"] = stamps.get(sk)
             eps.append(dict(n=n, title=t, summary=summary, **{k: secs.get(k, []) for k in KINDS + ("fine",)}))
-        page, n, n_clean = series_page(key, series, years, topic, missing, eps, stamps)
+        page, n, n_clean, n_minor = series_page(key, series, years, topic, missing, eps, stamps)
         (DOCS / f"{key}.html").write_text(page)
         for k in KINDS:
             total[k] += n[k]
+        total_minor += n_minor
         n_eps += len(eps)
-        cards.append((key, series, years, topic, len(eps), n, n_clean))
+        cards.append((key, series, years, topic, len(eps), n, n_minor))
         located = sum(1 for e in eps for k in KINDS for i in e[k] if i["t"])
-        print(f"docs/{key}.html: {len(eps)} episodes, {n['outdated']}/{n['common']}/{n['wrong']}, {located}/{sum(n.values())} timestamped")
+        print(f"docs/{key}.html: {len(eps)} episodes, major {n['outdated']}/{n['common']}/{n['wrong']}, {n_minor} minor, {located} timestamped")
     STAMPS.write_text(json.dumps(stamps, indent=0, ensure_ascii=False, sort_keys=True))
-    (DOCS / "index.html").write_text(index_page(cards, total, n_eps))
-    print(f"docs/index.html: {n_eps} episodes, {sum(total.values())} points")
+    (DOCS / "index.html").write_text(index_page(cards, total, total_minor, n_eps))
+    print(f"docs/index.html: {n_eps} episodes, {sum(total.values())} major, {total_minor} minor")
 
 
-def index_page(cards, total, n_eps):
+def index_page(cards, total, total_minor, n_eps):
     grid = "".join(f'''<a class="card" href="{key}.html">
   <span class="card-year">{years}</span>
   <h3>{html.escape(series.replace("Once Upon a Time... ", ""))}</h3>
   <span class="card-topic">{html.escape(topic[0].upper() + topic[1:])} · {neps} episodes</span>
+  <span class="card-major"><b>{sum(n.values())}</b> major errors</span>
   <span class="card-n"><span class="o">{n["outdated"]} outdated</span><span class="c">{n["common"]} common belief</span><span class="w">{n["wrong"]} wrong</span></span>
-</a>''' for key, series, years, topic, neps, n, n_clean in cards)
+  <span class="card-minor">+ {n_minor} minor slips</span>
+</a>''' for key, series, years, topic, neps, n, n_minor in cards)
     return HEAD.format(title="Once Upon a Time Fact Check",
                        desc="A fan-made, episode-by-episode fact check of six Once Upon a Time... series by Albert Barillé.") + f'''<body>
 <div class="wrap">
@@ -229,6 +252,7 @@ def index_page(cards, total, n_eps):
   <p class="lede big">We love these series. Albert Barillé's <em>Once Upon a Time…</em> cartoons taught a whole generation how the body works, where we came from and who went where first, and they still hold up as some of the best educational television ever made.</p>
   <p class="lede">They were also made between 1978 and 1996. Science has moved on, history has been rewritten in places, and a few things were simply wrong even then. This site is not a takedown. It is a companion: go ahead and watch the episodes (they are free on the official <a href="https://www.youtube.com/@onceuponatimechannel">Hello Maestro YouTube channel</a>), with your kids or on your own, and come here if you want to know which lines to take with a grain of salt.</p>
   <div class="tally"><span><b>{n_eps}</b>episodes checked</span><span class="o"><b>{total["outdated"]}</b>outdated</span><span class="c"><b>{total["common"]}</b>common beliefs then</span><span class="w"><b>{total["wrong"]}</b>wrong in their day</span></div>
+  <p class="key">Counting only <strong>major errors</strong>, the ones that would leave you with a wrong idea. Another {total_minor} minor slips (a date, a name or a number slightly off) are listed on each series page if you want them.</p>
   <h2 class="sec">The series</h2>
   <div class="cards">{grid}</div>
   <p class="key">The episodes are on the official <a href="https://www.youtube.com/@onceuponatimechannel">Hello Maestro YouTube channel</a>.</p>
@@ -240,6 +264,7 @@ def index_page(cards, total, n_eps):
     <div class="common"><dt>Common belief then</dt><dd>Specialists already knew better, but encyclopedias, school books and popular books still said it, so a writer would easily have repeated it. Each comes with a note on why it was believed.</dd></div>
     <div class="wrong"><dt>Wrong in its day</dt><dd>A careful writer could have got it right from ordinary references. Many of these are small slips in a date, a number or a name, and some are probably dubbing or translation errors.</dd></div>
   </dl>
+  <p>Every point is also rated <strong>major</strong> or <strong>minor</strong>. Major means a viewer who believed the line would come away with a meaningfully wrong idea: a myth told as history, a wrong explanation of how the body or nature works, the wrong person credited, a people described as extinct who are still here. Minor means the lesson of the scene survives: a date or a number slightly off, a mixed-up name of a secondary figure, a likely dubbing slip. The series pages show major errors by default; minor slips are one click away.</p>
   <p>Simplifications made for children ("the heart is a pump") are not counted as errors. They are listed under each episode as "simplified but fine". Each point also carries a confidence level, high or medium.</p>
 
   <h2 class="sec" id="method">Methodology</h2>

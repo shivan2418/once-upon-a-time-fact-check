@@ -5,24 +5,29 @@ The episode opens with the history of flight from Leonardo to Blériot and First
 - **Quote:** "War dead? More than 50 million."
   **Today:** "Over 50 million" was the standard figure in the 1970s. Most estimates are now about 70–85 million. The rise came mainly from higher Soviet losses: about 20 million under the Soviet line, but around 26–27 million after figures released from 1990 (Krivosheev 1993, among others). Revised figures for China (about 15–20 million) also raised the total.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "In 1932, with the powerful support of German capital and the military, the Nazis won 37% of the vote."
   **Today:** The 37% (July 1932) is right. But Henry Ashby Turner's *German Big Business and the Rise of Hitler* (1985) and later research showed that big business gave the Nazis little money before 1933 and mostly backed conservative parties. The party ran mainly on members' dues and small donations. The army leadership was split and wary until Hitler was in office.
   **Confidence:** medium
+  **Severity:** major
 
 ## Common belief at the time
 - **Quote:** "1920, Adrian Boland is the first woman pilot to cross the English Channel."
   **Today:** The American Harriet Quimby flew across the Channel on 16 April 1912, eight years before Adrienne Bolland. Bolland's real firsts were other ones, above all her crossing of the Andes in 1921 as the first woman to do so.
   **Why it was believed:** French aviation histories credited Bolland, and Quimby's flight got little notice because the *Titanic* sank the day before.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "10 million civilians, women, children, old people exterminated in the Nazi concentration camps"
   **Today:** About 6 million Jews were murdered in the Holocaust, but roughly half of them were shot or died in ghettos rather than in camps. Non-Jewish victims (Soviet POWs, Poles, Roma, disabled people and others) bring Nazi killings of civilians and prisoners to perhaps 11–17 million in all, but not all in camps. Auschwitz's toll, long given as 4 million, was revised to about 1.1 million by the Auschwitz Museum (Franciszek Piper, 1990–91).
   **Why it was believed:** The Soviet figure of 4 million for Auschwitz and figures like Wiesenthal's "11 million" circulated widely, and all Nazi mass killing was often summed up as "the camps".
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1978)
 - **Quote:** "In 1933, Hitler comes to power with a vote of 89%."
   **Today:** Hitler was appointed chancellor by President Hindenburg on 30 January 1933 after the Nazis had won only 33% in November 1932. Even in the March 1933 election, held under terror, they got 43.9%. The roughly 90% figures come from later plebiscites: November 1933 (about 92% for the single list) and August 1934 (about 89–90% approving his role as Führer).
   **Confidence:** high
+  **Severity:** major
 
 ## Simplified but fine
 - Early flight attempts: Leonardo's studies (1490s), Besnier (1678), Bacqueville (1742), Degen (about 1807–09), Stringfellow (1868), Moy (1875), Tatin (1879, "Patin" in the transcript). Lilienthal glided from 1891, not only 1895; Ader's 1897 machine; the Wrights (1903), Santos-Dumont at Bagatelle (1906), Ellehammer, Blériot crossing the Channel (1909).

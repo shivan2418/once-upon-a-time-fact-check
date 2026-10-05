@@ -9,34 +9,43 @@ None found.
   **Today:** On the first voyage Columbus reached only Caribbean islands (the Bahamas, Cuba, Hispaniola), and he believed they were part of Asia. He first touched the South American mainland in 1498. The islands were home to hundreds of thousands of Taíno and other peoples, and Norse Greenlanders had reached Newfoundland around 1000 (L'Anse aux Meadows, dated to 1021 by tree rings in 2021). The episode itself shows that he thought he was near Cipango, so this line contradicts its own story.
   **Why it was believed:** "Columbus discovered America" was the standard schoolbook formula, especially around the 1992 quincentenary.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "Why not take them as slaves?"
   **Today:** The episode gives the slaving idea to someone else and shows Isabella freeing the captives, so Columbus seems to be a well-meaning victim of unruly settlers. In fact Columbus himself shipped about 500 Taíno to Spain for sale in 1495. He also set up the gold-tribute system on Hispaniola (1495–96), which was enforced with great brutality. Isabella did order enslaved Indians to be returned home in 1500, but disease, forced labour and war had already devastated the Taíno. Spanish counts found about 60,000 on Hispaniola in 1508 and about 26,000 in 1514, out of a pre-contact population variously estimated from a few hundred thousand to over a million. "The gentle natives had had enough" also softens what happened at La Navidad: the Taíno killed the whole garrison of 39 after its men seized women and gold.
   **Why it was believed:** The heroic Columbus of Washington Irving (1828) and Samuel Eliot Morison (1942) dominated popular history. The critical view, based on Las Casas, was well known to historians (e.g. Kirkpatrick Sale, *The Conquest of Paradise*, 1990) but had only just started to reach the public around 1992.
   **Confidence:** high
+  **Severity:** major
 - **Quote:** "He paralyzed, miserable, and abandoned by everybody."
   **Today:** Columbus was ill (probably reactive arthritis, then called gout, and an eye inflammation), but he was not paralysed. He was not poor or forgotten either. He kept a share of the revenue from the Indies, lived in Valladolid with his sons and servants, and went on petitioning the Crown. His son Diego later became governor of the Indies. What he lost was his power as viceroy, not his wealth.
   **Why it was believed:** "Died in poverty and neglect" is a 19th-century romantic theme (Irving, Lamartine) that schoolbooks repeated.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1991)
 - **Quote:** "14th of March, 1493, 224 days after his departure, Christopher Columbus returned to Palos,"
   **Today:** Columbus reached Palos on **15** March 1493. The show's own count, 224 days from the departure on 3 August 1492, also lands on 15 March. He had stopped in the Azores and at Lisbon on the way.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "He brought back no gold, but rather, he brought back maize, corn, maniak, tobacco, and Indians."
   **Today:** He brought back some gold: nuggets, gold masks and ornaments, which were shown to the monarchs in Barcelona. He also brought parrots and about ten Taíno, who had been taken by force (six or seven survived to be presented at court). Maize and tobacco were described on the first voyage, but it is not clear that he brought back seeds or manioc in 1493.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Gentlemen, would any of you be able to make this egg that I hold stand up on end?"
   **Today:** The "egg of Columbus" is a legend. It was first printed by Girolamo Benzoni in 1565, long after Columbus died, and Vasari (1550) had already told the same story about the architect Brunelleschi. The episode presents it as a real event.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "The 24th of August, 1500, Bodabia arrived in Hispaniola."
   **Today:** Francisco de Bobadilla ("Bodabia" is a mishearing) reached Santo Domingo on 23 August 1500. This is an error of one day.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "He returned and retired to a Franciscan monastery and began a period of penance."
   **Today:** After coming back in chains (1500), Columbus lived mainly at the **Carthusian** monastery of Las Cuevas in Seville. There he compiled his *Book of Privileges* and *Book of Prophecies* and lobbied for another voyage. He was linked to the Franciscans (he wore their habit after 1496 and was buried in it), so this is a near miss.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "Two years after his return, Queen Isabella died two more years, and Columbus died too."
   **Today:** Columbus returned from his fourth voyage on 7 November 1504, and Isabella died on 26 November 1504, less than three weeks later. Columbus died on 20 May 1506, about 18 months after that. "Two years" may be a mishearing of "two weeks".
   **Confidence:** high
+  **Severity:** minor
 
 ## Simplified but fine
 - Palos ordered by royal decree to supply two caravels within ten days (read out in May 1492). Martín Alonso Pinzón commanded the Pinta and his brother Vicente Yáñez the Niña. "Congo" is a mishearing of Cathay or Cipango.

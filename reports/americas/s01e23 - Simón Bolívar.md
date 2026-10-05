@@ -9,24 +9,30 @@ None found.
   **Today:** The episode shows Bolívar as the only selfless man among greedy rivals. In fact he wanted power too. He wrote the 1826 Bolivian constitution with a president for life, and he ruled Gran Colombia as dictator from August 1828 under his Organic Decree. Fear of that dictatorship, and of rumoured plans for a monarchy, drove much of the opposition, including the September 1828 plot. Historians since Salvador de Madariaga (1951) and John Lynch (*Simón Bolívar: A Life*, 2006) describe a great but authoritarian leader.
   **Why it was believed:** An official cult of Bolívar in Venezuela and Colombia shaped schoolbooks and popular biographies.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "The traitor who organized this plot, General Santander, is condemned to death."
   **Today:** Santander was condemned to death after the attempt of 25 September 1828, and Bolívar commuted the sentence to exile, as the episode shows. But Santander's role is disputed. He knew a conspiracy was being planned and did not report it. Whether he organised it was never proven, and the trial was hasty and political.
   **Why it was believed:** The Bolivarian version of events, and the verdict itself, made Santander the villain in popular accounts.
   **Confidence:** medium
+  **Severity:** minor
 
 ## Wrong (even in 1991)
 - **Quote:** "Wellington inflicted a stinging defeat on the French at Waterloo,"
   **Today:** The scene is set in 1813–14, after Bolívar entered Caracas (August 1813). Waterloo was in June 1815. The defeat that drove the French out of Spain was **Vitoria** (21 June 1813), and Ferdinand VII returned to Spain in March 1814.
   **Confidence:** high
+  **Severity:** minor
 - **Quote:** "and creoles, whose frustrations and misery he knew how to play on."
   **Today:** Boves's llaneros ("Leoneros" is a mishearing) were mostly pardos (people of mixed African, European and Indigenous descent), free Black people and enslaved people, with some Indigenous people. "Creoles" (criollos) meant American-born whites, the class Boves turned his followers against, as his own line "kill the whites" shows. This may be a translation slip.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "The Congress declares unanimously the Republic of Venezuela free and independent."
   **Today:** The vote of 5 July 1811 was not unanimous. Most accounts give 40 deputies for. At least one, the priest Manuel Vicente Maya, voted against, and some counts give more dissenters.
   **Confidence:** medium
+  **Severity:** minor
 - **Quote:** "When the man who wanted to unite all of Latin America died at 47, the region had no fewer than 16 countries."
   **Today:** The age is right: born 24 July 1783, died 17 December 1830. But in 1830 Latin America had about 13 independent states: Mexico, the Central American Federation, Venezuela, New Granada, Ecuador, Peru, Bolivia, Chile, the United Provinces (Argentina), Paraguay, Uruguay, Brazil and Haiti. Sixteen or more came only after the Central American Federation broke up (1838–41) and the Dominican Republic was founded (1844).
   **Confidence:** medium
+  **Severity:** minor
 
 ## Simplified but fine
 - His death at Santa Marta (1830). Simón Rodríguez as his tutor (1790s) teaching Rousseau-style ideas of liberty and against slavery.
