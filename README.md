@@ -14,11 +14,12 @@ Episodes from the official [Hello Maestro YouTube](https://www.youtube.com/@once
 ## Repository layout
 
 - `reports/<series>/s01eNN - <Title>.md`: one fact-check report per episode (the source of truth)
+- `transcripts/<series>/s01eNN.txt` and `.srt`: the raw, unedited Whisper transcripts (plain text and timed subtitles). They contain speech-recognition errors, especially in names and numbers. Episodes marked French on the site are transcribed in French.
 - `data/timestamps.json`: the time in the episode for each quoted line
-- `build.py`: builds the site into `docs/` (`python3 build.py`; pass `--transcripts DIR` to recompute timestamps from `.srt` files)
+- `build.py`: builds the site into `docs/` (`python3 build.py`; timestamps are recomputed from `transcripts/`)
 - `docs/`: the published GitHub Pages site
 
-Transcripts and videos are not included.
+Videos are not included; watch them on the official channel.
 
 ## Corrections
 

@@ -4,7 +4,7 @@
 usage: python3 build.py [--transcripts DIR]
 
   reads   reports/<series>/s01eNN - <Title>.md     (one fact-check report per episode)
-          DIR/<series>/s01eNN.srt                  (optional: Whisper subtitles, to time-stamp quotes)
+          transcripts/<series>/s01eNN.srt          (Whisper subtitles, to time-stamp quotes; or --transcripts DIR)
   writes  data/timestamps.json                     (quote -> time, so the site rebuilds without transcripts)
           docs/index.html, docs/<series>.html
 """
@@ -13,7 +13,7 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-TX = Path(sys.argv[sys.argv.index("--transcripts") + 1]) if "--transcripts" in sys.argv else None
+TX = Path(sys.argv[sys.argv.index("--transcripts") + 1]) if "--transcripts" in sys.argv else ROOT / "transcripts"
 STAMPS = ROOT / "data" / "timestamps.json"
 DOCS = ROOT / "docs"
 
@@ -158,7 +158,7 @@ def series_page(key, series, years, topic, missing, eps, stamps):
   <a class="back" href="./">← All six series</a>
   <p class="kicker">Fact check · first aired {years}</p>
   <h1>{html.escape(series)}</h1>
-  <p class="lede">Every episode transcribed and checked against current {html.escape(topic)}. Each point shows the episode, the moment it is said, and the exact line from the English dub (or the original French, where no English upload exists).</p>
+  <p class="lede">Every episode transcribed and checked against what we know today about {html.escape(topic)}. Each point shows the episode, the moment it is said, and the exact line from the English dub (or the original French, where no English upload exists).</p>
   <p class="key watch">Watch the episodes on the official <a href="https://www.youtube.com/@onceuponatimechannel">Hello Maestro YouTube channel</a>.</p>
   <div class="tally"><span class="o"><b>{n["outdated"]}</b>outdated by later research</span><span class="c"><b>{n["common"]}</b>common beliefs of the time</span><span class="w"><b>{n["wrong"]}</b>wrong even when it aired</span><span><b>{n_clean}</b>episodes with nothing to flag</span></div>
   <p class="key"><strong>Outdated</strong>: matched what was known at the time, but newer research changed the picture. <strong>Common belief then</strong>: specialists already knew better, but textbooks and popular books of the day still said it. <strong>Wrong in its day</strong>: a careful writer could have got it right from ordinary references; often a slip in a number, a name or the dubbing. Plain simplifications for children are not counted; they are listed under each episode. <a href="./#method">How this was made</a>.</p>
@@ -245,7 +245,7 @@ def index_page(cards, total, n_eps):
   <h2 class="sec" id="method">Methodology</h2>
   <ol class="steps">
     <li><strong>Sources.</strong> We used the official uploads on the Hello Maestro YouTube channels, in the English dub. Where an episode is only available in the original French, it was checked in French and quoted in French with an English translation. A few episodes could not be found in English or French and are left out; each series page says which.</li>
-    <li><strong>Transcription.</strong> Every episode was transcribed with OpenAI's open-source Whisper speech recognition model (large-v3-turbo, run locally through whisper.cpp with voice activity detection). The result is a timed transcript of the whole episode.</li>
+    <li><strong>Transcription.</strong> Every episode was transcribed with OpenAI's open-source Whisper speech recognition model (large-v3-turbo, run locally through whisper.cpp with voice activity detection). The result is a timed transcript of the whole episode. The raw transcripts are published in the <a href="https://github.com/shivan2418/once-upon-a-time-fact-check/tree/main/transcripts">GitHub repository</a>, unedited, so you can check any quote in context.</li>
     <li><strong>Fact-checking.</strong> Each transcript was read in full by an AI model (Anthropic's Claude), a few episodes at a time, with instructions to check every claim the episode presents as fact (dates, names, numbers, how things work, who did what first), to sort each problem into the categories above, to say what is known today, to be conservative, and to treat garbled names or numbers as likely transcription errors rather than the show's fault. The checker used web searches to confirm specific dates, figures and recent findings where needed. For <em>Space</em>, only real science and history were checked, not the science-fiction plot.</li>
     <li><strong>Quotes and timestamps.</strong> Every quote had to be copied word for word from the transcript, and was then matched back to the subtitle timing to get the minute and second it is said.</li>
     <li><strong>Review.</strong> We read through the results and corrected problems we found along the way. Examples include mislabelled uploads (an episode that turned out to be a different one) and old British "billions" (a million millions) that had been flagged as wrong when they were right for the time. This was a careful read, not formal peer review.</li>

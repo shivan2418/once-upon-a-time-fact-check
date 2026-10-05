@@ -1,0 +1,1052 @@
+1
+00:00:06,980 --> 00:01:41,340
+ We've always wanted a voyage to the moon, what an adventure, going back in ancient times.
+
+2
+00:01:41,340 --> 00:01:43,180
+ Go again with these Greeks.
+
+3
+00:01:43,180 --> 00:01:44,350
+ Yes, you're right.
+
+4
+00:01:44,350 --> 00:01:47,360
+ The Greeks dreamed of a tornado carrying a ship to the moon.
+
+5
+00:01:47,360 --> 00:01:51,170
+ Around the year 1000, the Persian king, Caicos, had another idea.
+
+6
+00:01:51,170 --> 00:01:52,770
+ Go gather eagles.
+
+7
+00:01:52,770 --> 00:02:05,120
+ These of law.
+
+8
+00:02:05,120 --> 00:02:40,770
+ 169, Galileo observed the moon with a telescope.
+
+9
+00:02:40,770 --> 00:02:42,230
+ Creators.
+
+10
+00:02:42,230 --> 00:02:43,290
+ Mountains.
+
+11
+00:02:43,290 --> 00:02:53,120
+ In 1700, the Englishman David Russon had an idea.
+
+12
+00:02:53,120 --> 00:03:58,220
+ Detail for imaginary vocible. Why?
+
+13
+00:03:58,220 --> 00:04:01,920
+ It wasn't powerful enough.
+
+14
+00:04:01,920 --> 00:04:03,840
+ They couldn't aim it accurately.
+
+15
+00:04:03,840 --> 00:04:07,080
+ It's just too far away.
+
+16
+00:04:07,080 --> 00:04:08,700
+ Yes, but there's another reason.
+
+17
+00:04:08,700 --> 00:04:14,000
+ Shooting a cannon is too strong. The projectile is too fast. The men inside would be crashed.
+
+18
+00:04:14,510 --> 00:04:21,110
+ That is the precise answer. To date, in any known technology, there is only one way to send human beings into space safely, and that's rockets.
+
+19
+00:04:21,410 --> 00:04:24,930
+ The first to achieve this was a Russian, Konstantin Chalovsky.
+
+20
+00:04:25,180 --> 00:04:30,930
+ The moon is 380,000 kilometers from the Earth and circles our planet every 27 days. You, the distance.
+
+21
+00:04:31,070 --> 00:04:31,610
+ A long way.
+
+22
+00:04:32,180 --> 00:04:33,450
+ Yeah, a long way.
+
+23
+00:04:33,620 --> 00:04:34,920
+ Anyway, you'll never get there.
+
+24
+00:04:35,660 --> 00:04:38,270
+ I was listening to what I said. Konstantin?
+
+25
+00:04:38,270 --> 00:04:42,830
+ You said it's 380,000 kilometers away, and so one day man will get there.
+
+26
+00:04:42,990 --> 00:04:45,150
+ Regarding distance, you are right, Constantine.
+
+27
+00:04:45,330 --> 00:04:47,520
+ But how would you suggest we get there?
+
+28
+00:04:47,620 --> 00:04:48,710
+ Using a rocket, sir.
+
+29
+00:04:49,200 --> 00:05:03,380
+ Jules Verne already wrote that hydrogen and hydrogen form an explosive mixture.
+
+30
+00:05:03,700 --> 00:05:06,760
+ There is combustion, and the hot gas is directed back away using a tube,
+
+31
+00:05:07,170 --> 00:05:08,650
+ propelling the rocket forward.
+
+32
+00:05:10,870 --> 00:05:13,430
+ He discovered everything.
+
+33
+00:05:13,670 --> 00:05:16,550
+ He did the calculations, but it's always the same story.
+
+34
+00:05:16,630 --> 00:05:17,730
+ No one was at all interested.
+
+35
+00:05:17,990 --> 00:05:23,660
+ But just a few years later, an American, Robert Goddard...
+
+36
+00:05:23,660 --> 00:05:28,670
+ That one didn't work, but I know what I'll do!
+
+37
+00:05:28,670 --> 00:05:51,870
+ Oxygen and gasoline, that should work!
+
+38
+00:05:51,870 --> 00:05:53,370
+ Right, let's try it!
+
+39
+00:05:53,370 --> 00:05:55,710
+ This day is truly historic!
+
+40
+00:05:55,710 --> 00:05:58,850
+ We are going to perform the first test of a liquid-powered rocket!
+
+41
+00:05:58,850 --> 00:06:01,550
+ Only watch it, Robert, it might explode!
+
+42
+00:06:01,550 --> 00:06:23,640
+ Liquid-fuel rockets wrote a new chapter in the story of astronautics.
+
+43
+00:06:23,640 --> 00:06:24,510
+ Spaceflight.
+
+44
+00:06:24,510 --> 00:06:26,310
+ But guarded remained almost unknown.
+
+45
+00:06:26,310 --> 00:06:27,520
+ Meanwhile, in Europe...
+
+46
+00:06:27,520 --> 00:06:39,470
+ ...the test...
+
+47
+00:06:39,470 --> 00:06:43,760
+ Von Braun, could you make a rocket?
+
+48
+00:06:43,760 --> 00:06:46,510
+ If in time, it's possible.
+
+49
+00:06:46,510 --> 00:07:01,930
+ Then make one, and quick!
+
+50
+00:07:01,930 --> 00:07:26,910
+ Range of more than 300 kilometers, a gyroscope, and a guidance system.
+
+51
+00:07:26,910 --> 00:08:18,160
+ To see a terrible weapon, the Nazis lost the war.
+
+52
+00:08:18,160 --> 00:08:21,560
+ After the war, it began. The race to the moon, the race to space.
+
+53
+00:08:21,560 --> 00:08:24,990
+ Of course, everyone needed the German rocket technicians.
+
+54
+00:08:24,990 --> 00:08:26,490
+ We lost the war.
+
+55
+00:08:26,490 --> 00:08:30,210
+ Just when our rockets with the 4,000-kilometer range were almost ready.
+
+56
+00:08:30,210 --> 00:08:31,310
+ Simple.
+
+57
+00:08:31,310 --> 00:08:32,770
+ The Russians are that way.
+
+58
+00:08:32,770 --> 00:08:34,720
+ The Americans are that way.
+
+59
+00:08:34,720 --> 00:08:36,170
+ Where do you want to go?
+
+60
+00:08:36,170 --> 00:08:38,750
+ To Siberia or to Texas?
+
+61
+00:08:38,750 --> 00:08:40,690
+ To Texas!
+
+62
+00:08:40,690 --> 00:08:42,780
+ Oh, you prefer Siberia.
+
+63
+00:08:42,780 --> 00:08:44,280
+ No, no, Tima, I made a mistake.
+
+64
+00:08:44,280 --> 00:08:45,920
+ If you're to Texas, I wanna go to Texas!
+
+65
+00:08:45,920 --> 00:08:54,830
+ The great match would begin between the two most powerful nations in the world, the United States and the Soviet Union.
+
+66
+00:08:57,390 --> 00:09:00,710
+ Nikita Khrushchev, champion of the Soviet Union.
+
+67
+00:09:02,400 --> 00:09:06,550
+ My right, the President of the United States, Dwight Eisenhower.
+
+68
+00:09:07,460 --> 00:09:08,480
+ Khrushchev to serve.
+
+69
+00:09:17,450 --> 00:09:23,900
+ The Soviets placed a satellite in orbit and it's circling the Earth.
+
+70
+00:09:24,280 --> 00:09:25,050
+ One, love.
+
+71
+00:09:27,280 --> 00:09:31,930
+ The Soviet Union puts Sputnik 2 in orbit with a dog aboard.
+
+72
+00:09:32,030 --> 00:09:33,490
+ Two to nothing for the Soviet Union.
+
+73
+00:09:37,380 --> 00:09:38,140
+ Mr. President.
+
+74
+00:09:39,880 --> 00:09:43,750
+ Flora, the first American satellite, is put in orbit.
+
+75
+00:09:44,110 --> 00:09:44,780
+ Two to one.
+
+76
+00:09:46,850 --> 00:09:47,580
+ Autovarist.
+
+77
+00:09:47,740 --> 00:10:01,880
+ First pictures from the hidden side of the moon. Nice, aren't they?
+
+78
+00:10:03,860 --> 00:10:07,320
+ 4-1 in favor of the Soviet Union. Khrushchev to serve.
+
+79
+00:10:08,430 --> 00:10:10,970
+ I write the new American champion, John F. Kennedy.
+
+80
+00:10:11,940 --> 00:10:13,680
+ 7-2 in favor of the Soviet Union.
+
+81
+00:10:17,460 --> 00:10:24,560
+ The Soviet Union. Gagarin and Titov, the first men in space orbit.
+
+82
+00:10:25,860 --> 00:10:28,750
+ Two American launchings that do not achieve orbit.
+
+83
+00:10:29,910 --> 00:10:35,230
+ Still, two points. 9-4 for the Soviet Union.
+
+84
+00:10:43,050 --> 00:10:48,790
+ Is that all?
+
+85
+00:10:51,110 --> 00:10:57,440
+ American astronauts in orbit and Mariner on its way to Venus.
+
+86
+00:10:59,890 --> 00:11:03,540
+ The first woman in space is Russian, Valentina Tarechkova.
+
+87
+00:11:04,360 --> 00:11:07,540
+ An American, Gordon Cooper, circles the Earth 22 times.
+
+88
+00:11:09,930 --> 00:11:12,970
+ American champ, Lyndon Johnson.
+
+89
+00:11:16,530 --> 00:11:20,430
+ What do you want, Comrade Leonid?
+
+90
+00:11:20,610 --> 00:11:23,110
+ No, it's my play. I take your place.
+
+91
+00:11:23,190 --> 00:11:23,530
+ Net!
+
+92
+00:11:23,790 --> 00:11:24,410
+ Go away.
+
+93
+00:11:25,140 --> 00:11:28,910
+ A new champion for the Soviet Union, Comrade Leonid Brezhnev.
+
+94
+00:11:37,580 --> 00:11:43,070
+ Snapshots of the moon might interest you.
+
+95
+00:11:43,170 --> 00:11:45,770
+ We took him from our satellite that's going around the moon.
+
+96
+00:11:46,750 --> 00:11:49,270
+ The Soviet Leonov is the first to go for a spacewalk.
+
+97
+00:11:49,270 --> 00:11:52,830
+ It lasted 10 minutes, and then an American, white, took one for 21 minutes.
+
+98
+00:11:53,570 --> 00:11:56,010
+ The first round is won by the Soviet Union, 2114.
+
+99
+00:12:05,130 --> 00:12:07,810
+ Merci beaucoup.
+
+100
+00:12:15,290 --> 00:12:17,600
+ This is our first satellite in orbit.
+
+101
+00:12:19,120 --> 00:12:27,230
+ There were dozens of various satellites in orbit going around the Earth.
+
+102
+00:12:27,230 --> 00:12:31,140
+ It had been sent to Venus, Mars, even to the Sun.
+
+103
+00:12:32,670 --> 00:12:35,710
+ No one had ever walked on anything other than the planet Earth.
+
+104
+00:12:35,790 --> 00:12:36,510
+ Not so far.
+
+105
+00:12:36,890 --> 00:12:39,990
+ Neil Armstrong had been chosen for the American space program.
+
+106
+00:12:40,490 --> 00:12:44,170
+ He will go down in history as a great explorer of the modern era.
+
+107
+00:12:57,350 --> 00:12:58,990
+ We have to approach and then dock.
+
+108
+00:13:04,140 --> 00:13:05,020
+ Preparing for docking, over.
+
+109
+00:13:06,860 --> 00:13:08,720
+ Operation a success. We appear stable.
+
+110
+00:13:19,670 --> 00:13:20,650
+ Engine fired on its own.
+
+111
+00:13:24,320 --> 00:13:27,770
+ Round like a...
+
+112
+00:13:27,770 --> 00:13:29,120
+ Have to disengage.
+
+113
+00:13:29,880 --> 00:13:32,710
+ I've got to find a way or we won't make it.
+
+114
+00:13:42,190 --> 00:13:52,340
+ Approaching the Pacific.
+
+115
+00:13:54,030 --> 00:13:54,730
+ Shook up.
+
+116
+00:13:58,860 --> 00:13:59,880
+ Turned Earth's atmosphere.
+
+117
+00:14:00,240 --> 00:14:01,840
+ Getting very hot, but we're okay.
+
+118
+00:14:12,050 --> 00:14:24,000
+ This space race match is becoming very exciting.
+
+119
+00:14:25,060 --> 00:14:26,580
+ This game will be decisive.
+
+120
+00:14:28,280 --> 00:14:30,910
+ Piece of the moon?
+
+121
+00:14:31,020 --> 00:14:31,940
+ It's a promise, Mark.
+
+122
+00:14:40,430 --> 00:15:00,510
+ Time for you to get up.
+
+123
+00:15:26,980 --> 00:15:34,500
+ 60 seconds and counting.
+
+124
+00:15:34,890 --> 00:15:36,240
+ T-minus 50 seconds.
+
+125
+00:15:36,860 --> 00:15:38,240
+ Heart rate, 75 per minute.
+
+126
+00:15:38,480 --> 00:15:40,120
+ All systems are go and counting.
+
+127
+00:15:41,460 --> 00:15:42,220
+ Astronauts ready.
+
+128
+00:15:42,360 --> 00:15:42,960
+ 10 seconds.
+
+129
+00:15:43,100 --> 00:15:47,660
+ Nine, eight, seven, six, five, four, three, two, one, zero.
+
+130
+00:15:48,410 --> 00:15:48,690
+ Mission.
+
+131
+00:16:15,760 --> 00:16:30,650
+ Second station.
+
+132
+00:16:31,610 --> 00:16:32,360
+ It's in Earth orbit.
+
+133
+00:16:49,900 --> 00:16:50,300
+ Destination.
+
+134
+00:16:53,880 --> 00:16:55,040
+ In a weightless state.
+
+135
+00:17:01,960 --> 00:17:02,880
+ Separate third stage.
+
+136
+00:17:04,930 --> 00:17:08,020
+ The maneuver to turn us around.
+
+137
+00:17:08,610 --> 00:17:09,730
+ Attaching the litter module.
+
+138
+00:17:13,010 --> 00:17:15,750
+ Mission completed.
+
+139
+00:17:16,250 --> 00:17:17,790
+ Eagle is attached to command.
+
+140
+00:17:19,560 --> 00:17:24,780
+ Do something, the sun will roast us like so many chickens.
+
+141
+00:17:25,180 --> 00:17:26,410
+ Give us a little spin.
+
+142
+00:17:27,370 --> 00:17:28,880
+ Three rotations an hour.
+
+143
+00:17:34,970 --> 00:17:37,520
+ Still, Neil, you're about to be a TV star.
+
+144
+00:17:42,840 --> 00:17:51,770
+ Full star, Sirius Vega.
+
+145
+00:17:51,770 --> 00:17:55,770
+ The computers taking our bearing were precisely 255,000 kilometers from the moon.
+
+146
+00:17:56,090 --> 00:17:57,020
+ Let's sleep.
+
+147
+00:17:57,020 --> 00:17:59,580
+ Look at that!
+
+148
+00:17:59,580 --> 00:18:09,600
+ Accelerate.
+
+149
+00:18:09,600 --> 00:18:10,600
+ Fifteen hundred kilometers.
+
+150
+00:18:10,600 --> 00:18:14,550
+ You will be hidden from Earth over the hidden face of the moon.
+
+151
+00:18:14,550 --> 00:18:17,570
+ Engine ignition to achieve lunar orbit.
+
+152
+00:18:17,570 --> 00:18:18,570
+ Our speed?
+
+153
+00:18:18,570 --> 00:18:20,490
+ Eight thousand kilometers an hour.
+
+154
+00:18:20,490 --> 00:18:21,550
+ Seven thousand six.
+
+155
+00:18:21,550 --> 00:18:22,550
+ Five thousand eight hundred.
+
+156
+00:18:22,550 --> 00:18:23,510
+ You are in orbit.
+
+157
+00:18:23,510 --> 00:18:26,370
+ Checking out systems on the Eagle.
+
+158
+00:18:26,370 --> 00:18:31,790
+ Buzz, let's do it.
+
+159
+00:18:31,790 --> 00:18:37,900
+ Systems are go.
+
+160
+00:18:37,900 --> 00:18:38,900
+ We can separate lunar module.
+
+161
+00:18:38,900 --> 00:18:40,900
+ Ready to release in ten seconds.
+
+162
+00:18:40,900 --> 00:18:44,900
+ Nine, eight, seven, six, five, four, three, two, one.
+
+163
+00:18:44,900 --> 00:18:45,900
+ Releasing now.
+
+164
+00:18:45,900 --> 00:18:48,500
+ It's free.
+
+165
+00:18:48,500 --> 00:18:51,170
+ Eagle, do you read me? Eagle, do you copy?
+
+166
+00:18:51,430 --> 00:18:52,590
+ Roger, loud and clear.
+
+167
+00:18:52,950 --> 00:18:53,970
+ All systems are go.
+
+168
+00:18:54,530 --> 00:18:56,940
+ The Eagle has wings, ready for moon landing.
+
+169
+00:18:57,900 --> 00:18:59,840
+ Now is when the crucial decision has to be taken.
+
+170
+00:19:00,230 --> 00:19:02,430
+ Then there was no going back, all or nothing.
+
+171
+00:19:03,360 --> 00:19:05,520
+ It had to be perfect the first time, otherwise.
+
+172
+00:19:05,940 --> 00:19:06,820
+ Otherwise what?
+
+173
+00:19:06,960 --> 00:19:08,100
+ Otherwise they were lost.
+
+174
+00:19:08,500 --> 00:19:11,400
+ They couldn't get back, not enough fuel to return to orbit.
+
+175
+00:19:11,870 --> 00:19:14,030
+ Nobody could ever go and rescue them.
+
+176
+00:19:14,730 --> 00:19:16,070
+ For them, it would be the end.
+
+177
+00:19:16,070 --> 00:19:19,990
+ All systems go, activating engines to leave moon orbit, descending.
+
+178
+00:19:21,750 --> 00:19:40,640
+ Zero two.
+
+179
+00:19:40,640 --> 00:19:43,690
+ Saturated. Directing us toward a crater full of rocks.
+
+180
+00:19:43,690 --> 00:19:48,180
+ The computer couldn't take any more data.
+
+181
+00:19:48,180 --> 00:19:50,180
+ In a few seconds, it's moon landing.
+
+182
+00:19:50,180 --> 00:19:52,180
+ Great boulders. The moon module could overturn.
+
+183
+00:19:52,180 --> 00:19:54,170
+ A catastrophe.
+
+184
+00:19:54,170 --> 00:19:56,150
+ Only one solution. To act quickly.
+
+185
+00:19:56,150 --> 00:19:58,910
+ Now switching to manual control.
+
+186
+00:19:58,910 --> 00:20:01,320
+ It's our only chance. Quick, find a landing site.
+
+187
+00:20:01,320 --> 00:20:03,440
+ Looks good over there. Three degrees left.
+
+188
+00:20:03,440 --> 00:20:08,830
+ Not over there, not too bad.
+
+189
+00:20:08,830 --> 00:20:11,020
+ We'll go for it. Don't have much choice.
+
+190
+00:20:11,020 --> 00:20:16,600
+ We'll run out of fuel.
+
+191
+00:20:16,600 --> 00:20:22,860
+ Sweat. Too much dust.
+
+192
+00:20:22,860 --> 00:20:25,860
+ Can't see anything. We're going to land.
+
+193
+00:20:25,860 --> 00:20:26,820
+ Touchdown, cut the motors.
+
+194
+00:20:28,330 --> 00:20:30,250
+ Mission Control, Tranquility Base.
+
+195
+00:20:30,450 --> 00:20:31,410
+ The Eagle has landed.
+
+196
+00:20:36,390 --> 00:20:37,150
+ Sea of Tranquility.
+
+197
+00:20:37,520 --> 00:20:39,510
+ We could use a little Tranquility right now.
+
+198
+00:20:39,630 --> 00:20:40,010
+ Right, Collins?
+
+199
+00:20:40,330 --> 00:20:41,670
+ More precision.
+
+200
+00:20:42,160 --> 00:20:45,360
+ We don't know, I'm afraid.
+
+201
+00:20:45,600 --> 00:20:46,560
+ You don't know where?
+
+202
+00:20:47,220 --> 00:20:48,870
+ Mission Control calling Collins.
+
+203
+00:20:48,990 --> 00:20:49,550
+ Do you read me?
+
+204
+00:20:50,010 --> 00:20:50,940
+ Loud and clear.
+
+205
+00:20:51,470 --> 00:20:52,160
+ The module.
+
+206
+00:20:52,430 --> 00:20:53,570
+ Down on the moon, I guess.
+
+207
+00:20:53,790 --> 00:20:55,070
+ But where, Collins, where?
+
+208
+00:20:55,220 --> 00:20:56,060
+ I don't really know.
+
+209
+00:20:56,390 --> 00:20:57,530
+ Stay in contact, Collins.
+
+210
+00:20:57,950 --> 00:21:00,090
+ Negative, entering shadow area of the moon.
+
+211
+00:21:00,090 --> 00:21:02,770
+ Come in, Collins.
+
+212
+00:21:02,950 --> 00:21:03,270
+ Come in.
+
+213
+00:21:03,720 --> 00:21:04,400
+ Come in.
+
+214
+00:21:05,920 --> 00:21:08,260
+ There's no point in trying.
+
+215
+00:21:08,360 --> 00:21:09,220
+ He's behind the moon.
+
+216
+00:21:09,530 --> 00:21:11,310
+ From there, no contact can be made.
+
+217
+00:21:11,350 --> 00:21:14,140
+ We've lost them. They'll die on the moon, and they'll know they're going to die.
+
+218
+00:21:14,930 --> 00:21:16,480
+ We'll find them. A lunar map.
+
+219
+00:21:22,020 --> 00:21:23,860
+ Oh, wrong one. And not that one.
+
+220
+00:21:24,370 --> 00:21:26,590
+ They're here. Collins will check it.
+
+221
+00:21:27,200 --> 00:21:29,000
+ Collins is still behind the moon.
+
+222
+00:21:29,460 --> 00:21:30,160
+ To wait.
+
+223
+00:21:39,980 --> 00:21:44,070
+ Me.
+
+224
+00:21:44,830 --> 00:21:47,760
+ Roger, Collins. Loud and clear. And you?
+
+225
+00:21:48,050 --> 00:21:49,100
+ Five by five.
+
+226
+00:21:49,810 --> 00:21:54,470
+ Okay, we want you to check. We think they're in the West Crater about 500 meters in.
+
+227
+00:21:54,690 --> 00:21:55,560
+ Are you sure?
+
+228
+00:21:56,080 --> 00:21:56,950
+ Sure.
+
+229
+00:21:57,530 --> 00:21:59,060
+ Okay, I'll take a look.
+
+230
+00:21:59,060 --> 00:22:02,540
+ Guess we'll be needing a shave soon, huh?
+
+231
+00:22:03,600 --> 00:22:05,540
+ Right, to work. Full checkup, okay?
+
+232
+00:22:08,350 --> 00:22:14,740
+ Systems are go. Electronic circuits, pressure, oxygen, cooling system, TV transmitter.
+
+233
+00:22:15,310 --> 00:22:20,860
+ We put on support system. We need these to survive on the moon.
+
+234
+00:22:21,340 --> 00:22:22,720
+ So we can breathe.
+
+235
+00:22:24,760 --> 00:22:25,590
+ Refrigeration, check.
+
+236
+00:22:25,630 --> 00:22:26,430
+ Communication, check.
+
+237
+00:22:26,530 --> 00:22:27,290
+ Ventilation, check.
+
+238
+00:22:27,990 --> 00:22:28,950
+ Pressure, check.
+
+239
+00:22:29,640 --> 00:22:30,580
+ Dehumidification, check.
+
+240
+00:22:30,700 --> 00:22:31,520
+ Purification, check.
+
+241
+00:22:31,600 --> 00:22:33,140
+ Okay, let's take a walk, all right?
+
+242
+00:22:37,280 --> 00:22:50,200
+ And open the hat. We're all set.
+
+243
+00:22:50,510 --> 00:22:52,480
+ Wait, just a second. Pressure's still too high.
+
+244
+00:22:54,270 --> 00:23:17,430
+ This is it. You say you've got us watching at home.
+
+245
+00:23:17,430 --> 00:23:21,740
+ Look, children, the moon, humanity's dream for millions of years, you realize.
+
+246
+00:23:22,060 --> 00:23:26,200
+ And now, for the first time, a man will set foot on the surface of the moon.
+
+247
+00:23:31,990 --> 00:23:52,980
+ Supposed to say, uh, one small step for a man, giant leap for mankind.
+
+248
+00:23:53,440 --> 00:23:55,340
+ I guess I kind of like what he said there.
+
+249
+00:23:55,340 --> 00:23:59,530
+ All over the world, hundreds of millions of people were glued to their TV screens.
+
+250
+00:24:01,180 --> 00:24:11,340
+ Americans, Russians, Chinese, Indians, Eskimos, people in Africa, Puan, and the French, the Italians.
+
+251
+00:24:25,610 --> 00:24:29,540
+ 1901, the United States of America wins.
+
+252
+00:24:30,140 --> 00:24:31,840
+ Were they able to come back?
+
+253
+00:24:31,840 --> 00:24:33,180
+ Yeah, of course, safe and sound.
+
+254
+00:24:33,180 --> 00:24:34,850
+ Did he bring any moon rocks back?
+
+255
+00:24:34,850 --> 00:24:35,970
+ Many of them.
+
+256
+00:24:35,970 --> 00:24:38,300
+ And the space race, wasn't it?
+
+257
+00:24:38,300 --> 00:24:40,140
+ Well, the truth is, everybody did.
+
+258
+00:24:40,140 --> 00:24:44,670
+ After the race to the moon, many countries decided to work together to pool their efforts
+
+259
+00:24:44,670 --> 00:24:47,190
+ in the conquest of space, and it's going on today.
+
+260
+00:24:47,190 --> 00:24:50,750
+ The astronauts of tomorrow, eh, maybe you'll be among them.
+
+261
+00:24:50,750 --> 00:25:00,830
+ Des mondes meilleurs, des vagabonds tout ailleurs.
+
+262
+00:25:00,830 --> 00:25:09,110
+ Voici que l'homme décolle, il va quitter le sol,
+
+263
+00:25:09,110 --> 00:25:14,850
+ mais pas dès qu'il s'envole d'autres firmaments.
+

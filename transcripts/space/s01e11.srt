@@ -1,0 +1,932 @@
+1
+00:00:16,510 --> 00:00:41,500
+ Stars, galaxy, in astral seas above, on cosmic paths we'll trace, man over wings.
+
+2
+00:01:29,530 --> 00:02:22,430
+ T is such a wonder thing, behind us all come see, come take your place, we're leaving soon for...
+
+3
+00:02:22,430 --> 00:03:09,940
+ There's no seven seriously so far, and you are in the second category, Captain.
+
+4
+00:03:10,220 --> 00:03:15,640
+ If you continue to ignore my instructions, and they are very precise, absolute rest,
+
+5
+00:03:15,900 --> 00:03:19,140
+ then, Captain, I cannot be responsible for the consequences. I mean that.
+
+6
+00:03:19,140 --> 00:03:21,310
+ Now I'll return to my patients.
+
+7
+00:03:21,890 --> 00:03:24,710
+ Please send a detail of men to bury the three who died.
+
+8
+00:03:25,630 --> 00:03:27,600
+ Three dead, four re-wounded.
+
+9
+00:03:27,800 --> 00:03:31,460
+ Not as bad as I feared, considering the force with which we hit the ground.
+
+10
+00:03:31,760 --> 00:03:34,700
+ The truth is, when the crash came, I thought we were goners.
+
+11
+00:03:35,060 --> 00:03:37,280
+ Go on, Norrell. What are the chances of fixing the ship?
+
+12
+00:03:37,420 --> 00:03:40,440
+ Well, sir, the motor area was heavily damaged when we hit.
+
+13
+00:03:40,690 --> 00:03:44,380
+ It's such a mess now, there's no way of telling to what degree it was destroyed.
+
+14
+00:03:44,660 --> 00:03:47,040
+ It'll take three or four days to assess the damage.
+
+15
+00:03:47,040 --> 00:03:50,940
+ But she's a well-constructed craft, and the engines are good, solid construction.
+
+16
+00:03:51,240 --> 00:03:52,640
+ It could then take three or four weeks.
+
+17
+00:03:53,260 --> 00:03:57,410
+ Captain, even if the engines function, the spaceship itself is beyond repair.
+
+18
+00:03:57,690 --> 00:04:02,420
+ True, Lieutenant, but if we can get the engines to fire, we'll manage the rest.
+
+19
+00:04:02,520 --> 00:04:03,820
+ You'll see, there's always a way.
+
+20
+00:04:04,200 --> 00:04:07,980
+ On that optimistic note, I'd like to know what our chief navigator thinks.
+
+21
+00:04:08,440 --> 00:04:09,570
+ Oh, I don't know, Captain.
+
+22
+00:04:09,850 --> 00:04:12,670
+ Where we are, even this constellation, it isn't charted.
+
+23
+00:04:13,120 --> 00:04:14,280
+ No indication at all.
+
+24
+00:04:14,360 --> 00:04:15,480
+ It's curious all the same.
+
+25
+00:04:15,540 --> 00:04:18,080
+ A large green planet with a red sun, no other body.
+
+26
+00:04:18,080 --> 00:04:20,200
+ We need one more to do triangular plotting.
+
+27
+00:04:20,360 --> 00:04:21,600
+ There's no way otherwise.
+
+28
+00:04:22,140 --> 00:04:23,180
+ What about the radio?
+
+29
+00:04:23,520 --> 00:04:27,960
+ Do you think that Omega or even one of our ships would receive one of our distress signals?
+
+30
+00:04:28,340 --> 00:04:29,680
+ It's difficult to say.
+
+31
+00:04:29,920 --> 00:04:31,580
+ Disturbances caused by the explosion.
+
+32
+00:04:31,960 --> 00:04:35,140
+ There's never been a situation like this one, at least not in my time.
+
+33
+00:04:35,320 --> 00:04:39,100
+ Wouldn't you say repairing the radio ought to be our number one priority, Captain?
+
+34
+00:04:39,430 --> 00:04:41,290
+ Thank you for your advice, Lieutenant.
+
+35
+00:04:41,450 --> 00:04:42,830
+ That idea had occurred to us.
+
+36
+00:04:42,830 --> 00:04:44,770
+ Our radio is in little pieces, I know.
+
+37
+00:04:44,950 --> 00:04:47,810
+ Try to rig up something that will get a signal off on shortwave.
+
+38
+00:04:47,890 --> 00:04:49,910
+ In the meantime, we'll have to see to our survival.
+
+39
+00:04:50,370 --> 00:04:54,370
+ Survival here? But you realize, Captain, it's out of the question. We can't survive here for long.
+
+40
+00:04:54,600 --> 00:04:57,320
+ Why can't we? All things considered, we were quite lucky.
+
+41
+00:04:57,730 --> 00:05:00,850
+ This is a relatively old planet. There isn't one active volcano here.
+
+42
+00:05:01,260 --> 00:05:04,560
+ We have to look around and consider all the advantages it has to offer.
+
+43
+00:05:04,800 --> 00:05:06,280
+ There must be animal life here.
+
+44
+00:05:06,630 --> 00:05:09,520
+ You say it, but no observation has detected any life.
+
+45
+00:05:10,130 --> 00:05:16,150
+ Aha! Remember, young men, the fact of finding no recognizable technology proves nothing as to the presence of life form.
+
+46
+00:05:16,250 --> 00:05:18,770
+ It could well show itself in an altogether different way.
+
+47
+00:05:18,770 --> 00:05:21,550
+ Quite so, quite so. The sooner we know, the better. Off you go.
+
+48
+00:05:21,790 --> 00:05:24,130
+ Carry out full reconnaissance. You're a geologist, I believe.
+
+49
+00:05:24,410 --> 00:05:27,950
+ Do I go with him, Captain? There are certain investigations I'd like to carry out.
+
+50
+00:05:28,130 --> 00:05:30,990
+ These young people are fully qualified. No, I need you here.
+
+51
+00:05:31,130 --> 00:05:33,690
+ The truth is, there's so much to do, I don't know where to begin.
+
+52
+00:05:34,010 --> 00:05:36,170
+ There are a thousand and one details to see to.
+
+53
+00:05:36,290 --> 00:05:38,270
+ Why not let me organize things? I do it very well.
+
+54
+00:05:38,830 --> 00:05:41,160
+ All right, little fellow, let's see what you can do.
+
+55
+00:05:43,060 --> 00:05:47,280
+ Given the presence of large forests and the particular quantity of oxygen and nitrogen,
+
+56
+00:05:47,380 --> 00:05:48,600
+ we will certainly find some sort of food.
+
+57
+00:05:48,600 --> 00:05:54,820
+ Needless to say, priority number one is survival, and that means food, and that is alimentary, so to speak, a necessity for you, not for me.
+
+58
+00:05:55,240 --> 00:05:59,720
+ Second priority, setting up teams to reassemble and repair the damaged structure and equipment.
+
+59
+00:06:00,020 --> 00:06:06,580
+ And third, since we cannot possibly live in the spaceship in its present condition, you must cut trees for wood, build houses, and build a hospital.
+
+60
+00:06:06,880 --> 00:06:10,000
+ About an hour from here, we found clay. We can make building bricks.
+
+61
+00:06:10,580 --> 00:06:13,820
+ We can float the clay here on large rafts if we want to.
+
+62
+00:06:14,640 --> 00:06:17,340
+ We're leaving now, Captain. Take care of yourself, sir.
+
+63
+00:06:17,600 --> 00:06:20,290
+ Don't let the captain overtire himself, Mr. Sanders.
+
+64
+00:06:20,830 --> 00:06:23,540
+ And are you taking this brilliant fellow along with you?
+
+65
+00:06:23,940 --> 00:06:25,420
+ The three of us are a team, sir.
+
+66
+00:06:25,730 --> 00:06:27,150
+ We sort of count on each other.
+
+67
+00:06:27,310 --> 00:06:29,310
+ Don't worry. We'll return as soon as we can.
+
+68
+00:06:29,590 --> 00:06:31,110
+ Hurry! Evacuate the ship!
+
+69
+00:06:31,500 --> 00:06:34,350
+ Captain, the Ursus is in danger of sliding away. Brace it up.
+
+70
+00:06:34,520 --> 00:06:36,300
+ Brace it up? What an idea.
+
+71
+00:06:37,350 --> 00:06:39,390
+ Everyone who can work is already detailed.
+
+72
+00:06:39,510 --> 00:06:42,070
+ They're all out working. Who could do it and with what?
+
+73
+00:06:42,640 --> 00:06:46,670
+ Anyway, the ship is in no danger as is. What nonsense!
+
+74
+00:06:46,670 --> 00:06:49,370
+ Don't you worry. We'll watch it and do whatever's necessary.
+
+75
+00:07:00,560 --> 00:08:05,440
+ shade over there. I would say that they are mammals of the plasticine era. They are mammals,
+
+76
+00:08:05,620 --> 00:08:09,940
+ and all mammals are edible, no matter in what environment they have found, because their
+
+77
+00:08:09,940 --> 00:08:19,880
+ biochemical bases are the same. We shouldn't go any farther. We'll set up camp here, and that's
+
+78
+00:08:19,880 --> 00:08:24,160
+ enough for one day. Let's set up camp on that mound over there. It'll make a good observation
+
+79
+00:08:24,160 --> 00:08:33,380
+ point. It looks to me as if we're edge of a galaxy. Hey, Lieutenant! Long way from any true
+
+80
+00:08:33,380 --> 00:08:37,590
+ civilization, but it's only a guess, really. I can't be sure. I would suggest that you go to sleep.
+
+81
+00:08:37,590 --> 00:08:42,080
+ you're tired. I will stay on guard and I will make a few observations of my own in any case.
+
+82
+00:08:42,180 --> 00:08:46,260
+ I am the most competent here as you would expect. Well, anyway, I'll watch the sky and I'll figure
+
+83
+00:08:46,260 --> 00:09:15,780
+ out where we are. Good night. That's curious. Psyche, look, I think this proves there's a
+
+84
+00:09:15,780 --> 00:09:23,060
+ civilization here. May I announce that I have discovered a resinous secretion on certain trees
+
+85
+00:09:23,060 --> 00:09:31,500
+ which is subjected to heat can prove to be very useful. Quite interesting, really. I'm think sure
+
+86
+00:09:31,500 --> 00:09:35,580
+ he's in the spider family. Could he be the one, I mean, the creature who carved the stone I found?
+
+87
+00:09:35,890 --> 00:09:39,420
+ I don't think so. It doesn't look as if he could hold on to that stone to work it.
+
+88
+00:09:40,220 --> 00:09:44,340
+ I'll tell you one thing. This is the strangest planet we've seen so far.
+
+89
+00:09:44,700 --> 00:09:48,370
+ You know, you humans always think it's strange. Any creature that doesn't resemble you.
+
+90
+00:09:48,670 --> 00:09:51,730
+ True, we are abroad, as they say. Naturally, creatures are unlike you.
+
+91
+00:09:51,810 --> 00:09:55,800
+ But consider, it wasn't so very long ago, a few hundred million years on Earth,
+
+92
+00:09:55,880 --> 00:09:57,920
+ the creatures didn't look much like you either.
+
+93
+00:09:58,440 --> 00:10:04,110
+ I recall to you the Splendous Clutosaurus and the Demetrodon and the Cignathosaurus.
+
+94
+00:10:04,110 --> 00:10:08,270
+ Very nice in its way. And there is also the Moa and the Tyrannosaurus.
+
+95
+00:10:11,100 --> 00:10:14,180
+ Have a look over there.
+
+96
+00:10:14,380 --> 00:10:15,320
+ No, Pierrot, no.
+
+97
+00:10:15,720 --> 00:10:16,630
+ What's wrong?
+
+98
+00:10:17,480 --> 00:10:21,810
+ It's got another signal. It was a warning. We're in danger.
+
+99
+00:10:22,120 --> 00:10:23,400
+ We're in danger? What is it?
+
+100
+00:10:23,460 --> 00:10:25,180
+ Bad creatures are all around.
+
+101
+00:10:34,070 --> 00:10:40,560
+ That's fascinating.
+
+102
+00:10:42,780 --> 00:10:45,320
+ We have to fire in self-defense. Here it goes.
+
+103
+00:10:52,320 --> 00:10:57,080
+ Let's calm them down a little.
+
+104
+00:10:57,570 --> 00:10:59,540
+ No, Pierrot. They will return.
+
+105
+00:11:13,320 --> 00:11:30,950
+ We're in our weapons in self-defense. Post guards at the camp. They're ferocious. They're here.
+
+106
+00:11:30,950 --> 00:12:32,720
+ He says they just won their first victory over their enemies, the ferocious Xavus.
+
+107
+00:12:33,020 --> 00:12:35,930
+ To thank us, they will always come to our assistance anyway.
+
+108
+00:12:36,570 --> 00:12:40,410
+ I've just thanked them and promised that if ever they need our assistance...
+
+109
+00:12:40,410 --> 00:13:21,480
+ No one in the spaceship at the time.
+
+110
+00:13:21,780 --> 00:13:26,620
+ Now, barring some unlikely rescue mission, we must resign ourselves to spending the rest of our lives.
+
+111
+00:13:27,520 --> 00:13:29,900
+ Well, young geologist, what can you tell us of our new home?
+
+112
+00:13:30,250 --> 00:13:35,200
+ Well, the soil can be cultivated over large areas, and there are animals, mammals, which are always edible.
+
+113
+00:13:35,660 --> 00:13:38,550
+ There is good reason to believe they can be domesticated and even milked.
+
+114
+00:13:38,720 --> 00:13:40,840
+ We located regions of clay which we can bake.
+
+115
+00:13:41,180 --> 00:13:43,270
+ Therefore, we can make pottery and building bricks.
+
+116
+00:13:43,370 --> 00:13:47,210
+ It now remains to find a cement and sand of some sort to start construction.
+
+117
+00:13:47,350 --> 00:13:52,350
+ As for glass, I think we have a solution, but it will require prospecting and taking samples and analyzing.
+
+118
+00:13:52,410 --> 00:13:55,450
+ Lieutenant, will you describe the environment? What did you find?
+
+119
+00:13:55,870 --> 00:13:58,030
+ Well, first, I'd like to mention two animal species.
+
+120
+00:13:58,870 --> 00:13:59,890
+ They walk erect.
+
+121
+00:14:00,430 --> 00:14:04,370
+ Zabu's terrifying carnivorous creatures. At all costs, we must approach them with caution.
+
+122
+00:14:04,720 --> 00:14:08,310
+ And the little patakis, a species of primitive humanoid, essentially friendly.
+
+123
+00:14:08,550 --> 00:14:11,090
+ The difficulty at present is discovering a way of communicating with them.
+
+124
+00:14:11,090 --> 00:14:12,970
+ We're quite sure they use ESP.
+
+125
+00:14:14,220 --> 00:14:18,500
+ Following your instructions, we posted guards around the entire perimeter of the camp.
+
+126
+00:14:19,200 --> 00:14:20,600
+ And we're constructing a barrier.
+
+127
+00:14:20,910 --> 00:14:24,500
+ Yes, and it's taking men away from much more important work elsewhere.
+
+128
+00:14:25,080 --> 00:14:29,790
+ And all that because of some crazy story of monsters and telepathic bugs that may not exist.
+
+129
+00:14:30,050 --> 00:14:31,490
+ And these, do they exist?
+
+130
+00:14:31,760 --> 00:14:35,400
+ I sincerely hope that one day you are face-to-face with those creatures, then you'll see.
+
+131
+00:14:37,440 --> 00:14:38,900
+ Gentlemen, that will do.
+
+132
+00:14:39,000 --> 00:14:41,200
+ We need everyone if we're going to survive.
+
+133
+00:14:41,640 --> 00:14:44,740
+ And I'm still in command here, you understand, Sanders?
+
+134
+00:14:45,130 --> 00:14:48,040
+ How would our brilliant little friend describe the situation?
+
+135
+00:14:48,680 --> 00:14:51,500
+ Well, the brilliant little friend would say, according to his rapid calculations,
+
+136
+00:14:51,680 --> 00:14:56,320
+ We are located on another arm of this galaxy, more precisely on a satellite of a red sun,
+
+137
+00:14:56,420 --> 00:15:00,040
+ which itself was captured into the gravitational field of a blue giant star.
+
+138
+00:15:00,240 --> 00:15:03,460
+ Now the scientific explanation is once formed, a satellite of the red sun,
+
+139
+00:15:03,660 --> 00:15:05,720
+ that sun was drawn toward the larger star.
+
+140
+00:15:06,030 --> 00:15:07,670
+ I don't think we need all the details.
+
+141
+00:15:08,320 --> 00:15:09,160
+ Hey, well, if you're in a hurry.
+
+142
+00:15:09,620 --> 00:15:13,800
+ Nevertheless, I believe I am not wrong in thinking that you may be interested in the fact
+
+143
+00:15:13,800 --> 00:15:16,860
+ that this planet will not maintain life support conditions much longer.
+
+144
+00:15:17,420 --> 00:15:19,140
+ Huh? Uh-huh.
+
+145
+00:15:19,140 --> 00:15:23,330
+ That's right, in a little over 800,000 years.
+
+146
+00:15:24,100 --> 00:15:25,140
+ The winters will be harsh.
+
+147
+00:15:25,520 --> 00:15:29,560
+ In addition to building shelters, you will be required to make clothing to keep you warm.
+
+148
+00:15:29,820 --> 00:15:34,260
+ You will, no doubt, dry natural fibers found on the planet, exposing them to the heat of the sun.
+
+149
+00:15:34,520 --> 00:15:37,100
+ Then you will surely make spinning wheels and weave cloth.
+
+150
+00:15:37,400 --> 00:15:40,420
+ Water wheels will be very useful to supply power to turn the machinery.
+
+151
+00:15:40,740 --> 00:15:43,120
+ Certain resins have properties resembling rubber.
+
+152
+00:15:43,120 --> 00:15:46,600
+ They can be used to impregnate skins and produce leather to make shoes.
+
+153
+00:15:46,940 --> 00:15:51,200
+ Later, you should wish perhaps to create light using windmills constructing dams.
+
+154
+00:15:51,260 --> 00:15:53,540
+ Later, you can increase the comfort of your houses with furniture.
+
+155
+00:15:53,660 --> 00:15:58,620
+ And finally, for tools, you might construct solar ovens to cast metal into any form according to your needs.
+
+156
+00:15:58,880 --> 00:16:00,260
+ I assure you, there is metal here.
+
+157
+00:16:00,660 --> 00:16:01,700
+ It is in that direction.
+
+158
+00:16:02,220 --> 00:16:04,300
+ It is difficult to say with precision how much...
+
+159
+00:16:04,300 --> 00:16:05,420
+ Yes, yes, thank you.
+
+160
+00:16:05,500 --> 00:16:06,340
+ No question about it.
+
+161
+00:16:06,340 --> 00:16:07,700
+ Your contribution is important.
+
+162
+00:16:08,100 --> 00:16:10,560
+ With respect, Captain, I have not completed my report.
+
+163
+00:16:10,890 --> 00:16:14,590
+ I would suggest repairing our radio to attract any possible passing spaceship.
+
+164
+00:16:14,590 --> 00:16:18,430
+ We patched it up, but it won't send a signal beyond our ionosphere.
+
+165
+00:16:18,880 --> 00:16:20,100
+ How annoying all of you can be.
+
+166
+00:16:20,320 --> 00:16:25,800
+ Please, don't interrupt. Clearly, you must position the radio transmitter outside this planet's ionosphere.
+
+167
+00:16:26,470 --> 00:16:27,220
+ You don't say?
+
+168
+00:16:27,300 --> 00:16:34,100
+ Of course, of course. We all agree you're right, my lad. A satellite out in orbit, yes, but how do we do it?
+
+169
+00:16:34,240 --> 00:16:39,800
+ Nothing to it. You just employ one of the shuttle vehicles in the ship to put the radio into its orbit child's plate.
+
+170
+00:16:40,460 --> 00:16:42,480
+ Metro says the metal deposits are this way.
+
+171
+00:16:42,480 --> 00:16:44,340
+ Well, too bad he's not here now to show us.
+
+172
+00:16:44,760 --> 00:16:48,230
+ He'll be much more useful at camp. Metro really knows how to take charge.
+
+173
+00:16:48,450 --> 00:16:49,750
+ I'm worried about the captain.
+
+174
+00:16:50,080 --> 00:16:54,860
+ Yes. He's still very sick. And I tell you, that's Sanders. I don't know. I don't trust him.
+
+175
+00:16:57,710 --> 00:17:02,390
+ The shuttle vehicle! They got it off the ground!
+
+176
+00:17:05,110 --> 00:17:11,880
+ I'll take the first watch.
+
+177
+00:17:12,230 --> 00:17:15,270
+ No, you sleep. My vibrations tell me we're not in danger.
+
+178
+00:17:18,090 --> 00:17:26,420
+ Let's go have a look over there, behind that plateau.
+
+179
+00:17:28,760 --> 00:17:33,170
+ We should rest in the shade.
+
+180
+00:17:34,870 --> 00:17:35,710
+ Mm-mm, no.
+
+181
+00:17:44,510 --> 00:18:01,060
+ Metro to be wrong. No metal posits here.
+
+182
+00:18:01,210 --> 00:18:05,720
+ Well, maybe it's further on. Probably over there, on the other side of those craters.
+
+183
+00:18:09,020 --> 00:18:15,810
+ I hate to have one of those ape characters reappear for another round. They could be anywhere.
+
+184
+00:18:15,810 --> 00:18:18,580
+ I don't think we'll run into them. We're not in danger.
+
+185
+00:18:18,940 --> 00:18:20,440
+ If we were, they would tell me.
+
+186
+00:18:20,680 --> 00:18:21,980
+ They would tell you. Oh, great.
+
+187
+00:18:26,060 --> 00:18:30,440
+ Keys are coming.
+
+188
+00:18:38,320 --> 00:18:47,100
+ He says we should be careful.
+
+189
+00:18:47,960 --> 00:18:50,790
+ He says right ahead are some terrible creatures.
+
+190
+00:18:51,030 --> 00:18:51,890
+ The horrible green apes?
+
+191
+00:18:52,190 --> 00:18:54,080
+ No, a species that resembles us.
+
+192
+00:18:54,160 --> 00:18:56,550
+ They resemble us? How do they know things like that?
+
+193
+00:18:56,780 --> 00:18:58,110
+ He just received a message.
+
+194
+00:18:58,540 --> 00:18:59,720
+ Oh, sure, he got a telegram.
+
+195
+00:19:00,620 --> 00:19:02,600
+ Oh, by telepathy.
+
+196
+00:19:02,960 --> 00:19:05,620
+ He's in constant contact with all his people by telepathy.
+
+197
+00:19:05,960 --> 00:19:08,890
+ He's surprised that we need radio transmitters to communicate.
+
+198
+00:19:09,270 --> 00:19:12,380
+ He says only way to know what's in someone's mind.
+
+199
+00:19:12,380 --> 00:19:54,280
+ he's right sure he's right meanwhile can he take us to our cousins yes he'll take us let's go ship
+
+200
+00:19:54,280 --> 00:20:00,330
+ from cassiopeia that's the metal that metro said we would find oh look one of their expedition is
+
+201
+00:20:00,330 --> 00:20:05,720
+ going toward our camp we have to warn them that they're in danger the radio no don't do that
+
+202
+00:20:05,720 --> 00:20:19,640
+ they'll receive the signal the only way is for us to get back to the camp first come on says use
+
+203
+00:20:19,640 --> 00:20:24,120
+ the stream it turns into rapids but how can we there isn't time for us to construct a raft
+
+204
+00:20:24,120 --> 00:20:26,370
+ You've forgotten they're our friends.
+
+205
+00:20:26,370 --> 00:21:32,120
+ Six. There are 26 of them and they look well-armed.
+
+206
+00:21:32,120 --> 00:21:33,470
+ Hurry.
+
+207
+00:21:33,470 --> 00:21:49,210
+ This is exactly what we needed.
+
+208
+00:21:49,210 --> 00:21:52,260
+ He says you and I should go on.
+
+209
+00:21:52,260 --> 00:21:54,530
+ He and his people will hold back the Zabus.
+
+210
+00:21:54,530 --> 00:21:56,160
+ He says he has a plan.
+
+211
+00:21:56,160 --> 00:22:08,210
+ We should go on to the camp.
+
+212
+00:22:08,210 --> 00:22:35,540
+ To see the cap.
+
+213
+00:22:35,540 --> 00:22:39,710
+ That what you wanted?
+
+214
+00:22:39,710 --> 00:22:42,820
+ All the same, Saunders. I just told you there's no time to lose.
+
+215
+00:22:42,820 --> 00:22:44,610
+ In less than two hours they'll be here.
+
+216
+00:22:44,610 --> 00:22:48,570
+ We have to put up defense barricades, station them in, issue weapons.
+
+217
+00:22:48,570 --> 00:22:49,820
+ Come on, Saunders.
+
+218
+00:22:49,820 --> 00:22:52,380
+ Are you refusing to carry out your duty?
+
+219
+00:22:52,380 --> 00:22:56,710
+ Look, Lieutenant, I don't see why we can't discuss the situation with them.
+
+220
+00:22:56,990 --> 00:23:04,410
+ But you must understand, the only way that you can discuss things with the Cassiopeans is from a position of superior force. That's all they understand.
+
+221
+00:23:04,730 --> 00:23:10,870
+ We are in no position to fight them. We have almost no weapons, and our survivors hardly inspire confidence.
+
+222
+00:23:12,060 --> 00:23:17,720
+ What idea of what will happen to them if they fall into the hands of the Cassiopeans?
+
+223
+00:23:17,990 --> 00:23:24,860
+ We have decided we would rather go on living under the Cassiopeans than die glorious heroes. Isn't that right, you guys?
+
+224
+00:23:25,660 --> 00:23:29,400
+ Lieutenant, I order you to organize immediate resistance.
+
+225
+00:23:29,400 --> 00:23:31,290
+ You aren't ordering anyone here.
+
+226
+00:23:31,290 --> 00:23:35,100
+ See, I'm the one in command here, not you, Lieutenant.
+
+227
+00:23:35,100 --> 00:23:37,400
+ And you are refusing to follow orders.
+
+228
+00:23:37,400 --> 00:23:39,690
+ Arrest this officer. Lock him up.
+
+229
+00:23:39,690 --> 00:24:11,190
+ You guys, go on, shoot him!
+
+230
+00:24:11,190 --> 00:24:14,580
+ Managed to find all that metal that I detected.
+
+231
+00:24:14,580 --> 00:24:19,600
+ It was quite a quantity, I suppose. A game or something?
+
+232
+00:24:19,600 --> 00:24:29,490
+ Down the shuttle vehicle.
+
+233
+00:24:29,490 --> 00:24:38,010
+ Repeat, transport ship is now circling the planet and sending shuttle vehicles.
+
