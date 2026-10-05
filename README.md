@@ -5,11 +5,11 @@ A fan-made, episode-by-episode fact check of six of Albert Barillé's *Once Upon
 
 **Read it here: https://shivan2418.github.io/once-upon-a-time-fact-check/**
 
-We love these series and still recommend them. They were also made decades ago, so this is a companion for watching them today: every point quotes the line, gives the timestamp, and says what we know now. Each point is labelled *Outdated* (later research changed it), *Common belief then* (specialists knew better, popular books didn't) or *Wrong in its day*.
+We love these series and still recommend them: watch them free on the official [Hello Maestro YouTube channel](https://www.youtube.com/@onceuponatimechannel). They were also made decades ago, so this is a companion for watching them today: every point quotes the line, gives the timestamp, and says what we know now. Each point is labelled *Outdated* (later research changed it), *Common belief then* (specialists knew better, popular books didn't) or *Wrong in its day*.
 
 ## How it was made
 
-Episodes from the official Hello Maestro YouTube uploads were transcribed with Whisper (large-v3-turbo, via whisper.cpp), then each transcript was read in full and fact-checked by Anthropic's Claude, with quotes verified word for word against the transcript and matched back to subtitle timings. The results were reviewed and corrected by hand where we found problems, but they are AI-assisted and can contain mistakes. See the [methodology](https://shivan2418.github.io/once-upon-a-time-fact-check/#method) on the site.
+Episodes from the official [Hello Maestro YouTube](https://www.youtube.com/@onceuponatimechannel) uploads were transcribed with Whisper (large-v3-turbo, via whisper.cpp), then each transcript was read in full and fact-checked by Anthropic's Claude, with quotes verified word for word against the transcript and matched back to subtitle timings. The results were reviewed and corrected by hand where we found problems, but they are AI-assisted and can contain mistakes. See the [methodology](https://shivan2418.github.io/once-upon-a-time-fact-check/#method) on the site.
 
 ## Repository layout
 

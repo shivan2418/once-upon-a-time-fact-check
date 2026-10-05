@@ -159,6 +159,7 @@ def series_page(key, series, years, topic, missing, eps, stamps):
   <p class="kicker">Fact check · first aired {years}</p>
   <h1>{html.escape(series)}</h1>
   <p class="lede">Every episode transcribed and checked against current {html.escape(topic)}. Each point shows the episode, the moment it is said, and the exact line from the English dub (or the original French, where no English upload exists).</p>
+  <p class="key watch">Watch the episodes on the official <a href="https://www.youtube.com/@onceuponatimechannel">Hello Maestro YouTube channel</a>.</p>
   <div class="tally"><span class="o"><b>{n["outdated"]}</b>outdated by later research</span><span class="c"><b>{n["common"]}</b>common beliefs of the time</span><span class="w"><b>{n["wrong"]}</b>wrong even when it aired</span><span><b>{n_clean}</b>episodes with nothing to flag</span></div>
   <p class="key"><strong>Outdated</strong>: matched what was known at the time, but newer research changed the picture. <strong>Common belief then</strong>: specialists already knew better, but textbooks and popular books of the day still said it. <strong>Wrong in its day</strong>: a careful writer could have got it right from ordinary references; often a slip in a number, a name or the dubbing. Plain simplifications for children are not counted; they are listed under each episode. <a href="./#method">How this was made</a>.</p>
   {f'<p class="key missing">{html.escape(missing)}</p>' if missing else ''}
@@ -226,11 +227,11 @@ def index_page(cards, total, n_eps):
   <p class="kicker">A fan-made fact check</p>
   <h1>Once Upon a Time… then and now</h1>
   <p class="lede big">We love these series. Albert Barillé's <em>Once Upon a Time…</em> cartoons taught a whole generation how the body works, where we came from and who went where first, and they still hold up as some of the best educational television ever made.</p>
-  <p class="lede">They were also made between 1978 and 1996. Science has moved on, history has been rewritten in places, and a few things were simply wrong even then. This site is not a takedown. It is a companion: go ahead and watch the episodes, with your kids or on your own, and come here if you want to know which lines to take with a grain of salt.</p>
+  <p class="lede">They were also made between 1978 and 1996. Science has moved on, history has been rewritten in places, and a few things were simply wrong even then. This site is not a takedown. It is a companion: go ahead and watch the episodes (they are free on the official <a href="https://www.youtube.com/@onceuponatimechannel">Hello Maestro YouTube channel</a>), with your kids or on your own, and come here if you want to know which lines to take with a grain of salt.</p>
   <div class="tally"><span><b>{n_eps}</b>episodes checked</span><span class="o"><b>{total["outdated"]}</b>outdated</span><span class="c"><b>{total["common"]}</b>common beliefs then</span><span class="w"><b>{total["wrong"]}</b>wrong in their day</span></div>
   <h2 class="sec">The series</h2>
   <div class="cards">{grid}</div>
-  <p class="key">The episodes are on the official <a href="https://www.youtube.com/user/onceuponatimechannel">Hello Maestro YouTube channel</a>.</p>
+  <p class="key">The episodes are on the official <a href="https://www.youtube.com/@onceuponatimechannel">Hello Maestro YouTube channel</a>.</p>
 
   <h2 class="sec">How to read the checks</h2>
   <p>Every point quotes the line from the episode, gives a timestamp, and says what we know today. Points come in three kinds, because "it's wrong" means very different things for a cartoon from 1978:</p>
